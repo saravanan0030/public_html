@@ -81,12 +81,12 @@
                 <h3 class="fw-bold pb-3">Complete Project Management</h3>
                 <ul class="list-unstyled">
                     <li class="pb-3">ZESPL provides design, procurement, installation, and commissioning, along with other project management services. We guarantee flawless project completion, reducing downtime and optimizing operational effectiveness.  </li>
-                    <li class="pb-3">We make and distribute an extensive range of cable trays and accessories, offering strong and dependable cable management solutions. 
+                    <li class="pb-3">We make and distribute an extensive range of cable trays and accessories, offering strong and dependable cable management solutions.
                     </li>
                     <li class="pb-3">Our solar supporting systems are designed for lifetime and durability, guaranteeing the best possible performance of solar energy systems.  </li>
-                    <li class="pb-3">As a supplier of electrical distribution panels, we offer solutions designed to satisfy the increasing needs of contemporary electrical systems. 
+                    <li class="pb-3">As a supplier of electrical distribution panels, we offer solutions designed to satisfy the increasing needs of contemporary electrical systems.
                     </li>
-                    <li class="pb-3">The top electrical panel provider in Tamil Nadu, zelvo engineering solutions, is known for dependability and first-rate customer service. 
+                    <li class="pb-3">The top electrical panel provider in Tamil Nadu, zelvo engineering solutions, is known for dependability and first-rate customer service.
                     </li>
                 </ul>
                 <!-- <div class="w-100">
@@ -103,13 +103,13 @@
             <div class="col">
                 <h4 class="fw-bold pb-3">Our Commitments</h4>
                 <ul class="list-unstyled">
-                    <li class="pb-3">The Zelvo Engineering Solutions is to build long-term alliances with our customers. 
+                    <li class="pb-3">The Zelvo Engineering Solutions is to build long-term alliances with our customers.
 
                     </li>
-                    <li class="pb-3">We are an ISO 9001:2015 certified company. This team consists of highly qualified engineers and technicians. It provides Customized solutions meant to satisfy particular client needs based on a customer-centric approach. 
+                    <li class="pb-3">We are an ISO 9001:2015 certified company. This team consists of highly qualified engineers and technicians. It provides Customized solutions meant to satisfy particular client needs based on a customer-centric approach.
 
                     </li>
-                    <li class="pb-3">Effective and timely project delivery is operational excellence. 
+                    <li class="pb-3">Effective and timely project delivery is operational excellence.
                     </li>
                 </ul>
                 <!-- <div class="w-100">
