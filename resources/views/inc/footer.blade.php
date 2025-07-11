@@ -1,5 +1,5 @@
 <!-- footer sec -->
-<section class="py-5 bg-black rounded-md-5 rounded-5 m-md-5 m-2">
+<section class="py-5 rounded-md-5 rounded-5 m-md-5 m-2 mx-2 px-5 mx-5" style="background-color:#007aff;">
         <div class="container">
             <div class="row">
                 <div class="py-5">
@@ -8,8 +8,8 @@
             </div>
             <div class="row py-2">
                 <div class="col-lg-4 col-12 ">
-                    <h2 class="text-blue">Zelvo Engineering Solution Pvt Ltd</h2>
-                    <p class="text-white fs-10 opacity-75">Zelvo Energy Solution Pvt Ltd (ZESPL) is your reliable
+                    <h2 class="text-block">Zelvo Energy Solution Pvt Ltd</h2>
+                    <p class="text-block fs-10 ">Zelvo Energy Solution Pvt Ltd (ZESPL) is your reliable
                         partner in the energy sector, offering end-to-end solutions from inception to execution. We
                         excel in delivering advanced infrastructure for new developments, engineering construction, and
                         industrial maintenance. Our capabilities include specialized services and the supply of a
@@ -17,63 +17,70 @@
                         energy. At ZESPL, we are passionate about driving sustainable innovation to power the future.
                         Partner with us to illuminate the path toward a cleaner, greener tomorrow.</p>
                     <div class="pb-4">
-                        <h5 class="text-white">Follows Us</h5>
-                        <div class="">
-                            <a href="https://www.facebook.com/share/1AEJM1CeMr/"><i class="bi bi-facebook text-theme fs-5"></i></a>
-                            <a href="https://www.instagram.com/zelvoenergyofficial?igsh=MW56YWs2cmtja2F3dQ=="><i class="bi bi-instagram mx-2 text-theme fs-5"></i></a>
-                            <a href="https://x.com/zelvoenergy"><i class="bi bi-twitter-x me-2 text-theme fs-5"></i></a>
-                            <a href="https://www.linkedin.com/company/zelvo-energy-solution-pvt-ltd/"><i class="bi bi-linkedin text-theme fs-5"></i></a>
+                        <h6>Follows Us</h6>
+                        <div>
+                            <a href="https://www.facebook.com/share/1AEJM1CeMr/"><i class="bi bi-facebook text-dark fs-5 "></i></a>
+                            <a href="https://www.instagram.com/zelvoenergyofficial?igsh=MW56YWs2cmtja2F3dQ=="><i class="bi bi-instagram mx-2  text-dark  fs-5"></i></a>
+                            <a href="https://x.com/zelvoenergy"><i class="bi bi-twitter-x me-2 text-dark  fs-5"></i></a>
+                            <a href="https://www.linkedin.com/company/zelvo-energy-solution-pvt-ltd/"><i class="bi bi-linkedin text-dark  fs-5"></i></a>
                         </div>
                     </div>
+
+
+
                 </div>
                 <div class="col-lg-2 col-md-6 col-12 ">
                     <div class="ms-lg-5 m-0">
-                        <h3 class="text-theme">Quick Links</h3>
+                        <h3 class="text-block">Quick Links</h3>
                         <ul class="list-unstyled">
                             <li class="text-white py-2">
-                                <a href="/home" class="text-decoration-none text-white opacity-75">Home</a>
+                                <a href="/home" class="text-decoration-none text-dark ">Home</a>
                             </li>
                             <li class="text-white py-2">
-                                <a href="/services" class="text-decoration-none text-white opacity-75">Services</a>
+                                <a href="/services" class="text-decoration-none text-dark  ">Services</a>
                             </li>
                             <li class="text-white py-2">
-                                <a href="/engineeringsolutions" class="text-decoration-none text-white opacity-75">Products</a>
+                                <a href="/engineeringsolutions" class="text-decoration-none text-dark  ">Products</a>
                             </li>
                             <li class="text-white py-2">
-                                <a href="/contact-us" class="text-decoration-none text-white opacity-75">Contact Us</a>
+                                <a href="/contact-us" class="text-decoration-none text-dark  ">Contact Us</a>
                             </li>
                         </ul>
                     </div>
+                           {{-- <div class="locateus">
+ <iframe src=" https://maps.app.goo.gl/JKy6G5SEk9azStuEA" width="90%" height="480" ></iframe>
+
+</div> --}}
                 </div>
                 <div class="col-lg-2 col-md-6 col-12 ">
                     <div class="ms-lg-5 m-0">
-                        <h3 class="text-theme">Links</h3>
+                        <h3 class="text-block">Links</h3>
                         <ul class="list-unstyled">
                             <li class="text-white py-2">
-                                <a href="/about" class="text-decoration-none text-white opacity-75">About us</a>
+                                <a href="/about" class="text-decoration-none text-dark opacity-75">About us</a>
                             </li>
-                            
+
                             <li class="text-white py-2">
-                                <a href="/policy" class="text-decoration-none text-white opacity-75">Policy</a>
+                                <a href="/policy" class="text-decoration-none text-dark opacity-75">Policy</a>
                             </li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12 ">
                     <div class="me-lg-5 m-0">
-                        <h3 class="text-theme">Contact Us</h3>
+                        <h3 class="text-block">Contact Us</h3>
                         <ul class="list-unstyled">
-                            <li class="text-white py-2">
+                            <li class="text-dark py-2">
                                 <h6>Company Location</h6>
-                                <p class="fs-10 opacity-75">Zelvo Energy Solution Pvt Ltd No.150/1B, Nethaji Nagar,
+                                <p class="fs-10 opacity-75">Zelvo Energy Solution Pvt LtdNo.150/1B, Nethaji Nagar,
                                     Thanakkankulam Main Road,
                                     Thirunagar(PO), Madurai, Tamil Nadu, India, Zip – 625 006</p>
                             </li>
-                            <li class="text-white py-2">
+                            <li class="text-dark py-2">
                                 <h6>Call</h6>
                                 <p class="fs-10 opacity-75"> +91 9600 888 600</p>
                             </li>
-                            <li class="text-white py-2">
+                            <li class="text-dark py-2">
                                 <h6>Email</h6>
                                 <p class="fs-10 opacity-75">gsr@zelvoenergy.com | business@zelvoenergy.com </p>
                             </li>
@@ -81,10 +88,11 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+
+
         </div>
     </section>
-    <section class="bg-dark py-2">
+    <section class="bg-dark py-2 mx-5">
         <div class="container">
             <div class="row text-center">
                 <h6 class="text-white fs-10">Copyright © 2025 Zelvo Engineering Solution Pvt Ltd.</h6>
@@ -92,8 +100,17 @@
         </div>
     </section>
 
+{{-- footer --}}
 
 
+
+
+<style>
+    iframe{
+        width: 200%;
+        height: 50%;;
+    }
+</style>
 <!-- bootstrap -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 <!--  -->

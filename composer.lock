@@ -194,8 +194,8 @@
             ],
             "authors": [
                 {
-                    "name": "Dries Vints",
-                    "homepage": "https://driesvints.com"
+                    "name": "saravanan",
+                    "Email": "k.saravanan0030@gmail.com"
                 }
             ],
             "description": "A package to easily make use of icons in your Laravel Blade views.",
@@ -391,13 +391,7 @@
             "license": [
                 "MIT"
             ],
-            "authors": [
-                {
-                    "name": "Jordi Boggiano",
-                    "email": "j.boggiano@seld.be",
-                    "homepage": "http://seld.be"
-                }
-            ],
+
             "description": "Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.",
             "keywords": [
                 "cabundle",
@@ -458,12 +452,7 @@
             "license": [
                 "MIT"
             ],
-            "authors": [
-                {
-                    "name": "Dan Harrin",
-                    "email": "dan@danharrin.com"
-                }
-            ],
+
             "description": "Convert token-based date formats between standards.",
             "homepage": "https://github.com/danharrin/date-format-converter",
             "support": {
@@ -479,7 +468,7 @@
             "time": "2024-06-13T09:38:44+00:00"
         },
         {
-            "name": "danharrin/livewire-rate-limiting",
+
             "version": "v2.1.0",
             "source": {
                 "type": "git",
@@ -503,21 +492,12 @@
                 "phpunit/phpunit": "^9.0|^10.0|^11.5.3"
             },
             "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "DanHarrin\\LivewireRateLimiting\\": "src"
-                }
-            },
+
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
-            "authors": [
-                {
-                    "name": "Dan Harrin",
-                    "email": "dan@danharrin.com"
-                }
-            ],
+
             "description": "Apply rate limiters to Laravel Livewire actions.",
             "homepage": "https://github.com/danharrin/livewire-rate-limiting",
             "support": {
@@ -562,37 +542,12 @@
                     "dev-main": "3.x-dev"
                 }
             },
-            "autoload": {
-                "psr-4": {
-                    "Dflydev\\DotAccessData\\": "src/"
-                }
-            },
+
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
-            "authors": [
-                {
-                    "name": "Dragonfly Development Inc.",
-                    "email": "info@dflydev.com",
-                    "homepage": "http://dflydev.com"
-                },
-                {
-                    "name": "Beau Simensen",
-                    "email": "beau@dflydev.com",
-                    "homepage": "http://beausimensen.com"
-                },
-                {
-                    "name": "Carlos Frutos",
-                    "email": "carlos@kiwing.it",
-                    "homepage": "https://github.com/cfrutos"
-                },
-                {
-                    "name": "Colin O'Dell",
-                    "email": "colinodell@gmail.com",
-                    "homepage": "https://www.colinodell.com"
-                }
-            ],
+
             "description": "Given a deep data structure, access data by dot notation.",
             "homepage": "https://github.com/dflydev/dflydev-dot-access-data",
             "keywords": [
@@ -653,24 +608,7 @@
             "license": [
                 "MIT"
             ],
-            "authors": [
-                {
-                    "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@gmail.com"
-                },
-                {
-                    "name": "Roman Borschel",
-                    "email": "roman@code-factory.org"
-                },
-                {
-                    "name": "Benjamin Eberlei",
-                    "email": "kontakt@beberlei.de"
-                },
-                {
-                    "name": "Jonathan Wage",
-                    "email": "jonwage@gmail.com"
-                }
-            ],
+           
             "description": "Powerful PHP database abstraction layer (DBAL) with many features for database schema introspection and management.",
             "homepage": "https://www.doctrine-project.org/projects/dbal.html",
             "keywords": [

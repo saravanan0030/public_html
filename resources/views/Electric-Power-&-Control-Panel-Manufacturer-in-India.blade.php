@@ -1,662 +1,834 @@
 @include('inc/header')
 
+<head>
+    <title>Electric Power & Control Panel Manufacturer in India</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    {{-- button link --}}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+     <!-- bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+        {{-- button link --}}
+         <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!--  -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+{{-- AOS Link --}}
+
+    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 </style>
-<!-- Swiper -->
-<swiper-container class="mySwiper pt-cus" pagination="true" pagination-clickable="true" navigation="true"      space-between="30" centered-slides="true" autoplay-delay="2500" autoplay-disable-on-interaction="false">
-    <swiper-slide class="banner-1-bg">
-           <div class="row px-5 px-lg-0 py-5 row-cols-lg-2 row-cols-1 cus-vh-100 align-items-center justify-content-center">
-                <div class="col">
-                    <div class="text-center">
-                        <img src="assets/home/banner-1.png" width="500" class="img-fluid" alt="banner">
-                    </div>
-                </div>
-                <div class="col text-lg-start text-center">
-                    <h1 class="text-theme pb-3 fw-bold">High Quality Electric Power & Control Panel Manufacturer in India</h1>
-                    <div class="w-100">
-                        <button type="button" class="btn-primary-gradient text-center"> Explore Now</button>
-                    </div>
-                    <div class="row row-cols-lg-3 row-cols-1 justify-content-lg-start justify-content-center pt-4">
-                        <div class="col col-lg-auto pb-3">
-                            <span class="text-light fw-bold">15+ </span><span class="text-green fw-bold"> Happy Clients</span>
-                        </div>
-                        <div class="col col-lg-auto pb-3">
-                            <span class="text-light fw-bold">58+ </span><span class="text-green fw-bold"> Products</span>
-                        </div>
-                        <div class="col col-lg-auto pb-3">
-                            <span class="text-light fw-bold">16+ </span><span class="text-green fw-bold"> Years in Business</span>
-                        </div>
-                    </div>
-                </div>
+<body>
+
+
+
+    <section class="mx-5 ">
+  <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+<div class="carousel-indicators">
+  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 6"></button>
+</div>
+
+
+    <div class= "carousel-inner banner-6-bg  " >
+      <!-- Slide 1 -->
+      <div class="carousel-item active">
+        <div class="container">
+          <div class="row align-items-center justify-content-center px-5">
+            <div class="col-lg-6 col-md-6 text-center">
+              <img src="assets/home/banner-2.png" class="img-fluid w-50 rounded" alt="banner">
             </div>
-    </swiper-slide>
-    <swiper-slide class="banner-2-bg">
-    <div class="row px-5 py-lg-0 py-5 row-cols-lg-2 px-lg-0 py-5 cus-vh-100 row-cols-1 align-items-center justify-content-between">
-                <div class="col pb-4 ">
-                    <div class="text-center">
-                        <img src="assets/home/banner-2.png" class="img-fluid"  alt="banner">
-                    </div>
-                </div>
-                <div class="col text-lg-start text-center">
-                    <h2 class="text-theme pb-3 fw-bold">Auto Mains Failure Panel </h2>
-                    <ul class="text-light">
-                        <li>Modes: Manual / Semi-Auto / Fully Auto AMFS</li>
-                        <li>Construction: Modular, Non-Compartmentalized Design</li>
-                        <li>Materials: MS / MRCA / SS Panel Structure</li>
-                        <li>Types: Indoor / Outdoor Configuration</li>
-                    </ul>
-                    <div class="w-100">
-                        <button type="button" class="btn-primary-gradient text-center"> Reliable- Durable-Efficient</button>
-                    </div>
-                    
-                </div>
+            <div class="col-lg-6 col-md-6 text-lg-start text-center mt-4 mt-md-0">
+              <h2 class="text-theme pb-3 fw-bold fs-2">High Quality Electric Power & Control Panel Manufacturer in India</h2>
+                <ul class="text-light list-unstyled">
+                <li><i class="fa fa-spinner fa-spin me-2"></i> APFC Panel</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> 12V Control Panel</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Main LT Panel / PCC Panel</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Bus Coupler with Interlocking</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> 10+ Years of Success</li>
+              </ul>
+              <div class="d-flex align-items-center justify-content-center justify-content-lg-start pb-3">
+
+                <button class="explore__card-btn nw-ct-btn re-hero-btn">Explore Now <i class="bi bi-arrow-right"></i></button>
+              </div>
+
             </div>
-    </swiper-slide>
-    <swiper-slide class="banner-3-bg">
-    <div class="row px-5 py-lg-0 py-5 cus-vh-100 align-items-end justify-content-center">
-                <div class="col">
-                    <!-- <div class="text-center">
-                        <img src="assets/home/banner-1.png" width="500" class="img-fluid" alt="banner">
-                    </div> -->
-                </div>
-                <div class="col-12 pb-5">
-                    <h2 class="text-theme pb-3 fw-bold">Power Control Center Panels</h2>
-                    <ul class="text-light text-start">
-                        <li>APFC Panel</li>
-                        <li>12V Control Panel</li>
-                        <li>Main LT Panel / PCC Panel with Single or Multiple Incomers</li>
-                        <li>Bus Coupler with Electrical and/or Mechanical Interlocking</li>
-                        <li>10+ Years of Success</li>
-                    </ul>
-                    <div class="w-100">
-                        <button type="button" class="btn-primary-gradient text-center"> Explore Now</button>
-                    </div>
-                    
-                </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Slide 2 -->
+      <div class="carousel-item " >
+        <div class="container">
+          <div class="row align-items-center justify-content-center px-5">
+            <div class=" col-lg-6 col-md-6 text-lg-start text-center mt-4 mt-md-0 px-5">
+              <h2 class="text-theme pb-3 fw-bold fs-2">Auto Mains Failure Panel</h2>
+              <ul class="text-light list-unstyled ">
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Modes: Manual / Semi-Auto / Fully Auto AMFS</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Construction: Modular, Non-Compartmentalized Design</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Materials: MS / MRCA / SS Panel Structure</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Types: Indoor / Outdoor Configuration</li>
+              </ul>
+              <button class="explore__card-btn nw-ct-btn re-hero-btn mt-3">Explore Now <i class="bi bi-arrow-right"></i></button>
             </div>
-    </swiper-slide>
-    <swiper-slide class="banner-4-bg">
-    <div class="row px-5 py-lg-0 py-5 row-cols-lg-2 row-cols-1 cus-vh-100 align-content-center justify-content-center">
-                <div class="col">
-                    <div class="text-center">
-                        <img src="assets/home/banner-4.png" width="500" class="img-fluid" alt="banner">
-                    </div>
-                </div>
-                <div class="col text-lg-start text-center">
-                    <h2 class="text-theme pb-3 fw-bold">High Quality Electric Power & Control Panel Manufacturer in India</h2>
-                    <ul class=" text-light">
-                        <li>APFC Panel</li>
-                        <li>12V Control Panel</li>
-                        <li>Main LT Panel / PCC Panel with Single or Multiple Incomers</li>
-                        <li>Bus Coupler with Electrical and/or Mechanical Interlocking</li>
-                        <li>10+ Years of Success</li>
-                    </ul>
-                    <div class="w-100">
-                        <button type="button" class="btn-primary-gradient text-center"> Explore Now</button>
-                    </div>
-                    
-                </div>
+            <div class="col-lg-6 col-md-6  text-center ">
+              <img src="assets/home/banner-4.png" class="img-fluid w-75 " alt="banner">
             </div>
-    </swiper-slide>
-    <swiper-slide class="banner-5-bg">
-    <div class="row px-5 py-lg-0 py-5 row-cols-lg-2 row-cols-1 cus-vh-100 align-items-center justify-content-center">
-                <div class="col">
-                    <div class="text-center">
-                        <img src="assets/home/banner-5.png" width="500" class="img-fluid" alt="banner">
-                    </div>
-                </div>
-                <div class="col text-lg-start text-center">
-                    <h2 class="text-theme pb-3 fw-bold">Motor Control Center Panels</h2>
-                    <ul class=" text-light">
-                        <li>MCC Panels featuring DOL, STAR-DELTA, RDOL, VFD, SOFT STARTER, and ATS starters.</li>
-                        <li>Available in both Fixed and Draw-Out configurations.</li>
-                        <li>Meters included as required for your application.</li>
-                        <li>Celebrating Over  Years of Excellence!</li>
-                    </ul>
-                    <div class="w-100">
-                        <button type="button" class="btn-primary-gradient text-center"> Know More
-                        </button>
-                    </div>
-                    
-                </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Slide 3 -->
+      <div class="carousel-item">
+        <div class="container">
+          <div class="row align-items-center justify-content-center">
+            <div class="col-lg-6 text-center">
+              <img src="assets/home/panel-1.png" class="img-fluid w-75" alt="banner">
             </div>
-    </swiper-slide>
-    <swiper-slide class="banner-6-bg">
-    <div class="row px-5 py-lg-0 py-5 row-cols-lg-2 row-cols-1 cus-vh-100 align-items-center justify-content-center">
-                <div class="col">
-                    <div class="text-center">
-                        <img src="assets/home/banner-6.png" width="500" class="img-fluid" alt="banner">
-                    </div>
-                </div>
-                <div class="col text-lg-start text-center">
-                    <h2 class="text-theme pb-3 fw-bold">Automatic Power Factor Correction Panels</h2>
-                    <ul class="text-light">
-                        <li>Modular and Non-Compartmentalized Design</li>
-                        <li>Constructed with high-quality MS CRCA/SS material.</li>
-                        <li>Suitable for Indoor and Outdoor Use Built to withstand diverse environments.</li>
-                        <li>Available in Single or Double Front Operation</li>
-                        <li>Over 7 Years of Proven Success
-                        Reliability you can count on for a decade and beyond.</li>
-                    </ul>
-                    <div class="w-100">
-                        <button type="button" class="btn-primary-gradient text-center">  Know More</button>
-                    </div>                
-                </div>
+            <div class="col-lg-6 text-lg-start text-center">
+              <h2 class="text-theme pb-3 fw-bold fs-2">Power Control Center Panels</h2>
+              <ul class="text-light list-unstyled">
+                <li><i class="fa fa-spinner fa-spin me-2"></i> APFC Panel</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> 12V Control Panel</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Main LT Panel / PCC Panel with Single or Multiple Incomers</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Bus Coupler with Interlocking</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> 10+ Years of Success</li>
+              </ul>
+              <button class="explore__card-btn nw-ct-btn re-hero-btn mt-3">Explore Now <i class="bi bi-arrow-right arrow"></i></button>
             </div>
-    </swiper-slide>
-    <swiper-slide class="banner-7-bg">
-    <div class="row px-5 py-lg-0 py-5 row-cols-lg-2 row-cols-1 cus-vh-100 align-items-center justify-content-center">
-                <div class="col">
-                    <div class="text-center">
-                        <img src="assets/home/banner-7.png" width="500" class="img-fluid" alt="banner">
-                    </div>
-                </div>
-                <div class="col text-lg-start text-center">
-                    <h3 class="text-theme pb-3 fw-bold">Fire Hydrant Control Panel</h3>
-                    <ul class="text-light">
-                        <li>Equipped with DOL, STAR-DELTA, ATS, Soft Starter, and VFD Starters</li>
-                        <li>Automated with Pressure Switch Integration</li>
-                        <li>Supports Various Control Voltages with Control Transformer and Control Bus</li>
-                        <li>7+ Years of Proven Success</li>
-                        <li>Over 7 Years of Proven Success
-                        Reliability you can count on for a decade and beyond.</li>
-                    </ul>
-                    <div class="w-100">
-                        <button type="button" class="btn-primary-gradient text-center">  Know More</button>
-                    </div>
-                    
-                </div>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- Slide 4 -->
+      <div class="carousel-item">
+        <div class="container">
+          <div class="row align-items-center justify-content-center">
+            <div class="col-lg-6 text-lg-start text-center ">
+              <h2 class="text-theme pb-3 fw-bold fs-2 px-5">Automatic Power Factor Correction Panels</h2>
+              <ul class="text-light list-unstyled px-5">
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Modular and Non-Compartmentalized Design</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> High-quality MS CRCA/SS material</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Suitable for Indoor and Outdoor Use</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Single or Double Front Operation</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Over 7 Years of Proven Success</li>
+              </ul>
+              <button class="explore__card-btn nw-ct-btn re-hero-btn mt-3 mx-5 ">Know More <i class="bi bi-arrow-right "></i></button>
             </div>
-    </swiper-slide>
-    <div class="autoplay-progress" slot="container-end">
-      <svg viewBox="0 0 48 48">
-        <circle cx="24" cy="24" r="20"></circle>
-      </svg>
-      <span></span>
+            <div class="col-lg-6 text-center ">
+              <img src="assets/home/banner-6.png" class="img-fluid w-50 " alt="banner">
+            </div>
+          </div>
+        </div>
+      </div>
+
+  <!-- Slide 5-->
+      <div class="carousel-item">
+        <div class="container">
+          <div class="row align-items-center justify-content-center">
+            <div class="col-lg-6 text-center">
+              <img src="assets/home/pannel-3.png" class="img-fluid w-75" alt="banner">
+            </div>
+            <div class="col-lg-6 text-lg-start text-center">
+              <h2 class="text-theme pb-3 fw-bold fs-2">Motor Control Center Panels</h2>
+              <ul class="text-light list-unstyled">
+                <li><i class="fa fa-spinner fa-spin me-2"></i> MCC Panels: DOL, STAR-DELTA, RDOL, VFD, SOFT STARTER, ATS</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Fixed and Draw-Out configurations</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Meters as per application</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Celebrating Years of Excellence!</li>
+              </ul>
+              <button class="explore__card-btn nw-ct-btn re-hero-btn mt-3">Know More <i class="bi bi-arrow-right"></i></button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Slide 6 -->
+      <div class="carousel-item">
+        <div class="container">
+          <div class="row align-items-center justify-content-center">
+            <div class="col-lg-6 text-lg-start  ps-4 text-center ">
+              <h2 class="text-theme pb-3 fw-bold fs-2 px-5">Fire Hydrant Control Panel</h2>
+              <ul class="text-light list-unstyled px-5">
+                <li><i class="fa fa-spinner fa-spin me-2"></i> DOL, STAR-DELTA, ATS, Soft Starter, VFD</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Pressure Switch Automation</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Control Transformer, Control Bus Support</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> 7+ Years of Proven Success</li>
+                <li><i class="fa fa-spinner fa-spin me-2"></i> Decade of Reliable Operations</li>
+              </ul>
+              <button class="explore__card-btn nw-ct-btn re-hero-btn mt-3 mx-5">Know More <i class="bi bi-arrow-right"></i></button>
+            </div>
+              <div class="col-lg-6 text-center">
+              <img src="assets/home/banner-7.png" class="img-fluid w-50" alt="banner">
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-  </swiper-container>
+  </div>
+</section>
 
 
 
-  
+{{-- side icone section --}}
+
+
+
+
+<div class="share-icons">
+  <ul>
+    <li class="facebook"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+    <li class="twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
+    <li class="whatsapp"><a href="#"><i class="fab fa-whatsapp"></i></a></li>
+    <li class="instagram"><a href="#"><i class="fab fa-instagram"></i></a></li>
+    <li class="linkedin"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+  </ul>
+</div>
+
+
+
+
 <!-- about -->
- <section class="py-5">
-    <div class="container">
-        <div class="row row-cols-lg-2 row-cols-1 align-items-center justify-content-center">
+<section >
+    <div class="container-fluid px-5 py-5">
+        <div class="row row-cols-lg-2 row-cols-1 align-items-center justify-content-center ">
             <div class="col pb-5">
-               <div class="text-center">
-                    <img src="assets/home/about.png" width="500" class="img-fluid" alt="banner">
+                <div class="text-center pe-5">
+                    <img src="assets/home/top.jpg" width="500" class="img-fluid me-5 " alt="banner">
                 </div>
             </div>
             <div class="col">
-                <h3 class="text-blue ">Top Electrical Control Panel Supplier in Madurai</h3>
-                <p>Among the top electrical control panel manufacturers, Zelvo Energy Solutions Private Limited offers engineering services having more than 15 years of expertise. From Madurai, we provide creative and dependable solutions for sectors including chemicals, mining, oil and gas, pharmaceuticals, power generation, solar energy, and steel manufacture and industries.</p>
-                <p>Our electrical control panels are made to run mechanical and electrical operations of industrial equipment effectively. Designed with the latest innovations and premium-grade materials, our products satisfy the strictest quality and safety requirements. As a well-known, renowned electrical panel manufacturers company in Madurai, Zelvo Engineering Solutions respects enduring connections with customers by providing first-rate after-sales service and solutions catering to their particular requirements.</p>
-                <div class="w-100">
-                    <button type="button" class="btn-primary-gradient text-center"> Explore Now</button>
+                <h1 class="text-blue fs-2">Top Electrical Control Panel Supplier in <span>Madurai</span> </h1>
+                <p>Among the top electrical control panel manufacturers, Zelvo Energy Solutions Private Limited offers
+                    engineering services having more than 15 years of expertise. From Madurai, we provide creative and
+                    dependable solutions for sectors including chemicals, mining, oil and gas, pharmaceuticals, power
+                    generation, solar energy, and steel manufacture and industries.</p>
+                <p>Our electrical control panels are made to run mechanical and electrical operations of industrial
+                    equipment effectively. Designed with the latest innovations and premium-grade materials, our
+                    products satisfy the strictest quality and safety requirements. As a well-known, renowned electrical
+                    panel manufacturers company in Madurai, Zelvo Engineering Solutions respects enduring connections
+                    with customers by providing first-rate after-sales service and solutions catering to their
+                    particular requirements.</p>
+                <div class="d-flex">
+                    <button class="explore__card-btn nw-ct-btn re-hero-btn"> Explore Now <i
+                            class="bi bi-arrow-right"></i> </button>
+
+
                 </div>
             </div>
         </div>
     </div>
- </section>
+</section>
+
+
 
 <!-- Our Vision / Our Mission -->
- <section class="py-lg-5 py-5 sub-bg">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-4 col-12 pb-3">
-                <div class="border text-white rounded-4 h-100 p-4 bg-blue">
-                    <h4>Our Vision</h4>
-                    <ul>
-                        <li>To be a brand where our name alone makes our clients confident and associated with quality and trust.</li>
-                    </ul>
-                </div>
+
+
+<section class=" container-fluid ">
+    <div class=" flex-wrap justify-content-center cls_pad row  ">
+        <div class="col-lg-4 col-md-6 mb-4 px-5 whyball">
+
+            <div class=" whytxt pt-5 mx-2 text-center md-mx-5" >
+                 <h5 style="font-weight: 400">Uncompromising Quality</h5>
+                <p class="mt-5 " style=" align-items-center"> As an organization, we strive for total customer satisfaction and believe that it can be achieved through uncompromised quality products and services.</p>
             </div>
-            <div class="col-lg-2 justify-content-center col-12 ">
-               <div class="text-center">
-                    <img src="assets/home/vision-mission.png" width="100" class="img-fluid" alt="vision-mission">
-                </div>
+        </div>
+
+
+
+        <div class="col-lg-4 col-md-6 mb-4 px-5 whyball">
+
+            <div class="whytxt pt-5 mx-2 text-center  md-mx-5">
+              <h5 style="font-weight: 400">Customer First</h5>
+                <p class="mt-5 " style=" align-items-center"> Being a world-class company means taking full responsibility in every aspect of conducting business, including collaboration with both customers and suppliers, which we do not hesitate to advocate for if it helps achieve a world-class outcome.  </p>
             </div>
-            <div class="col-lg-4 col-12">
-            <div class="border text-white rounded-4 h-100 p-4 bg-green">
-                    <h4>Our Mission</h4>
-                    <ul>
-                        <li>Trustworthy safe</li>
-                        <li>Affordable</li>
-                        <li>User-friendly </li>
-                        <li>Designed for our client's requirements</li>
-                        <li>Empowering our staff, pushing creativity, and fostering a culture of ongoing development help us succeed.</li>
-                    </ul>
-                </div>
+        </div>
+
+
+
+
+        <div class="col-lg-4 col-md-6 mb-4 px-5 whyball">
+
+            <div class=" whytxt pt-5 mx-2  text-center  md-mx-5">
+                 <h5 style="font-weight: 400" >Quality and Time delivery is a Mindset</h5>
+                <p class="mt-5 " style=" align-items-center"> Our performance is the key to success. Providing the desired Quality in service consistently and meeting deadlines without fail requires commitment, which is our top priority</p>
             </div>
         </div>
     </div>
- </section>
+</section>
 
- <!-- Industries We Serve -->
+
+
+
+<!-- Our Core Values -->
 <section>
-    <div class="container">
-        <h5 class="py-5 text-center display-6 fw-bold">Industries We Serve</h>
-        <div class="row pt-5 row-cols-lg-4 row-cols-1">
-            <div class="col pb-3">
+    <div class=" my-5 mx-5 "
+        style=" background: linear-gradient(135deg, #000428, #007aff);
+  color: white;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);">
+        <div>
+            <h5 class="py-4 text-center display-6 fw-bold ">Our   <span>Core Values </span> </h>
+        </div>
+
+        <div class="row pt-2 row-cols-lg-4 row-cols-1 col-lg-12 px-3">
+            <div class="col pb-3 cols-md-12 col-sm-6 ">
                 <div class="h-100">
                     <div class="effect-1">
                         <div class="effect-img">
                             <img src="assets/home/industries/1.png" class="img-fluid" alt="Chemical Plants">
                         </div>
-                        <div class="effect-text">
+                        <div class="effect-text  col-lg-12 col-md-6">
                             <h2>Chemical Plants</h2>
-                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed purus consectetur, interdum felis in, auctor ligula.</p>
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
+                                purus consectetur, interdum felis in, auctor ligula.</p>
                             <div class="effect-btn">
-                                <a class="btn" href="#"><i class="fa fa-eye"></i> Read More</a>
-                            </div> -->
+                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col pb-3">
+            <div class="col pb-3 col-md-4 col-sm-6">
                 <div class="h-100">
-                   <div class="effect-1">
+                    <div class="effect-1">
                         <div class="effect-img">
                             <img src="assets/home/industries/3.png" class="img-fluid" alt="Oil & Gas Refineries">
                         </div>
                         <div class="effect-text">
                             <h2>Oil & Gas Refineries</h2>
-                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed purus consectetur, interdum felis in, auctor ligula.</p>
+                            <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
+                                purus consectetur, interdum felis in, auctor ligula.</p>
                             <div class="effect-btn">
-                                <a class="btn" href="#"><i class="fa fa-eye"></i> Read More</a>
-                            </div> -->
+                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col pb-3">
+            <div class="col pb-3  col-md-4 col-sm-6 ">
                 <div class="h-100">
-                <div class="effect-1">
+                    <div class="effect-1">
                         <div class="effect-img">
-                            <img src="assets/home/industries/5.png" class="img-fluid" alt="Pharmaceutical Manufacturing">
+                            <img src="assets/home/industries/5.png" class="img-fluid"
+                                alt="Pharmaceutical Manufacturing">
                         </div>
                         <div class="effect-text">
-                            <h2 class="pb-4">Pharmaceutical Manufacturing</h2>
-                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed purus consectetur, interdum felis in, auctor ligula.</p>
+                            <h2>Pharmaceutical Manufacturing</h2>
+                            <p class=" text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
+                                purus consectetur, interdum felis in, auctor ligula.</p>
                             <div class="effect-btn">
-                                <a class="btn" href="#"><i class="fa fa-eye"></i> Read More</a>
-                            </div> -->
+                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col pb-3">
+            <div class="col pb-3 col-md-4 col-sm-6 ">
                 <div class="h-100">
-                <div class="effect-1">
+                    <div class="effect-1">
                         <div class="effect-img">
                             <img src="assets/home/industries/6.png" class="img-fluid" alt="Power Plants">
                         </div>
                         <div class="effect-text">
                             <h2>Power Plants</h2>
-                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed purus consectetur, interdum felis in, auctor ligula.</p>
+                            <p class=" text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
+                                purus consectetur, interdum felis in, auctor ligula.</p>
                             <div class="effect-btn">
-                                <a class="btn" href="#"><i class="fa fa-eye"></i> Read More</a>
-                            </div> -->
+                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col pb-3">
+            <div class="col pb-3 col-md-4 col-sm-6 pt-1">
                 <div class="h-100">
-                <div class="effect-1">
+                    <div class="effect-1">
                         <div class="effect-img">
                             <img src="assets/home/industries/2.png" class="img-fluid" alt="Solar Energy Systems">
                         </div>
                         <div class="effect-text">
                             <h2>Solar Energy Systems</h2>
-                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed purus consectetur, interdum felis in, auctor ligula.</p>
+                            <p class=" text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
+                                purus consectetur, interdum felis in, auctor ligula.</p>
                             <div class="effect-btn">
-                                <a class="btn" href="#"><i class="fa fa-eye"></i> Read More</a>
-                            </div> -->
+                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col pb-3">
+            <div class="col pb-3 col-md-4 col-sm-6 pt-1">
                 <div class="h-100">
-                <div class="effect-1">
+                    <div class="effect-1">
                         <div class="effect-img">
                             <img src="assets/home/industries/4.png" class="img-fluid" alt="Steel Factories">
                         </div>
                         <div class="effect-text">
-                            <h2>Steel Factories</h2>
-                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed purus consectetur, interdum felis in, auctor ligula.</p>
+                            <h2 class="text-blue fw-bold">Steel Factories</h2>
+                            <p class=" text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
+                                purus consectetur, interdum felis in, auctor ligula.</p>
                             <div class="effect-btn">
-                                <a class="btn" href="#"><i class="fa fa-eye"></i> Read More</a>
-                            </div> -->
+                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col pb-3">
+            <div class="col pb-3 col-md-4 col-sm-6 pt-1">
                 <div class="h-100">
-                <div class="effect-1">
+                    <div class="effect-1">
                         <div class="effect-img">
                             <img src="assets/home/industries/7.png" class="img-fluid" alt="Agriculture">
                         </div>
                         <div class="effect-text">
-                            <h2>Agriculture</h2>
-                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed purus consectetur, interdum felis in, auctor ligula.</p>
+                            <h2 class="text-blue fw-bold">Agriculture</h2>
+                            <p class=" text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
+                                purus consectetur, interdum felis in, auctor ligula.</p>
                             <div class="effect-btn">
-                                <a class="btn" href="#"><i class="fa fa-eye"></i> Read More</a>
-                            </div> -->
+                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col pb-3">
+            <div class="col pb-3 col-md-4 col-sm-6 pt-1 ">
                 <div class="h-100">
-                <div class="effect-1">
+                    <div class="effect-1">
                         <div class="effect-img">
                             <img src="assets/home/industries/8.png" class="img-fluid" alt="Textile">
                         </div>
                         <div class="effect-text">
-                            <h2>Textile</h2>
-                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed purus consectetur, interdum felis in, auctor ligula.</p>
+                            <h2 class=" text-decoration-none text-blue fw-bold">Textile</h2>
+                            <p class=" text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
+                                purus consectetur, interdum felis in, auctor ligula.</p>
                             <div class="effect-btn">
-                                <a class="btn" href="#"><i class="fa fa-eye"></i> Read More</a>
-                            </div> -->
+                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+         </div>
 </section>
 
 <!-- Our Infrastructure -->
-<section class="py-5">
-    <div class="container">
+<section class=" px-5">
+    <div class="container-fluid">
         <div class="row row-cols-lg-2 row-cols-1 align-items-center justify-content-center">
             <div class="col order-lg-1  order-2">
-            <h5 class="text-blue fw-bold display-5 py-3">Our Infrastructure</h5>
-            <p>At <a href="https://zelvoenergy.com" class=" text-decoration-none text-blue fw-bold">Zelvo Energy</a> Engineering Services, we know the need for appropriate infrastructure to satisfy our customers' needs. We have made significant investments in a modern industrial environment since.  </p>
-            <p>Design, production, assembly, testing, and quality control are just a few of the several divisions that our facility is deliberately split among. This guarantees that, from beginning to end, every project is carried out effectively without sacrificing quality or delivery deadlines. </p>
+                <h5 class="text-blue fw-bold fs-2 py-3">Our <span>Infrastructure</span> </h5>
+                <p>At <a href="https://zelvoenergy.com" class=" text-decoration-none  ">Zelvo
+                        Energy</a> Engineering Services, we know the need for appropriate infrastructure to satisfy our
+                    customers' needs. We have made significant investments in a modern industrial environment since.
+                </p>
+                <p>Design, production, assembly, testing, and quality control are just a few of the several divisions
+                    that our facility is deliberately split among. This guarantees that, from beginning to end, every
+                    project is carried out effectively without sacrificing quality or delivery deadlines. </p>
             </div>
-            <div class="col pb-4 order-lg-2  order-1">
-                <div class="text-center">
-                    <img src="assets/home/infrastructure.png" class="img-fluid" alt="vision-mission">
+            <div class="col pb-4 px-5  order-lg-2  order-1 ">
+                <div class="text-center ">
+                    <img src="assets/home/infrastructure.png" class="img-fluid w-100 ms-5" alt="vision-mission" style="padding-left: 40px">
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+
+
+
 
 <!-- Our Business Range -->
-<section class="">
-    <div class="container">
-        <h2 class="text-blue text-center pb-5">Our Business Range</h2>
-        <div class="row row-cols-lg-2 row-cols-1">
-            <div class="col">
-                <div class="tab-content" id="pills-tabContent">
-                    <div class="tab-pane fade show active" id="pills-one" role="tabpanel" aria-labelledby="pills-one-tab" tabindex="0">
-                        <div class="text-center">
-                            <img src="assets/home/ourbusinessrange/1.png" width="500" class="img-fluid" alt="vision-mission">
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="pills-two" role="tabpanel" aria-labelledby="pills-two-tab" tabindex="0">
-                        <div class="text-center">
-                            <img src="assets/home/ourbusinessrange/2.png" class="img-fluid" alt="vision-mission">
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="pills-theree" role="tabpanel" aria-labelledby="pills-theree-tab" tabindex="0">
-                        <div class="text-center">
-                            <img src="assets/home/ourbusinessrange/3.png" class="img-fluid" alt="vision-mission">
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="pills-four" role="tabpanel" aria-labelledby="pills-four-tab" tabindex="0">
-                        <div class="text-center">
-                            <img src="assets/home/ourbusinessrange/4.png" class="img-fluid" alt="vision-mission">
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="pills-five" role="tabpanel" aria-labelledby="pills-five-tab" tabindex="0">
-                        <div class="text-center">
-                            <img src="assets/home/ourbusinessrange/5.png" class="img-fluid" alt="vision-mission">
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="pills-six" role="tabpanel" aria-labelledby="pills-six-tab" tabindex="0">
-                        <div class="text-center">
-                            <img src="assets/home/ourbusinessrange/6.png" class="img-fluid" alt="vision-mission">
-                        </div>
-                    </div> 
-                </div>               
-            </div>
-            <div class="col border rounded mt-lg-0 mt-5 p-5">
-                <ul class="nav d-block p-3 text-center nav-pills mb-3" id="pills-tab" role="tablist">
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="pills-one-tab" data-bs-toggle="pill" data-bs-target="#pills-one" type="button" role="tab" aria-controls="pills-one" aria-selected="true">Power Control Panels</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="pills-two-tab" data-bs-toggle="pill" data-bs-target="#pills-two" type="button" role="tab" aria-controls="pills-two" aria-selected="false">Motor Control Centers (MCC) </button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="pills-theree-tab" data-bs-toggle="pill" data-bs-target="#pills-theree" type="button" role="tab" aria-controls="pills-theree" aria-selected="false">Solar Supporting Structure</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="pills-four-tab" data-bs-toggle="pill" data-bs-target="#pills-four" type="button" role="tab" aria-controls="pills-four" aria-selected="false">Auto Power Factor Correction Panels</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="pills-five-tab" data-bs-toggle="pill" data-bs-target="#pills-five" type="button" role="tab" aria-controls="pills-five" aria-selected="false">Cable Tray and Accessories </button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="pills-six-tab" data-bs-toggle="pill" data-bs-target="#pills-six" type="button" role="tab" aria-controls="pills-six" aria-selected="false">Customized Electrical Control Panelsafe</button>
-                    </li>
-                </ul>
-            </div>
-        </div>
+<div class="container-fluid px-5 py-5">
+  <h5 class="text-blue text-center fs-2 pb-5">Our <span> Business Range</span></h5>
+  <div class="row g-4">
+
+
+    <div class="project col-sm-12 col-md-6 col-lg-4">
+      <figure class="imgs">
+        <img src="assets/home/ourbusinessrange/1.png" alt="Power Control Panels">
+        <figcaption>
+          <h4 class="project-category">Power Control Panels</h4>
+        </figcaption>
+      </figure>
     </div>
+
+
+    <div class="project col-sm-12 col-md-6 col-lg-4">
+      <figure class="imgs">
+        <img src="assets/home/ourbusinessrange/2.png" alt="Motor Control Centers">
+        <figcaption>
+          <h4 class="project-category">Motor Control Centers (MCC)</h4>
+        </figcaption>
+      </figure>
+    </div>
+
+
+    <div class="project col-sm-12 col-md-6 col-lg-4">
+      <figure class="imgs">
+        <img src="assets/home/ourbusinessrange/3.png" alt="Solar Supporting Structure">
+        <figcaption>
+          <h4 class="project-category">Solar Supporting Structure</h4>
+        </figcaption>
+      </figure>
+    </div>
+
+    <div class="project col-sm-12 col-md-6 col-lg-4">
+      <figure class="imgs">
+        <img src="assets/home/ourbusinessrange/4.png" alt="APFC Panels">
+        <figcaption>
+          <h4 class="project-category">Auto Power Factor Correction Panels</h4>
+        </figcaption>
+      </figure>
+    </div>
+
+
+    <div class="project col-sm-12 col-md-6 col-lg-4">
+      <figure class="imgs">
+        <img src="assets/home/ourbusinessrange/5.png" alt="Cable Tray and Accessories">
+        <figcaption>
+          <h4 class="project-category">Cable Tray and Accessories</h4>
+        </figcaption>
+      </figure>
+    </div>
+
+    <div class="project col-sm-12 col-md-6 col-lg-4">
+      <figure class="imgs">
+        <img src="assets/home/ourbusinessrange/6.png" alt="Customized Electrical Panels">
+        <figcaption>
+          <h4 class="project-category">Customized Electrical Control Panels</h4>
+        </figcaption>
+      </figure>
+    </div>
+
+  </div>
+</div>
+
+
+
+{{--Our Core Thought --}}
+
+<section class=" d-none d-lg-block px-5 mx-5 ">
+  <div class="container-fluid px-5 py-5 bg-core-section rounded-4">
+    <div class="row align-items-center">
+
+      <div class="col-lg-6" data-aos="fade-right">
+        <h2 class="fw-bold display-4 text-white">Our <i> Core Thoughts</i> </h2>
+        <p class="text-light">
+          Every good is made with accuracy and using the finest materials and technologies.<br />
+          Zelvo Engineering Electrical Panel Suppliers can satisfy your needs for a customized solution or a conventional control panel.
+        </p>
+        <button class="btn btn-light text-primary fw-semibold px-4 py-2 mt-3 btn-animate">Explore Now</button>
+      </div>
+
+      <div class="col-lg-6 text-end" data-aos="fade-left">
+        <img src="assets/home/core-img.png" alt="Core Image" class="img-fluid rounded-4 shadow core-img">
+      </div>
+    </div>
+  </div>
 </section>
 
-<!-- core Thoughts -->
-<section class="core-bg my-5 d-lg-flex d-none">
-    <div class="container">
-        <div class="row py-5">
-            <div class="col">
-                <h2 class="fw-bold display-4 text-white">Our Core Thoughts</h2>
-                <p class="text-light">Every good is made with accuracy and using the finest materials and technologies. Zelvo Engineering Electrical Panel Suppliers can satisfy your needs for a customized solution or a conventional control panel. </p>
-                <div class="w-100">
-                    <button type="button" class="btn btn-primary text-center"> Explore Now</button>
-                </div>
-            </div>
-            <div class="col d-lg-flex d-none position-relative"> 
-                <div class="text-center position-absolute  top-cus end-0">
-                    <img src="assets/home/core-img.png" width="500" class="img-fluid" alt="banner">
-                </div>
-            </div>
-        </div>
+
+<section class="my-5 d-lg-none px-5 ">
+  <div class="container bg-core-section-mobile rounded-4 p-4">
+    <div class="row row-cols-1">
+      <div class="col text-center" data-aos="fade-up">
+        <h2 class="fw-bold display-5 text-white">Our Core Thoughts</h2>
+        <p class="text-light">
+          Every good is made with accuracy and using the finest materials and technologies.<br />
+          Zelvo Engineering Electrical Panel Suppliers can satisfy your needs for a customized solution or a conventional control panel.
+        </p>
+            <button class= " explore__card-btn nw-ct-btn re-hero-btn"> Explore Now <i
+                            class="bi bi-arrow-right"></i> </button>
+
+      </div>
+      <div class="col mt-4" data-aos="fade-up" data-aos-delay="200">
+        <img src="assets/home/core-img.png" alt="Core Image Mobile" class="img-fluid rounded-4 shadow core-img">
+      </div>
     </div>
+  </div>
 </section>
 
-<section class="bg-blue my-5 d-lg-none d-block">
-    <div class="container">
-        <div class="row row-cols-1 pt-5">
-            <div class="col">
-                <h2 class="fw-bold display-4 text-white">Our Core Thoughts</h2>
-                <p class="text-light">Every good is made with accuracy and using the finest materials and technologies. Zelvo Engineering Electrical Panel Suppliers can satisfy your needs for a customized solution or a conventional control panel. </p>
-                <div class="w-100 align-self-end">
-                    <button type="button" class="btn btn-primary text-center"> Explore Now</button>
-                </div>
-            </div>
-            <div class="col"> 
-                <div class="text-center ">
-                    <img src="assets/home/core-img.png" width="500" class="img-fluid" alt="banner">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+
+ <script>
+  AOS.init({
+    duration: 1000,
+    once: true
+  });
+</script>
+
+
+
+
+
 
 <!-- Why Our Clients Trust Us -->
- <section class="mb-5 madurai-temple">
-    <div class="container">
+<section class="mb-5 madurai-temple mx-5 ">
+    <div class="container px-5 py-5">
         <div class="row vh-cus-60 align-items-start justify-content-center">
             <div class="col">
-                <h2 class="text-blue fw-bold text-lg-center pb-lg-5">Why Our Clients Trust Us</h2>
+
                 <div class="d-lg-flex d-block justify-content-lg-center">
                     <div class="col-auto pe-4">
-                        <span class="text-blue fw-bold display-5">6+ </span><span> Years of Expertise</span>
+                        <span class="text-blue fw-bold fs-3">6+ </span><span> Years of Expertise</span>
                     </div>
                     <div class="col-auto pe-4">
-                        <span class="text-blue fw-bold display-5">7+ </span><span> Happy Clients</span>
+                        <span class="text-blue fw-bold fs-3">7+ </span><span> Happy Clients</span>
                     </div>
                     <div class="col-auto pe-4">
-                        <span class="text-blue fw-bold display-5">58+ </span><span> Product Variants</span>
+                        <span class="text-blue fw-bold fs-3">58+ </span><span> Product Variants</span>
                     </div>
                 </div>
-                <h2 class="text-lg-center pt-4 display-4 opacity-75 fw-bold">Madurai</h2>
+                <h2 class="text-lg-center pt-4 fs-2 opacity-75 fw-bold  text-theme">Madurai</h2>
             </div>
         </div>
     </div>
-  </section>
+</section>
+
+<style>
+    .col-auto{
+        font-size: 23px;
+    }
+</style>
 
 
 
- <!-- We service worldwide -->
- <section>
-    <div class="container">
-        <div class="row row-cols-lg-2 row-cols-1 pb-4">
+
+
+
+<!-- We service worldwide -->
+<section>
+    <div class="container px-5 ">
+        <div class="row row-cols-lg-2 row-cols-1 pb-4 mx-5 my-5">
             <div class="col order-lg-1 order-2">
                 <h2 class="fw-bold">As an Electrical Turnkey Contractor, We service worldwide</h2>
-                <p>We have spread our wings to every part of the world to reach a bigger audience and become a leading name in the field.  We can handle orders from our clients from all around India, including Tamil Nadu, Karnataka, Kerala, Andra, Rajasthan, and foreign markets including Oman, Kuwait, Algeria, Germany, Qatar, Ghana, Saudi Arabia, Dubai, Nigeria, Japan, Kenya, Nepal, etc.  We have the tools and means to satisfy every last one of them in the least feasible time-range.</p>
+                <p>We have spread our wings to every part of the world to reach a bigger audience and become a leading
+                    name in the field.  We can handle orders from our clients from all around India, including Tamil
+                    Nadu, Karnataka, Kerala, Andra, Rajasthan, and foreign markets including Oman, Kuwait, Algeria,
+                    Germany, Qatar, Ghana, Saudi Arabia, Dubai, Nigeria, Japan, Kenya, Nepal, etc.  We have the tools
+                    and means to satisfy every last one of them in the least feasible time-range.</p>
                 <div class="w-100">
-                    <button type="button" class="btn text-white btn-primary-gradient text-center"> Investigate Our Market</button>
+
+                            <button class= " explore__card-btn nw-ct-btn re-hero-btn">    Investigate Our Market <i
+                            class="bi bi-arrow-right"></i> </button>
                 </div>
             </div>
-            <div class="col order-lg-2 order-1 pb-4">
-                <div class="text-center ">
-                    <img src="assets/home/map.png" width="500" class="img-fluid" alt="banner">
+            <div class="col order-lg-2 order-1 pb-4 ">
+                <div class="text-center ms-5 ps-5">
+                    <img src="assets/home/map.png" width="500" class="img-fluid ms-5" alt="banner">
                 </div>
             </div>
         </div>
     </div>
- </section>
+</section>
 
- <!-- Why Choose  -->
- <section class="py-5">
-    <div class="container">
+<!-- Why Choose  -->
+<section>
+    <div class="container-fluid px-5 py-5">
         <div class="row">
-             <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
+               <h2 class="text-blue fw-bold fs-2 text-lg-center pb-lg-5">Why Our Clients <span>Trust Us</span> </h2>
+
+            <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+
+                <div class="carousel-inner ">
+                             <h2 class="text-center" >Why Choose Zelvo Engineering Solutions?</h2>>
+
+                    <div class="carousel-item active py-5 ">
+
                         <div class="row row-cols-lg-2 row-cols-1">
                             <div class="col pb-4">
-                                <div class="text-center ">
-                                    <img src="assets/home/why-choose.png" width="500" class="img-fluid" alt="banner">
+                                  <div class="text-center  ">
+                                    <img src="assets/home/girl.png" width="300" class="img-fluid"
+                                        alt="banner">
                                 </div>
+
+                     <div class="floating-text top-text">6+ Years of Expertise</div>
+                   <div class="floating-text left-text">7+ Happy Clients</div>
+                 <div class="floating-text right-text">58+ Product Variants</div>
+
+
                             </div>
-                            <div class="col">
-                                    <h2 class="fw-bold">Why Choose Zelvo Engineering Solutions?</h2>
-                                    <p class=" fw-bold text-green">1. The most advanced Modern Manufacturing Branch</p>
-                                    <p>Modern manufacturing equipment, including laser cutters, shearing machines, and automated welding systems, powers Zelvo Engineering Solutions' contemporary production facilities. This helps us ensure that every control panel we create is exact and uniform.</p>
+
+                            <div class="col" >
+
+                                <p class=" fw-bold fs-3 text-dark">1. The most advanced Modern Manufacturing Branch</p>
+                                <p class="text-green fs-5">Modern manufacturing equipment, including laser cutters, shearing machines, and
+                                    automated welding systems, powers Zelvo Engineering Solutions' contemporary
+                                    production facilities. This helps us ensure that every control panel we create is
+                                    exact and uniform.</p>
                                 <div class="w-100">
-                                    <button type="button" class="btn text-white btn-primary-gradient text-center">  Read More</button>
+                                   <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="carousel-item">
+                    <div class="carousel-item py-5 ">
                         <div class="row row-cols-lg-2 row-cols-1">
                             <div class="col pb-4">
                                 <div class="text-center ">
-                                    <img src="assets/home/why-choose.png" width="500" class="img-fluid" alt="banner">
+                                    <img src=" assets/home/girl.png" width="300" class="img-fluid"
+                                        alt="banner">
                                 </div>
+                                       <div class="floating-text top-text">6+ Years of Expertise</div>
+                   <div class="floating-text left-text">7+ Happy Clients</div>
+                 <div class="floating-text right-text">58+ Product Variants</div>
                             </div>
                             <div class="col">
-                                <h2 class="fw-bold">Complete Powder Coating Method</h2>
-                                <ul>
+
+                                <h2 class="fw-bold fs-3 text-dark">Complete Powder Coating Method</h2>
+                                <ul class="text-green fs-5">
                                     <li>Degreasing </li>
                                     <li>Rust removal </li>
                                     <li>Phosphating </li>
                                     <li>Passivation </li>
                                 </ul>
                                 <div class="w-100">
-                                    <button type="button" class="btn text-white btn-primary-gradient text-center">  Read More</button>
+                                  <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
                                 </div>
+                                       <div class="floating-text top-text">6+ Years of Expertise</div>
+                   <div class="floating-text left-text">7+ Happy Clients</div>
+                 <div class="floating-text right-text">58+ Product Variants</div>
                             </div>
                         </div>
                     </div>
-                    <div class="carousel-item">
+                    <div class="carousel-item py-5 ">
                         <div class="row row-cols-lg-2 row-cols-1">
                             <div class="col pb-4">
                                 <div class="text-center ">
-                                    <img src="assets/home/why-choose.png" width="500" class="img-fluid" alt="banner">
+                                    <img src=" assets/home/girl.png" width="300" class="img-fluid"
+                                        alt="banner">
                                 </div>
+                                       <div class="floating-text top-text">6+ Years of Expertise</div>
+                   <div class="floating-text left-text">7+ Happy Clients</div>
+                 <div class="floating-text right-text">58+ Product Variants</div>
                             </div>
                             <div class="col">
-                                    <h2 class="fw-bold"> Wiring and effective assembly</h2>
-                                    <p>In our assembly and wiring procedures, we are the best electronic control unit designer in India and apply the most modern tools and equipment. This assures that every control panel is precisely set to fulfill your particular needs. Maintaining the best standards of quality and safety also depends on advanced busbar processing equipment.
-                                    </p>
+                                <h2 class="fw-bold fs-3 text-dark"> Wiring and effective assembly</h2>
+                                <p class="text-green fs-5">In our assembly and wiring procedures, we are the best electronic control unit
+                                    designer in India and apply the most modern tools and equipment. This assures that
+                                    every control panel is precisely set to fulfill your particular needs. Maintaining
+                                    the best standards of quality and safety also depends on advanced busbar processing
+                                    equipment.
+                                </p>
                                 <div class="w-100">
-                                    <button type="button" class="btn text-white btn-primary-gradient text-center">  Read More</button>
+                                   <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                   <div class="carousel-item">
+                    <div class="carousel-item py-5 ">
                         <div class="row row-cols-lg-2 row-cols-1">
-                                <div class="col pb-4">
-                                    <div class="text-center ">
-                                        <img src="assets/home/why-choose.png" width="500" class="img-fluid" alt="banner">
-                                    </div>
+                            <div class="col pb-4">
+                                <div class="text-center ">
+                                    <img src=" assets/home/girl.png" width="300" class="img-fluid"
+                                        alt="banner">
                                 </div>
-                                <div class="col">
-                                    <h2 class="fw-bold"> In depth Quality Assurance Testing</h2>
-                                    <ul>
-                                        <li>High Voltage (HV) Tests  </li>
-                                        <li>Megger Tests (Insulation Resistance Testing)</li>
-                                        <li>Functional Tests  </li>
-                                        <li>Primary and Secondary Injection Tests  
-                                        </li>
-                                    </ul>
-                                    <div class="w-100">
-                                        <button type="button" class="btn text-white btn-primary-gradient text-center">  Read More</button>
-                                    </div>
+                                       <div class="floating-text top-text">6+ Years of Expertise</div>
+                   <div class="floating-text left-text">7+ Happy Clients</div>
+                 <div class="floating-text right-text">58+ Product Variants</div>
+                            </div>
+                            <div class="col">
+                                <h2 class="fw-bold fs-3 text-dark"> In depth Quality Assurance Testing</h2>
+                                <ul class="text-green fs-5">
+                                    <li>High Voltage (HV) Tests </li>
+                                    <li>Megger Tests (Insulation Resistance Testing)</li>
+                                    <li>Functional Tests </li>
+                                    <li>Primary and Secondary Injection Tests
+                                    </li>
+                                </ul>
+                                <div class="w-100">
+                                    <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
                                 </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="carousel-item">
+                    <div class="carousel-item py-5 ">
                         <div class="row row-cols-lg-2 row-cols-1">
-                               <div class="col pb-4">
-                                    <div class="text-center ">
-                                        <img src="assets/home/why-choose.png" width="500" class="img-fluid" alt="banner">
-                                    </div>
+                            <div class="col pb-4">
+                                <div class="text-center ">
+                                    <img src=" assets/home/girl.png" width="300" class="img-fluid"
+                                        alt="banner">
                                 </div>
-                                <div class="col">
-                                        <h2 class="fw-bold"> Certified Excellence</h2>
-                                        <p><span class="fw-bold">CPCR  Approved-</span> Our control panels follow the exacting quality and safety criteria established by the Central Power Research Institute <span class="fw-bold">(CPRI)</span>.
-                                        <span class="fw-bold">2015 ISO 9001-2015 </span> Authorized: Certified  Our production techniques follow internationally accepted quality control standards to guarantee constant product quality.
-                                        </p>
-                                        <div class="w-100">
-                                            <button type="button" class="btn text-white btn-primary-gradient text-center">  Contact Now</button>
-                                        </div>
-                                    </div>
+                                       <div class="floating-text top-text">6+ Years of Expertise</div>
+                   <div class="floating-text left-text">7+ Happy Clients</div>
+                 <div class="floating-text right-text">58+ Product Variants</div>
+                            </div>
+                            <div class="col">
+                                <h2 class="fw-bold fs-3 text-dark"> Certified Excellence</h2>
+                                <p class="text-green fs-5"><span class="fw-bold">CPCR Approved-</span> Our control panels follow the exacting
+                                    quality and safety criteria established by the Central Power Research Institute
+                                    <span class="fw-bold">(CPRI)</span>.
+                                    <span class="fw-bold">2015 ISO 9001-2015 </span> Authorized: Certified Our
+                                    production techniques follow internationally accepted quality control standards to
+                                    guarantee constant product quality.
+                                </p>
+                                <div class="w-100">
+
+
+                                          <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
+                                    style="font-size: 16px">Contact Now <i class="bi bi-arrow-right"></i> </button>
                                 </div>
+                            </div>
                         </div>
                     </div>
-                    <div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-                                        <span class="bi bi-arrow-left-circle-fill fs-1 text-green" aria-hidden="true"></span>
-                                        <span class="visually-hidden">Previous</span>
-                        </button>
-                   </div>
-                   <div>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-                                            <span class="bi bi-arrow-right-circle-fill fs-1 text-green" aria-hidden="true"></span>
-                                            <span class="visually-hidden">Next</span>
-                        </button>
-                    </div>
+                </div>
+                <div>
+                    <button class="carousel-control-prev px-5" type="button" data-bs-target="#carouselExampleAutoplaying"
+                        data-bs-slide="prev">
+                        <span class="bi bi-arrow-left-circle-fill fs-1 text-green" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                </div>
+                <div>
+                    <button class="carousel-control-next px-5" type="button" data-bs-target="#carouselExampleAutoplaying"
+                        data-bs-slide="next">
+                        <span class="bi bi-arrow-right-circle-fill fs-1 text-green" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
                 </div>
             </div>
         </div>
     </div>
- </section>
- 
+    </div>
+</section>
+
+<style>
+    .choose{
+          padding-left: 300px;
+    }
+</style>
+</body>
+
 
 @include('inc/footer')
-
-   

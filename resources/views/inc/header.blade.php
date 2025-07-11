@@ -7,11 +7,21 @@
     <title>Zelvo Engineering</title>
     <!-- style -->
     <link rel="stylesheet" href="style.css">
+
     <!-- bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+        <!-- Bootstrap 5 -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
 
+
+
+        {{-- button link --}}
+         <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <!--  -->
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css"
@@ -19,6 +29,11 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!--  -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+     {{-- jquary --}}
+     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+ <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+     <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 
 
     <!-- Google Fonts -->
@@ -30,135 +45,63 @@
 </head>
 
 <body>
+                <section>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light mx-5 fixed-top" id="navbar">
+    <a class="ms-4 px-4" href="/">
+      <img src="/assets/logo.png" class="img-fluid me-lg-0 me-auto" width="80" alt="Zelvo Engineering logo">
+    </a>
 
-{{--
-    navbar section --}}
-
-            <div class="container-fluid">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light  fixed-top" id="navbar" >
-
-                        <a class="ms-4" href="/">
-                            <img src="\assets\logo.png" class="img-fluid me-lg-0 me-auto" width="80"
-                                alt="Zelvo Engineering logo">
-                        </a>
-
-            <button class="navbar-toggler  " type="button" data-bs-toggle="collapse" data-bs-target="#navbarsupportedcontent">
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list  " viewBox="0 0 16 16">
-  <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
-</svg>
-
-            </button>
-
-            <div class="collapse navbar-collapse" id="navbarsupportedcontent">
-                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 px-5  ">
-                    <li class="nav-item">
-                        <a class="nav-link active"aria-current="page" href="#">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#about">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#services">Services</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#portfolio"> Products</a>
-                   </li>
-                        <a class="nav-linked primary-landing-btn  text-decoration-none w-100" data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team"> Contact Us</a>
-                </div>
-                 </nav>
-
-            </div>
+   <button class="navbar-toggler super-blob-toggle collapsed" type="button"
+  data-bs-toggle="collapse" data-bs-target="#navbarsupportedcontent"
+  aria-controls="navbarsupportedcontent" aria-expanded="false" aria-label="Toggle navigation">
+  <div class="blob-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</button>
 
 
-{{-- side icone section --}}
-
-         <div class="share-icons">
-    <ul>
-        <li>
-            <a href="mailto:sales@trioangle.com" rel="noreferrer" target="_blank" class="mail-glow" aria-label="Email Link">
-                <i class=" bi bi-envelope-fill"></i>
-            </a>
+    <div class="collapse navbar-collapse" id="navbarsupportedcontent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0 px-5 px-lg-5 mx-3">
+        <li class="nav-item">
+          <a class="nav-link active" href="/">Home</a>
         </li>
-        <li class="d-none">
-            <a href="https://join.skype.com/invite/lMuXFyZmj6N8" rel="noreferrer" target="_blank" class="mail-glow" aria-label="Email Link">
-                <i class=" bi bi-messenger"></i>
-            </a>
+        <li class="nav-item">
+          <a class="nav-link" href="/about">About</a>
         </li>
-        <li>
-            <a class="d-none d-md-block whatsapp-glow" aria-label="Whatsapp Link" href=" https://web.whatsapp.com/send?phone=+918667622002&amp;&amp;text=Hi, I have contacted you through website" rel="noreferrer" target="_blank">
-                <i class="bi bi-whatsapp"></i>
-            </a>
-
-            <a class="d-block d-md-none whatsapp-glow" aria-label="Whatsapp Link" href=" whatsapp://send?phone=+918667622002&amp;&amp;Hi, I have contacted you through website. let's discuss about your clone script." rel="noreferrer" target="_blank">
-                <i class="bi bi-whatsapp"></i>
-            </a>
+        <li class="nav-item">
+          <a class="nav-link" href="/services">Services</a>
         </li>
-        <li>
-            <a href="" rel="noreferrer" target="_blank" class="mail-glow" aria-label="Email Link">
-                <picture>
-                    <i class="bi bi-telegram"></i>
-                </picture>
-            </a>
+        <li class="nav-item">
+          <a class="nav-link" href="/ourproducts">Products</a>
         </li>
-    </ul>
-</div>
+        <li class="nav-item">
+          <a class="nav-link btn btn-primary text-white px-3 ms-lg-3 mt-2 mt-lg-0" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#team">
+            Contact Us
+          </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</section>
+
+ <script>
+  $(document).ready(function () {
+    // Get the current page URL path (e.g., "/about")
+    var current = window.location.pathname;
 
 
-{{-- icons section css --}}
-
-<style>
-    .share-icons {
-    position: fixed;
-    right: 0;
-    top: 50%;
-    z-index: 100;
-    transform: translate(0px, -50%);
-    background-color: #ebecf0;
-    box-shadow: -1px 1px 16px 0px rgba(253, 253, 253, 0), 1px 1px 14px 0px rgba(0, 0, 0, .1254901961);
-    padding: 10px;
-    border-radius: 25px 0 0 25px;
-
-}
-.share-icons li:hover {
-    background-color: #007bff;
-    box-shadow: -3px -6px 16px 0px rgba(65, 159, 85, 0.69), 9px 5px 14px 0px rgba(0, 123, 255, 0.15);
-}
-
-.share-icons li:hover a {
-    color: #fff;
-}
-
-.share-icons ul {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    margin-bottom: unset;
-}
-ul {
-    padding: 0;
-}
+    $('#navbar ul li a').each(function () {
+      var linkPath = $(this).attr('href');
 
 
-.share-icons li {
-    display: block;
-    padding: 8px;
-    box-shadow: -3px -6px 16px 0px rgba(253, 253, 253, .6901960784), 9px 5px 14px 0px rgba(0, 0, 0, .1490196078);
-    border-radius: 100%;
-    border: 2px solid #ebecf0;
-}
-
-.share-icons {
-
-    animation: blink 2s infinite alternate;
-}
-
-@keyframes blink {
-    0% { opacity: 1; }
-    50% { opacity: 0.5; }
-    100% { opacity: 1; }
-}
-</style>
+      if (linkPath === current) {
+        $('#navbar ul li a').removeClass('active');
+        $(this).addClass('active');
+      }
+    });
+  });
 
 
 
@@ -166,63 +109,25 @@ ul {
 
 
 
-  {{-- navbar section css --}}
 
 
-        <style>
-
-
- .navbar-nav .nav-link {
-    margin: 0 18px !important;
-}
-
-.nav-item{
-    color: #0e0e10e6;
-    font: bold;
-    font-weight: 600;
-    font-size: 16px;
-    font-family: "Manrope", sans-serif;
-    align-content: center;
-
-}
-.navbar-toggler{
-   margin-right: 18px;
-}
-#navbar{
-    background-color: white;
-}
-.primary-landing-btn {
-    background-color: #0e0e10;
-    border: none;
-    border-radius: 48px;
-    color: #fff ;
-    font-family: "Manrope", sans-serif;
-    font-size: 16px;
-    font-weight: 600;
-    letter-spacing: normal;
-    line-height: normal;
-    outline: none;
-    padding: 10px 20px;
-    margin-left: 7px;
-    text-align:left;
-
-
-}
-
-</style>
+</script>
 
 
 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
+
+{{-- contact  --}}
 
 
      <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
-            <div class="modal-content p-5 w-100">
-                <div class="">
+            <div class="modal-content p-5 w-100 " style="background: #000;">
+                <div class="container">
 
-                    <h3 class="text-green  ">Contact Us</h3>
-                       <button type="button" class="btn-close " data-bs-dismiss="modal" aria-label="Close"></button>
+                    <h2 class="text-white text-center" style="  font-weight: 500; font-size: 25px;">Contact Us</h2>
+                       <button type="button" class="btn-close  " style="background-color: white;" data-bs-dismiss="modal" aria-label="Close"></button>
 
 
                 </div>
@@ -230,21 +135,21 @@ ul {
                 <form method="POST" action="{{ route('form.submit') }}">
                     @csrf
                     <div class="mb-3">
-                        <label for="username" class="form-label">Name</label>
+                        <label for="username" class="form-label text-theme">Name</label>
                         <input type="text" class="form-control" id="username" name="name" placeholder="username" required>
                     </div>
                     <div class="mb-3">
-                        <label for="phone" class="form-label">phone</label>
+                        <label for="phone" class="form-label text-theme">phone</label>
                         <input type="number" class="form-control" id="phone" name="phone" placeholder="phone" required>
                     </div>
                     <div class="mb-3">
-                        <label for="exampleFormControlInput1" class="form-label">Email address</label>
+                        <label for="exampleFormControlInput1" class="form-label text-theme">Email address</label>
                         <input type="email" name="email" class="form-control" id="exampleFormControlInput1"
                             placeholder="name@example.com" required>
                     </div>
                     <div class="mb-3">
-                        <label for="selectcountr" class="form-label">Select Country</label>
-<select class="form-select" aria-label="Default select example" name="country">
+                        <label for="selectcountr" class="form-label text-theme">Select Country</label>
+                          <select class="form-select" aria-label="Default select example" name="country">
                             <option selected>Choose</option>
                             <option value="Afghanistan">Afghanistan</option>
                             <option value="Albania">Albania</option>
@@ -444,11 +349,90 @@ ul {
                         </select>
                     </div>
                     <div class="mb-3">
-                        <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
+                        <label for="exampleFormControlTextarea1" class="form-label text-theme ">Example textarea</label>
                         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="details" required></textarea>
-                        <div class="mt-5 text-end">
-                            <button type="submit" class="button mb-3 px-5 py-2">Submit</button>
-                        </div>
+                         <button class="btn-5">
+
+<style>
+    .mb-3 .form-label{
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+</style>
+
+
+            <div class="state state--default  text-white" >
+              <div class="icon">
+                <svg
+                  width="1em"
+                  height="1em"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g style="filter: url(#shadow)">
+                    <path
+                      d="M14.2199 21.63C13.0399 21.63 11.3699 20.8 10.0499 16.83L9.32988 14.67L7.16988 13.95C3.20988 12.63 2.37988 10.96 2.37988 9.78001C2.37988 8.61001 3.20988 6.93001 7.16988 5.60001L15.6599 2.77001C17.7799 2.06001 19.5499 2.27001 20.6399 3.35001C21.7299 4.43001 21.9399 6.21001 21.2299 8.33001L18.3999 16.82C17.0699 20.8 15.3999 21.63 14.2199 21.63ZM7.63988 7.03001C4.85988 7.96001 3.86988 9.06001 3.86988 9.78001C3.86988 10.5 4.85988 11.6 7.63988 12.52L10.1599 13.36C10.3799 13.43 10.5599 13.61 10.6299 13.83L11.4699 16.35C12.3899 19.13 13.4999 20.12 14.2199 20.12C14.9399 20.12 16.0399 19.13 16.9699 16.35L19.7999 7.86001C20.3099 6.32001 20.2199 5.06001 19.5699 4.41001C18.9199 3.76001 17.6599 3.68001 16.1299 4.19001L7.63988 7.03001Z"
+                      fill="currentColor"
+                    ></path>
+                    <path
+                      d="M10.11 14.4C9.92005 14.4 9.73005 14.33 9.58005 14.18C9.29005 13.89 9.29005 13.41 9.58005 13.12L13.16 9.53C13.45 9.24 13.93 9.24 14.22 9.53C14.51 9.82 14.51 10.3 14.22 10.59L10.64 14.18C10.5 14.33 10.3 14.4 10.11 14.4Z"
+                      fill="currentColor"
+                    ></path>
+                  </g>
+                  <defs>
+                    <filter id="shadow">
+                      <fedropshadow
+                        dx="0"
+                        dy="1"
+                        stdDeviation="0.6"
+                        flood-opacity="0.5"
+                      ></fedropshadow>
+                    </filter>
+                  </defs>
+                </svg>
+              </div>
+              <p>
+                <span style="--i: 0">S</span>
+                <span style="--i: 1">e</span>
+                <span style="--i: 2">n</span>
+                <span style="--i: 3">d</span>
+              </p>
+            </div>
+            <div class="state state--sent">
+              <div class="icon">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  height="1em"
+                  width="1em"
+                  stroke-width="0.5px"
+                  stroke="black"
+                >
+                  <g style="filter: url(#shadow)">
+                    <path
+                      fill="currentColor"
+                      d="M12 22.75C6.07 22.75 1.25 17.93 1.25 12C1.25 6.07 6.07 1.25 12 1.25C17.93 1.25 22.75 6.07 22.75 12C22.75 17.93 17.93 22.75 12 22.75ZM12 2.75C6.9 2.75 2.75 6.9 2.75 12C2.75 17.1 6.9 21.25 12 21.25C17.1 21.25 21.25 17.1 21.25 12C21.25 6.9 17.1 2.75 12 2.75Z"
+                    ></path>
+                    <path
+                      fill="currentColor"
+                      d="M10.5795 15.5801C10.3795 15.5801 10.1895 15.5001 10.0495 15.3601L7.21945 12.5301C6.92945 12.2401 6.92945 11.7601 7.21945 11.4701C7.50945 11.1801 7.98945 11.1801 8.27945 11.4701L10.5795 13.7701L15.7195 8.6301C16.0095 8.3401 16.4895 8.3401 16.7795 8.6301C17.0695 8.9201 17.0695 9.4001 16.7795 9.6901L11.1095 15.3601C10.9695 15.5001 10.7795 15.5801 10.5795 15.5801Z"
+                    ></path>
+                  </g>
+                </svg>
+              </div>
+              <p>
+                <span style="--i: 5">S</span>
+                <span style="--i: 6">e</span>
+                <span style="--i: 7">n</span>
+                <span style="--i: 8">t</span>
+              </p>
+            </div>
+          </button>
+        </div>
+        <div>
 
                 </form>
             </div>
@@ -462,12 +446,13 @@ ul {
     .text-green {
     font-size: 24px;
     font-weight: bold;
-    text-align: center;
+
     font-family: "satisfy", cursive;
     color: #f53b57;
 
 
     }
+
 
     .button{
         align-items: center;
@@ -480,6 +465,17 @@ ul {
 
 
 </style>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+  $(document).ready(function () {
+    setTimeout(function () {
+      var contactModal = new bootstrap.Modal(document.getElementById('exampleModal'));
+      contactModal.show();
+    }, 2000);
+  });
+</script>
 
 </body>
 

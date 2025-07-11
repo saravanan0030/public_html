@@ -1,5 +1,4 @@
 @include('inc/header')
-
 <section class="pt-cus">
     <div class="container pt-5">
         <div class="row py-5 bg-blue rounded-2 mt-5">
@@ -14,13 +13,13 @@
                 </div>
                 <div class="pb-3">
                     <div class="h-100">
-                        <span class="fw-bold text-blue ">Phone Number - </span><span>+91 9600 888 600 </span> 
+                        <span class="fw-bold text-blue ">Phone Number - </span><span>+91 9600 888 600 </span>
                     </div>
                 </div>
                 <div class="pb-3">
                     <div class="h-100">
                         <span class="fw-bold text-blue ">Address - </span><span> No.150/1B, Nethaji Nagar, Thanakkankulam Main Road, Thirunagar(PO), Madurai, Tamil Nadu, India, Zip – 625 006.
-                        </span> 
+                        </span>
                     </div>
                 </div>
             </div>
@@ -37,4 +36,12 @@
         </div>
     </div>
 </section>
+
+
+
+
+
+
+
+
 @include('inc/footer')
