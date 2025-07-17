@@ -19,20 +19,22 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 {{-- AOS Link --}}
-
+<link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+<!-- AOS JS -->
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-</style>
+
 <body>
 
 
 
-    <section class="mx-5 ">
-  <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-<div class="carousel-indicators">
+    <section class= " mx-5  ">
+  <div id="carouselExampleIndicators" class="carousel slide " data-bs-ride="carousel">
+<div class="carousel-indicators pb-1 pt-1">
   <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
   <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
   <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
@@ -50,7 +52,7 @@
             <div class="col-lg-6 col-md-6 text-center">
               <img src="assets/home/banner-2.png" class="img-fluid w-50 rounded" alt="banner">
             </div>
-            <div class="col-lg-6 col-md-6 text-lg-start text-center mt-4 mt-md-0">
+            <div class="col-lg-6 col-md-6 text-lg-start text-center mt-4 mt-md-0 sm-px-1">
               <h2 class="text-theme pb-3 fw-bold fs-2">High Quality Electric Power & Control Panel Manufacturer in India</h2>
                 <ul class="text-light list-unstyled">
                 <li><i class="fa fa-spinner fa-spin me-2"></i> APFC Panel</li>
@@ -61,7 +63,7 @@
               </ul>
               <div class="d-flex align-items-center justify-content-center justify-content-lg-start pb-3">
 
-                <button class="explore__card-btn nw-ct-btn re-hero-btn">Explore Now <i class="bi bi-arrow-right"></i></button>
+                <button class="explore__card-btn nw-ct-btn re-hero-btn sm-pt-5">Explore Now <i class="bi bi-arrow-right"></i></button>
               </div>
 
             </div>
@@ -73,7 +75,7 @@
       <div class="carousel-item " >
         <div class="container">
           <div class="row align-items-center justify-content-center px-5">
-            <div class=" col-lg-6 col-md-6 text-lg-start text-center mt-4 mt-md-0 px-5">
+            <div class=" col-lg-6 col-md-6 text-lg-start text-center mt-4 mt-md-0 ">
               <h2 class="text-theme pb-3 fw-bold fs-2">Auto Mains Failure Panel</h2>
               <ul class="text-light list-unstyled ">
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Modes: Manual / Semi-Auto / Fully Auto AMFS</li>
@@ -97,7 +99,7 @@
             <div class="col-lg-6 text-center">
               <img src="assets/home/panel-1.png" class="img-fluid w-75" alt="banner">
             </div>
-            <div class="col-lg-6 text-lg-start text-center">
+            <div class="col-lg-6 col-md-6 text-lg-start text-center  mt-4 mt-md-0 ">
               <h2 class="text-theme pb-3 fw-bold fs-2">Power Control Center Panels</h2>
               <ul class="text-light list-unstyled">
                 <li><i class="fa fa-spinner fa-spin me-2"></i> APFC Panel</li>
@@ -106,7 +108,7 @@
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Bus Coupler with Interlocking</li>
                 <li><i class="fa fa-spinner fa-spin me-2"></i> 10+ Years of Success</li>
               </ul>
-              <button class="explore__card-btn nw-ct-btn re-hero-btn mt-3">Explore Now <i class="bi bi-arrow-right arrow"></i></button>
+              <button class="explore__card-btn nw-ct-btn re-hero-btn  sm-mt-5">Explore Now <i class="bi bi-arrow-right arrow"></i></button>
             </div>
           </div>
         </div>
@@ -117,7 +119,7 @@
       <div class="carousel-item">
         <div class="container">
           <div class="row align-items-center justify-content-center">
-            <div class="col-lg-6 text-lg-start text-center ">
+            <div class="col-lg-6 col-md-6 text-lg-start text-center  mt-4 mt-md-0  ">
               <h2 class="text-theme pb-3 fw-bold fs-2 px-5">Automatic Power Factor Correction Panels</h2>
               <ul class="text-light list-unstyled px-5">
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Modular and Non-Compartmentalized Design</li>
@@ -139,7 +141,7 @@
       <div class="carousel-item">
         <div class="container">
           <div class="row align-items-center justify-content-center">
-            <div class="col-lg-6 text-center">
+            <div class="col-lg-6  col-md-6  text-lg-start text-center  mt-4 mt-md-0 ">
               <img src="assets/home/pannel-3.png" class="img-fluid w-75" alt="banner">
             </div>
             <div class="col-lg-6 text-lg-start text-center">
@@ -159,7 +161,7 @@
       <div class="carousel-item">
         <div class="container">
           <div class="row align-items-center justify-content-center">
-            <div class="col-lg-6 text-lg-start  ps-4 text-center ">
+            <div class="col-lg-6 col-md-6 text-lg-start  mt-4 mt-md-0 text-center ">
               <h2 class="text-theme pb-3 fw-bold fs-2 px-5">Fire Hydrant Control Panel</h2>
               <ul class="text-light list-unstyled px-5">
                 <li><i class="fa fa-spinner fa-spin me-2"></i> DOL, STAR-DELTA, ATS, Soft Starter, VFD</li>
@@ -179,23 +181,6 @@
     </div>
   </div>
 </section>
-
-
-
-{{-- side icone section --}}
-
-
-
-
-<div class="share-icons">
-  <ul>
-    <li class="facebook"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-    <li class="twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
-    <li class="whatsapp"><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-    <li class="instagram"><a href="#"><i class="fab fa-instagram"></i></a></li>
-    <li class="linkedin"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-  </ul>
-</div>
 
 
 
@@ -253,7 +238,7 @@
 
             <div class="whytxt pt-5 mx-2 text-center  md-mx-5">
               <h5 style="font-weight: 400">Customer First</h5>
-                <p class="mt-5 " style=" align-items-center"> Being a world-class company means taking full responsibility in every aspect of conducting business, including collaboration with both customers and suppliers, which we do not hesitate to advocate for if it helps achieve a world-class outcome.  </p>
+                <p class="mt-5 w-auto" style=" align-items-center"> Being a world-class company means taking full responsibility in every aspect of conducting business, including collaboration with both customers and suppliers, which we do not hesitate to advocate for if it helps achieve a world-class outcome.  </p>
             </div>
         </div>
 
@@ -437,28 +422,7 @@
          </div>
 </section>
 
-<!-- Our Infrastructure -->
-<section class=" px-5">
-    <div class="container-fluid">
-        <div class="row row-cols-lg-2 row-cols-1 align-items-center justify-content-center">
-            <div class="col order-lg-1  order-2">
-                <h5 class="text-blue fw-bold fs-2 py-3">Our <span>Infrastructure</span> </h5>
-                <p>At <a href="https://zelvoenergy.com" class=" text-decoration-none  ">Zelvo
-                        Energy</a> Engineering Services, we know the need for appropriate infrastructure to satisfy our
-                    customers' needs. We have made significant investments in a modern industrial environment since.
-                </p>
-                <p>Design, production, assembly, testing, and quality control are just a few of the several divisions
-                    that our facility is deliberately split among. This guarantees that, from beginning to end, every
-                    project is carried out effectively without sacrificing quality or delivery deadlines. </p>
-            </div>
-            <div class="col pb-4 px-5  order-lg-2  order-1 ">
-                <div class="text-center ">
-                    <img src="assets/home/infrastructure.png" class="img-fluid w-100 ms-5" alt="vision-mission" style="padding-left: 40px">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 
 
 
@@ -466,7 +430,7 @@
 
 <!-- Our Business Range -->
 <div class="container-fluid px-5 py-5">
-  <h5 class="text-blue text-center fs-2 pb-5">Our <span> Business Range</span></h5>
+  <h5 class="text-blue text-center fw-bold  fs-2 pb-5">Our <span> Business Range</span></h5>
   <div class="row g-4">
 
 
@@ -530,7 +494,13 @@
   </div>
 </div>
 
-
+<script>
+  AOS.init({
+    duration: 1200,
+    easing: 'ease-in-out',
+    once: true
+  });
+</script>
 
 {{--Our Core Thought --}}
 
@@ -618,14 +588,29 @@
     }
 </style>
 
+{{-- our certification --}}
 
+<section class="my-5 mx-5">
+  <div class="heading text-center">
+    <h5 class="text-primary fs-1 pb-5">  <span class="text-dark">Our  </span>Certification</h5>
+  </div>
 
-
+  <div class="container pb-5">
+    <div class="d-flex justify-content-center flex-wrap gap-4 row-lg-6 row-md-3">
+      <img src="assets/home/Our Certification/1.png" alt="Cert 1" class="cert-img">
+      <img src="assets/home/Our Certification/2.png" alt="Cert 2" class="cert-img">
+      <img src="assets/home/Our Certification/3.png" alt="Cert 3" class="cert-img">
+      <img src="assets/home/Our Certification/4.png" alt="Cert 4" class="cert-img">
+      <img src="assets/home/Our Certification/5.png" alt="Cert 5" class="cert-img">
+      <img src="assets/home/Our Certification/6.png" alt="Cert 6" class="cert-img">
+    </div>
+  </div>
+</section>
 
 
 <!-- We service worldwide -->
 <section>
-    <div class="container px-5 ">
+    <div class="container ">
         <div class="row row-cols-lg-2 row-cols-1 pb-4 mx-5 my-5">
             <div class="col order-lg-1 order-2">
                 <h2 class="fw-bold">As an Electrical Turnkey Contractor, We service worldwide</h2>
@@ -649,8 +634,141 @@
     </div>
 </section>
 
+
+
+{{--Our Prestigious Clients --}}
+
+
+<section class="clients-banner d-flex align-items-center justify-content-center text-center py-5 mx-5">
+  <h5 class="animated-banner-text">OUR PRESTIGIOUS CLIENTS</h5>
+</section>
+
+
+<section class="clients-section py-5">
+  <div class="container">
+    <div class="row justify-content-center g-4">
+
+
+      <div class="col-lg-4 col-md-4 col-sm-6">
+        <div class="client-box tilt-card">
+          <div class="client-img">
+            <img src="assets/Our_prestigious_clients/1.png" alt="Client 1">
+          </div>
+          <h6 class="client-title">GAMESA RENEWABLES PVT LTD</h6>
+        </div>
+      </div>
+        <div class="col-lg-4 col-md-4 col-sm-6">
+        <div class="client-box tilt-card">
+          <div class="client-img">
+            <img src="assets/Our_prestigious_clients/2.png" alt="Client 2">
+          </div>
+          <h6 class="client-title">WIND WORLD INDIA  LTD</h6>
+        </div>
+      </div>
+        <div class="col-lg-4 col-md-4 col-sm-6">
+        <div class="client-box tilt-card">
+          <div class="client-img">
+            <img src="assets/Our_prestigious_clients/3.png" alt="Client 3">
+          </div>
+          <h6 class="client-title">STERLING & WILSON PVT LTD</h6>
+        </div>
+      </div>
+         <div class="col-lg-4 col-md-4 col-sm-6">
+        <div class="client-box tilt-card">
+          <div class="client-img">
+            <img src="assets/Our_prestigious_clients/4.png" alt="Client 4">
+          </div>
+          <h6 class="client-title">POWER GAS ENERGY PVT LED</h6>
+        </div>
+      </div>
+         <div class="col-lg-4 col-md-4 col-sm-6">
+        <div class="client-box tilt-card">
+          <div class="client-img">
+            <img src="assets/Our_prestigious_clients/5.png" alt="Client 5">
+          </div>
+          <h6 class="client-title">LEAP GREEN ENERGY PVT LED</h6>
+        </div>
+      </div>
+         <div class="col-lg-4 col-md-4 col-sm-6">
+        <div class="client-box tilt-card ">
+          <div class="client-img m-5">
+            <img src="assets/Our_prestigious_clients/6.png " class="w-100" alt="Client 6" >
+          </div>
+          <h6 class="client-title">PRAYAGAA ENTERPRISES PVT LTD</h6>
+        </div>
+      </div>
+         <div class="col-lg-4 col-md-4 col-sm-6">
+        <div class="client-box tilt-card">
+          <div class="client-img">
+            <img src="assets/Our_prestigious_clients/7.png" alt="Client 7">
+          </div>
+          <h6 class="client-title">ENGIE ENERGY AND SERVICES  PVT LTD</h6>
+        </div>
+      </div>
+         <div class="col-lg-4 col-md-4 col-sm-6">
+        <div class="client-box tilt-card">
+          <div class="client-img">
+            <img src="assets/Our_prestigious_clients/8.png" alt="Client 8">
+          </div>
+          <h6 class="client-title">VESTAS WIDE TECHNOLOGY</h6>
+        </div>
+      </div>
+         <div class="col-lg-4 col-md-4 col-sm-6">
+        <div class="client-box tilt-card">
+          <div class="client-img">
+            <img src="assets/Our_prestigious_clients/9.png" alt="Client 9">
+          </div>
+          <h6 class="client-title">EVERRENEW ENERGY PVT LTD</h6>
+        </div>
+      </div>
+
+
+
+    </div>
+  </div>
+</section>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.2/vanilla-tilt.min.js"></script>
+
+<script>
+
+  gsap.from(".client-box", {
+    opacity: 0,
+    y: 100,
+    duration: 1,
+    ease: "power3.out",
+    stagger: 0.2
+  });
+
+
+  document.querySelectorAll(".client-box").forEach(box => {
+    box.addEventListener("mouseenter", () => {
+      gsap.to(box.querySelector("img"), { scale: 1.1, duration: 0.3 });
+    });
+    box.addEventListener("mouseleave", () => {
+      gsap.to(box.querySelector("img"), { scale: 1.0, duration: 0.3 });
+    });
+  });
+
+
+  VanillaTilt.init(document.querySelectorAll(".tilt-card"), {
+    max: 15,
+    speed: 400,
+    glare: true,
+    "max-glare": 0.3,
+  });
+</script>
+
+
+
 <!-- Why Choose  -->
-<section>
+
+<section >
     <div class="container-fluid px-5 py-5">
         <div class="row">
                <h2 class="text-blue fw-bold fs-2 text-lg-center pb-lg-5">Why Our Clients <span>Trust Us</span> </h2>
@@ -822,6 +940,8 @@
     </div>
     </div>
 </section>
+
+
 
 <style>
     .choose{

@@ -42,16 +42,17 @@
     <!-- Font Awesome -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
 
+
 </head>
 
 <body>
-                <section>
+<section>
   <nav class="navbar navbar-expand-lg navbar-light bg-light mx-5 fixed-top" id="navbar">
     <a class="ms-4 px-4" href="/">
       <img src="/assets/logo.png" class="img-fluid me-lg-0 me-auto" width="80" alt="Zelvo Engineering logo">
     </a>
 
-   <button class="navbar-toggler super-blob-toggle collapsed" type="button"
+ <button class="navbar-toggler super-blob-toggle collapsed" type="button"
   data-bs-toggle="collapse" data-bs-target="#navbarsupportedcontent"
   aria-controls="navbarsupportedcontent" aria-expanded="false" aria-label="Toggle navigation">
   <div class="blob-icon">
@@ -62,7 +63,7 @@
 </button>
 
 
-    <div class="collapse navbar-collapse" id="navbarsupportedcontent">
+    <div class="collapse navbar-collapse sho" id="navbarsupportedcontent">
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0 px-5 px-lg-5 mx-3">
         <li class="nav-item">
           <a class="nav-link active" href="/">Home</a>
@@ -71,20 +72,20 @@
           <a class="nav-link" href="/about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/services">Services</a>
+          <a class="nav-link" href="https://zelvoenergy.com/services"target="_blank">Services</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/ourproducts">Products</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link btn btn-primary text-white px-3 ms-lg-3 mt-2 mt-lg-0" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#team">
-            Contact Us
-          </a>
+            <a class="nav-linked primary-landing-btn text-center aling-content-center text-decoration-none d-flex " data-bs-toggle="modal"
+                                        data-bs-target="#exampleModal" href="#team"> Contact Us</a>
         </li>
       </ul>
     </div>
   </nav>
 </section>
+
 
  <script>
   $(document).ready(function () {
@@ -115,7 +116,22 @@
 
 
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+{{-- side icone section --}}
+
+
+
+
+<div class="share-icons">
+  <ul>
+    <li class="facebook"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+    <li class="twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
+    <li class="whatsapp"><a href=" https://wa.me/+919600888600"><i class="fab fa-whatsapp"></i></a></li>
+    <li class="instagram"><a href="https://www.instagram.com/zelvoenergyofficial/"><i class="fab fa-instagram"></i></a></li>
+    <li class="linkedin"><a href="https://in.linkedin.com/company/zelvo-energy-solution-pvt-ltd"><i class="fab fa-linkedin-in"></i></a></li>
+  </ul>
+</div>
+
 
 
 {{-- contact  --}}

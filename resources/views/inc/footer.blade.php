@@ -1,5 +1,7 @@
 <!-- footer sec -->
-<section class="py-5 rounded-md-5 rounded-5 m-md-5 m-2 mx-2 px-5 mx-5" style="background-color:#007aff;">
+
+
+<section class="py-5 rounded-md-5 rounded-5 m-md-5 m-2 mx-2  mx-5" style="background-color:#007aff;">
         <div class="container">
             <div class="row">
                 <div class="py-5">

@@ -1,4 +1,350 @@
-@include('inc/header')
+ @include('inc/header')
+
+
+<section class="container py-5 px-5 my-5 ">
+  <div class="row justify-content-center g-4">
+
+    <!-- Card 1 -->
+    <div class="col-md-6 col-lg-4">
+      <div class="custom-card p-3">
+        <img src="/assets/product-img/1.png" alt="Software Development" class="custom-img mb-3" />
+        <h5 class="card-title text-dark"> Power Control Center Panels (PCC)</h5>
+        <p class="text-muted">
+         We are Tamil Nadu's best PCC panel and power control centre manufacturer. Like modules, electrical power control centre panels—PCC Panels—manage power supplies in large commercial and industrial operations. Large machinery, tools, motors, and transformers need controls to get power. PCC panels have top, middle, or horizontal chambers, aluminium or copper bars, and top, bottom, front, or rear wire terminations.
+        </p>
+        <div class="mt-3 d-flex align-items-center">
+          <a href="#" class="learn-more">
+           Get a price quotes
+            <span class="arrow-btn">
+              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M7 17L17 7" />
+                <path d="M17 7H8" />
+                <path d="M17 7V16" />
+              </svg>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="col-md-6 col-lg-4">
+      <div class="custom-card p-3">
+        <img src="/assets/comp2-BZLUKXsY.png" alt="Web Development" class="custom-img mb-3" />
+        <h5 class="card-title text-dark">Web Development</h5>
+        <p class="text-muted">
+          We build modern, responsive, and secure websites tailored to your business needs. From landing pages to e-commerce, we deliver performance.
+        </p>
+        <div class="mt-3 d-flex align-items-center">
+          <a href="#" class="learn-more">
+            Learn More
+            <span class="arrow-btn">
+              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M7 17L17 7" />
+                <path d="M17 7H8" />
+                <path d="M17 7V16" />
+              </svg>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+
+
+      <!-- Card 2 -->
+    <div class="col-md-6 col-lg-4">
+      <div class="custom-card p-3">
+        <img src="/assets/comp2-BZLUKXsY.png" alt="Web Development" class="custom-img mb-3" />
+        <h5 class="card-title text-dark">Web Development</h5>
+        <p class="text-muted">
+          We build modern, responsive, and secure websites tailored to your business needs. From landing pages to e-commerce, we deliver performance.
+        </p>
+        <div class="mt-3 d-flex align-items-center">
+          <a href="#" class="learn-more">
+            Learn More
+            <span class="arrow-btn">
+              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M7 17L17 7" />
+                <path d="M17 7H8" />
+                <path d="M17 7V16" />
+              </svg>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+      <!-- Card 2 -->
+    <div class="col-md-6 col-lg-4">
+      <div class="custom-card p-3">
+        <img src="/assets/comp2-BZLUKXsY.png" alt="Web Development" class="custom-img mb-3" />
+        <h5 class="card-title text-dark">Web Development</h5>
+        <p class="text-muted">
+          We build modern, responsive, and secure websites tailored to your business needs. From landing pages to e-commerce, we deliver performance.
+        </p>
+        <div class="mt-3 d-flex align-items-center">
+          <a href="#" class="learn-more">
+            Learn More
+            <span class="arrow-btn">
+              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M7 17L17 7" />
+                <path d="M17 7H8" />
+                <path d="M17 7V16" />
+              </svg>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+      <!-- Card 2 -->
+    <div class="col-md-6 col-lg-4">
+      <div class="custom-card p-3">
+        <img src="/assets/comp2-BZLUKXsY.png" alt="Web Development" class="custom-img mb-3" />
+        <h5 class="card-title text-dark">Web Development</h5>
+        <p class="text-muted">
+          We build modern, responsive, and secure websites tailored to your business needs. From landing pages to e-commerce, we deliver performance.
+        </p>
+        <div class="mt-3 d-flex align-items-center">
+          <a href="#" class="learn-more">
+            Learn More
+            <span class="arrow-btn">
+              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M7 17L17 7" />
+                <path d="M17 7H8" />
+                <path d="M17 7V16" />
+              </svg>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+{{--
+<section class="bg-servicebg px-4 py-10 lg:px-20 lg:py-24 mx-5" style="opacity: 1; transform: none;">
+    <div class="border-b-2  border-b-bordercolor">
+        <h2 class="text-black font-bold text-xl lg:text-5xl">Our Product</h2>
+        <h3 class="text-customText font-semibold text-base lg:text-xl py-4">
+            Explore our full range of services for seamless solutions to your challenges
+        </h3>
+    </div>
+    <details class=" lg:hidden group border-b-2 group border-b-bordercolor  " open>
+        <summary class="flex cursor-pointer list-none items-center justify-between py-2 text-lg font-medium text-secondary-900 group-open:text-primary-500">
+            <h3 class="text-black text-xl font-bold py-3 xl:text-3xl">Software Development</h3>
+         <div>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="block h-5 w-5 group-open:hidden"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15"></path>
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15"></path></svg>
+
+         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hidden h-5 w-5 group-open:block"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15"></path><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15"></path></svg>
+
+            </div>
+        </summary>
+            <div class="pb-4 text-secondary-500">
+                <img src="/assets/comp1-SJ8cuahB.png" alt="Software Development " class=" w-full h-full  md:px-40  -rotate-[5deg] ">
+                <p class="text-customText pt-2 font-semibold text-base lg:text-sm  2xl:text-base">
+                    Empower your business with our custom software development services. From concept to deployment, we deliver tailored solutions. Contact us to discuss your project and drive growth.
+                </p>
+            </div>
+            <div class="flex justify-start pt-4">
+                <p class="font-semibold text-lg text-orange"> Learn More</p>
+                <div class="rounded-full bg-white h-min mx-2 group-hover:bg-customOrange transform transition duration-500 ease-in-out">
+                    <a href="#"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 17L17 7M17 7H8M17 7V16" class="stroke-current text-black p-10  group-hover:text-white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg><path d="M7 17L17 7M17 7H8M17 7V16" class="stroke-current text-black p-10  group-hover:text-white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></a>
+                </div>
+            </div>
+        </div>
+    </details>
+    <div class="lg:block hidden">
+        <div class=" border-b-2 group border-b-bordercolor py-6 lg:py-20 grid grid-cols-1 lg:grid-cols-3">
+            <h3 class="text-black text-xl font-bold py-3 xl:text-3xl">Software Development</h3>
+            <p class="text-customText font-semibold text-base lg:text-sm  2xl:text-base">
+
+Empower your business with our custom software development services. From concept to deployment, we deliver tailored solutions. Contact us to discuss your project and drive growth.
+            </p>
+            <div class="flex justify-start transition-all ease-in-out group-hover:lg:py-10 group-hover:xl:py-0 lg:justify-end ">
+                <img src="/assets/comp1-SJ8cuahB.png" alt="Software Development" class=" pe-20 absolute lg:pt-10 xl:pt-0 lg:group-hover:block hidden ">
+                <div class="rounded-full bg-white h-min p-2 m-5 group-hover:bg-customOrange transform transition duration-500 ease-in-out">
+                <a href="/services/software-development-services"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 17L17 7M17 7H8M17 7V16" class="stroke-current text-black p-10  group-hover:text-white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg> </a></div>
+            </div>
+        </div>
+    </div>
+        </div>
+        <details class=" lg:hidden group border-b-2 group border-b-bordercolor ">
+            <summary class="flex cursor-pointer list-none items-center justify-between py-2 text-lg font-medium text-secondary-900 group-open:text-primary-500">
+                <h3 class="text-black text-xl font-bold py-3 xl:text-3xl"> Web Developer</h3>
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="block h-5 w-5 group-open:hidden"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15"></path></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hidden h-5 w-5 group-open:block"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15"></path></svg>
+                </div>
+            </summary>
+            <div class="pb-4 text-secondary-500">
+                <img src="/assets/comp2-BZLUKXsY.png" alt="Web Development " class=" w-full h-full md:px-40  -rotate-[5deg] ">
+                <p class="text-customText pt-2 font-semibold text-base lg:text-sm  2xl:text-base">
+                    At WizInoa, we create custom web solutions just for you. Our expert team builds high-quality websites for any business. From simple sites to dynamic apps and e-commerce platforms, we bring your vision to life.
+                </p>
+                <div class="flex justify-start pt-4">
+                    <p class="font-semibold text-lg text-orange">
+                         Learn More
+                    </p>
+                    <div class="rounded-full bg-white h-min mx-2 group-hover:bg-customOrange transform transition duration-500 ease-in-out">
+                        <a href="#"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 17L17 7M17 7H8M17 7V16" class="stroke-current text-black p-10  group-hover:text-white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg> <path d="M7 17L17 7M17 7H8M17 7V16" class="stroke-current text-black p-10  group-hover:text-white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></a>
+                    </div>
+                </div>
+            </div>
+        </details>
+
+
+
+
+
+         <div class="lg:block hidden">
+        <div class=" border-b-2 group border-b-bordercolor py-6 lg:py-20 grid grid-cols-1 lg:grid-cols-3">
+            <h3 class="text-black text-xl font-bold py-3 xl:text-3xl">Software Development</h3>
+            <p class="text-customText font-semibold text-base lg:text-sm  2xl:text-base">
+
+Empower your business with our custom software development services. From concept to deployment, we deliver tailored solutions. Contact us to discuss your project and drive growth.
+            </p>
+            <div class="flex justify-start transition-all ease-in-out group-hover:lg:py-10 group-hover:xl:py-0 lg:justify-end ">
+                <img src="/assets/comp1-SJ8cuahB.png" alt="Software Development" class=" pe-20 absolute lg:pt-10 xl:pt-0 lg:group-hover:block hidden ">
+                <div class="rounded-full bg-white h-min p-2 m-5 group-hover:bg-customOrange transform transition duration-500 ease-in-out">
+                <a href="/services/software-development-services"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 17L17 7M17 7H8M17 7V16" class="stroke-current text-black p-10  group-hover:text-white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg> </a></div>
+            </div>
+        </div>
+    </div>
+        </div>
+        <details class=" lg:hidden group border-b-2 group border-b-bordercolor ">
+            <summary class="flex cursor-pointer list-none items-center justify-between py-2 text-lg font-medium text-secondary-900 group-open:text-primary-500">
+                <h3 class="text-black text-xl font-bold py-3 xl:text-3xl"> Web Developer</h3>
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="block h-5 w-5 group-open:hidden"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15"></path></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hidden h-5 w-5 group-open:block"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15"></path></svg>
+                </div>
+            </summary>
+            <div class="pb-4 text-secondary-500">
+                <img src="/assets/comp2-BZLUKXsY.png" alt="Web Development " class=" w-full h-full md:px-40  -rotate-[5deg] ">
+                <p class="text-customText pt-2 font-semibold text-base lg:text-sm  2xl:text-base">
+                    At WizInoa, we create custom web solutions just for you. Our expert team builds high-quality websites for any business. From simple sites to dynamic apps and e-commerce platforms, we bring your vision to life.
+                </p>
+                <div class="flex justify-start pt-4">
+                    <p class="font-semibold text-lg text-orange">
+                         Learn More
+                    </p>
+                    <div class="rounded-full bg-white h-min mx-2 group-hover:bg-customOrange transform transition duration-500 ease-in-out">
+                        <a href="#"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 17L17 7M17 7H8M17 7V16" class="stroke-current text-black p-10  group-hover:text-white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg> <path d="M7 17L17 7M17 7H8M17 7V16" class="stroke-current text-black p-10  group-hover:text-white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></a>
+                    </div>
+                </div>
+            </div>
+        </details>
+
+
+
+
+
+         <div class="lg:block hidden">
+        <div class=" border-b-2 group border-b-bordercolor py-6 lg:py-20 grid grid-cols-1 lg:grid-cols-3">
+            <h3 class="text-black text-xl font-bold py-3 xl:text-3xl">Software Development</h3>
+            <p class="text-customText font-semibold text-base lg:text-sm  2xl:text-base">
+
+Empower your business with our custom software development services. From concept to deployment, we deliver tailored solutions. Contact us to discuss your project and drive growth.
+            </p>
+            <div class="flex justify-start transition-all ease-in-out group-hover:lg:py-10 group-hover:xl:py-0 lg:justify-end ">
+                <img src="/assets/comp1-SJ8cuahB.png" alt="Software Development" class=" pe-20 absolute lg:pt-10 xl:pt-0 lg:group-hover:block hidden ">
+                <div class="rounded-full bg-white h-min p-2 m-5 group-hover:bg-customOrange transform transition duration-500 ease-in-out">
+                <a href="/services/software-development-services"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 17L17 7M17 7H8M17 7V16" class="stroke-current text-black p-10  group-hover:text-white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg> </a></div>
+            </div>
+        </div>
+    </div>
+        </div>
+        <details class=" lg:hidden group border-b-2 group border-b-bordercolor ">
+            <summary class="flex cursor-pointer list-none items-center justify-between py-2 text-lg font-medium text-secondary-900 group-open:text-primary-500">
+                <h3 class="text-black text-xl font-bold py-3 xl:text-3xl"> Web Developer</h3>
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="block h-5 w-5 group-open:hidden"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15"></path></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hidden h-5 w-5 group-open:block"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15"></path></svg>
+                </div>
+            </summary>
+            <div class="pb-4 text-secondary-500">
+                <img src="/assets/comp2-BZLUKXsY.png" alt="Web Development " class=" w-full h-full md:px-40  -rotate-[5deg] ">
+                <p class="text-customText pt-2 font-semibold text-base lg:text-sm  2xl:text-base">
+                    At WizInoa, we create custom web solutions just for you. Our expert team builds high-quality websites for any business. From simple sites to dynamic apps and e-commerce platforms, we bring your vision to life.
+                </p>
+                <div class="flex justify-start pt-4">
+                    <p class="font-semibold text-lg text-orange">
+                         Learn More
+                    </p>
+                    <div class="rounded-full bg-white h-min mx-2 group-hover:bg-customOrange transform transition duration-500 ease-in-out">
+                        <a href="#"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 17L17 7M17 7H8M17 7V16" class="stroke-current text-black p-10  group-hover:text-white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg> <path d="M7 17L17 7M17 7H8M17 7V16" class="stroke-current text-black p-10  group-hover:text-white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></a>
+                    </div>
+                </div>
+            </div>
+        </details>
+
+
+
+
+         <div class="lg:block hidden">
+        <div class=" border-b-2 group border-b-bordercolor py-6 lg:py-20 grid grid-cols-1 lg:grid-cols-3">
+            <h3 class="text-black text-xl font-bold py-3 xl:text-3xl">Software Development</h3>
+            <p class="text-customText font-semibold text-base lg:text-sm  2xl:text-base">
+
+Empower your business with our custom software development services. From concept to deployment, we deliver tailored solutions. Contact us to discuss your project and drive growth.
+            </p>
+            <div class="flex justify-start transition-all ease-in-out group-hover:lg:py-10 group-hover:xl:py-0 lg:justify-end ">
+                <img src="/assets/comp1-SJ8cuahB.png" alt="Software Development" class=" pe-20 absolute lg:pt-10 xl:pt-0 lg:group-hover:block hidden ">
+                <div class="rounded-full bg-white h-min p-2 m-5 group-hover:bg-customOrange transform transition duration-500 ease-in-out">
+                <a href="/services/software-development-services"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 17L17 7M17 7H8M17 7V16" class="stroke-current text-black p-10  group-hover:text-white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg> </a></div>
+            </div>
+        </div>
+    </div>
+        </div>
+        <details class=" lg:hidden group border-b-2 group border-b-bordercolor ">
+            <summary class="flex cursor-pointer list-none items-center justify-between py-2 text-lg font-medium text-secondary-900 group-open:text-primary-500">
+                <h3 class="text-black text-xl font-bold py-3 xl:text-3xl"> Web Developer</h3>
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="block h-5 w-5 group-open:hidden"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15"></path></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hidden h-5 w-5 group-open:block"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15"></path></svg>
+                </div>
+            </summary>
+            <div class="pb-4 text-secondary-500">
+                <img src="/assets/comp2-BZLUKXsY.png" alt="Web Development " class=" w-full h-full md:px-40  -rotate-[5deg] ">
+                <p class="text-customText pt-2 font-semibold text-base lg:text-sm  2xl:text-base">
+                    At WizInoa, we create custom web solutions just for you. Our expert team builds high-quality websites for any business. From simple sites to dynamic apps and e-commerce platforms, we bring your vision to life.
+                </p>
+                <div class="flex justify-start pt-4">
+                    <p class="font-semibold text-lg text-orange">
+                         Learn More
+                    </p>
+                    <div class="rounded-full bg-white h-min mx-2 group-hover:bg-customOrange transform transition duration-500 ease-in-out">
+                        <a href="#"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 17L17 7M17 7H8M17 7V16" class="stroke-current text-black p-10  group-hover:text-white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg> <path d="M7 17L17 7M17 7H8M17 7V16" class="stroke-current text-black p-10  group-hover:text-white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></a>
+                    </div>
+                </div>
+            </div>
+        </details>
+
+        </section>
+ --}}
+
+
+
+
 
 <!-- banner -->
 
@@ -269,5 +615,5 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 @include('inc/footer')

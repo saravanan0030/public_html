@@ -39,6 +39,7 @@ Route::get('/about', function () {
     return view('about');
 });
 
+
 // Route::post('/submit', [FormController::class, 'store'])->name('form.submit');
 Route::get('/thank-you', [FormController::class, 'thankYou'])->name('form.thankyou');
 
