@@ -46,24 +46,18 @@
 </head>
 
 <body>
+
 <section>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light mx-5 fixed-top" id="navbar">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light mx-5 fixed-top" id="navbar" >
     <a class="ms-4 px-4" href="/">
       <img src="/assets/logo.png" class="img-fluid me-lg-0 me-auto" width="80" alt="Zelvo Engineering logo">
     </a>
 
- <button class="navbar-toggler super-blob-toggle collapsed" type="button"
-  data-bs-toggle="collapse" data-bs-target="#navbarsupportedcontent"
-  aria-controls="navbarsupportedcontent" aria-expanded="false" aria-label="Toggle navigation">
-  <div class="blob-icon">
-    <span></span>
-    <span></span>
-    <span></span>
-  </div>
-</button>
 
-
-    <div class="collapse navbar-collapse sho" id="navbarsupportedcontent">
+ <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0 px-5 px-lg-5 mx-3">
         <li class="nav-item">
           <a class="nav-link active" href="/">Home</a>
@@ -78,7 +72,7 @@
           <a class="nav-link" href="/ourproducts">Products</a>
         </li>
         <li class="nav-item">
-            <a class="nav-linked primary-landing-btn text-center aling-content-center text-decoration-none d-flex " data-bs-toggle="modal"
+            <a class="nav-linked primary-landing-btn text-center aling-content-center text-decoration-none  " data-bs-toggle="modal"
                                         data-bs-target="#exampleModal" href="#team"> Contact Us</a>
         </li>
       </ul>
@@ -378,8 +372,8 @@
 </style>
 
 
-            <div class="state state--default  text-white" >
-              <div class="icon">
+            <div class="state state--default  text-white  " >
+              <div class="icon text-center">
                 <svg
                   width="1em"
                   height="1em"

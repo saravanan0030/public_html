@@ -6,16 +6,16 @@
 <section class="Arch-banner hero-bg pt-3 mt-5 mx-5 black-shadow-box ">
   <div class="color-overlay"></div>
   <div class="container position-relative z-2">
-    <div class="row py-5 align-items-center justify-content-center">
+    <div class="row py-5 align-items-center justify-content-center my-5">
       <div class="col text-center text-light animate-text">
-        <h1 class="text-theme f-1 display-6 fw-bold">Leading Electrical Panel Board Distributor In Madurai</h1>
-        <p class="w-75 font m-auto py-3 ">
+        <h1 class="text-theme f-1 display-6 fw-bold ">Leading Electrical Panel Board Distributor In Madurai</h1>
+        <p class="w-75 font m-auto py-3  responsive-p w-100">
       Zelvo Energy Solution Pvt Ltd (ZESPL) is an ISO 9001:2015 certified company offering end-to-end solutions in the energy sector. Starting in 2011 as M/s. LIT Energy, we have grown into a trusted provider of engineering and management services, including infrastructure development, construction, maintenance, and supply of electrical and sheet metal products.
         </p>
-        <p class="w-75 font m-auto f-1 pb-3">
+        <p class="w-75 font m-auto f-1 pb-3 responsive-p d-none d-lg-block w-100 ">
              Established as a corporate entity in 2018, ZESPL is now a leading turnkey developer for wind and solar projects. We manage all aspects of energy projects, from liaisons to construction, ensuring comprehensive support for our clients. Our mission is to be the go-to partner for all energy needs in the renewable sector.
         </p>
-        <p class="w-75 font m-auto f-1 pb-4">
+        <p class="w-75 font m-auto f-1 pb-4 responsive-p d-none d-lg-block w-100">
     Zelvo Energy Solution Pvt Ltd (ZESPL) works with customers to execute their project by providing all engineering & management services under one roof. 15 years of enriched technical and management experience has been enhanced as a proprietorship firm, firmly known as M/s.Lakshmutha Infratech (LIT) in 2011. We have started our journey with civil foundation work for Wind turbines.
         </p>
           {{-- <p class="w-75 font f-1 m-auto pb-4">
@@ -209,7 +209,7 @@
       entries.forEach(entry => {
         if (entry.isIntersecting) {
           entry.target.classList.add('visible');
-          observer.unobserve(entry.target); // One-time animation
+          observer.unobserve(entry.target);
         }
       });
     }, { threshold: 0.1 });
@@ -266,11 +266,11 @@
 </script>
 
 {{-- our services --}}
- <section class="services-section px-5 ">
+ <section class="services-section px-5">
   <h2 class="py-3 pt-1">Our Services</h2>
 
-  <div class="scroll-container">
-    <div class="scroll-track">
+  <div class="scroll-container ">
+    <div class="scroll-track  ">
 
       <div class="service-item"><i class="fas fa-bolt"></i><div>Industrial Electrification</div></div>
       <div class="service-item"><i class="fas fa-wind"></i><div>Wind Power Solution</div></div>
@@ -316,7 +316,7 @@
 
 
 </section>
- <section class="difference-section">
+ <section class="difference-section ">
   <div class="icon-box">
     <i class="fas fa-lightbulb"></i>
   </div>

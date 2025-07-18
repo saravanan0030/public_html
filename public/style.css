@@ -1,7 +1,11 @@
-:root{
 
+section{
+    overflow: hidden;
+
+}
 .carousel {
   margin-top: 80px;
+
 }
 
 .carousel h2.fs-2 {
@@ -15,7 +19,7 @@
 
 .carousel img,
 .about img {
-  width: 90%;
+  width: 100%;
   max-width: 400px;
   margin: 0 auto;
   display: block;
@@ -118,7 +122,7 @@
   }
 }
 
-}
+
   /* menu section */
  .banner-6-bg {
   min-height: 100vh;
@@ -127,7 +131,7 @@
   align-items: center;
 
 }
-
+ 
 /* carousel-indicators */
 
 .carousel-indicators {
@@ -855,10 +859,10 @@ body {
 }
 
 .carousel-control-prev{
-   margin-top: 15%;
+
 }
 .carousel-control-next{
-    margin-top: 15%;
+
 }
   /* css section Our Vision / Our Mission */
 
@@ -893,13 +897,12 @@ body {
 
     .whytxt {
         transition: all .3s;
-        padding: 0 45px 0px;
+        padding: 0 35px 0px;
         margin: 20px;
         background: rgba(0, 0, 0, 0) linear-gradient(311deg, #ebecf0 0%, #ebecf0 100%) 0% 0% no-repeat padding-box;
         box-shadow: inset -3px -6px 16px 0px rgba(253, 253, 253, .6901960784), inset 9px 5px 14px 0px rgba(0, 0, 0, .1490196078);
         border-radius: 20px;
         height: 100%;
-
         position: relative;
         box-shadow: -3px -6px 16px 0px rgba(253, 253, 253, .6901960784), 9px 5px 14px 0px rgba(0, 0, 0, .1490196078);
         border: 0px solid #fff;
@@ -1735,6 +1738,15 @@ button.carousel-control-next {
 Why Our Clients Trust Us */
 
 
+@media (max-width: 576px) {
+  .btn.rounded-circle i {
+    font-size: 1.6rem;
+  }
+}
+
+ .rounded-circle {
+    overflow: hidden;
+ }
 
     .blue-bg-section {
     background-color: #007bff;
@@ -2154,13 +2166,40 @@ Why Our Clients Trust Us */
   font-weight: 600;
   color: #333;
 }
-
+.rounded-circle:hover{
+ color: #00d9ff;
+}
 
 
 
 /* about.blade */
-.font{
+
+
+.responsive-p {
+  font-size: 14px;
+}
+
+@media (min-width: 576px) {
+  .responsive-p {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  .responsive-p {
     font-size: 16px;
+  }
+}
+
+@media (min-width: 992px) {
+  .responsive-p {
+    font-size: 18px;
+  }
+}
+
+.font{
+    font-size: 18px;
+    max-width: 100%;
 
 }
 .Arch-banner{
@@ -2173,7 +2212,18 @@ Why Our Clients Trust Us */
   overflow: hidden;
 }
 
-
+.Arch-banner {
+  background-image: url('assets/about.bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  min-height: 400px;
+  height: 100vh;
+  overflow: hidden;
+  box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.6) ;
+  z-index: 1;
+}
 
 .animate-text {
   position: relative;
@@ -2245,8 +2295,7 @@ Why Our Clients Trust Us */
       }
     }
 
-/*
-    Engineering Professional  */
+/*Engineering Professional  */
 .profile-section {
   background: linear-gradient(135deg, #f0f8ff, #ffffff);
   border-radius: 20px;
@@ -2943,13 +2992,13 @@ body:has(.difference-section) .difference-section {
 
 
 
-/* Section Styling */
+
 .trust-section {
   background-color: #f8f9fa;
   padding: 60px 0;
 }
 
-/* Title Styling */
+
 .trust-section .section-title {
   font-size: 2.2rem;
   font-weight: 700;
@@ -2962,7 +3011,7 @@ body:has(.difference-section) .difference-section {
   color: #198754;
 }
 
-/* Image Styling */
+
 .trust-img {
   width: 100%;
   max-width: 320px;
@@ -2974,7 +3023,7 @@ body:has(.difference-section) .difference-section {
   transform: scale(1.03);
 }
 
-/* Floating Info Boxes */
+
 .floating-label {
   position: absolute;
   background-color: rgba(255, 255, 255, 0.95);
@@ -3001,7 +3050,7 @@ body:has(.difference-section) .difference-section {
   right: 20px;
 }
 
-/* Carousel Controls Position */
+
 .carousel-control-prev,
 .carousel-control-next {
   top: 50%;
@@ -3010,13 +3059,13 @@ body:has(.difference-section) .difference-section {
   padding: 0 1rem;
 }
 
-/* Button Styling */
+
 .trust-section .btn {
   font-size: 16px;
   border-radius: 8px;
 }
 
-/* Responsive Spacing */
+
 @media (max-width: 991px) {
   .trust-img {
     max-width: 280px;
@@ -3347,7 +3396,7 @@ element.style {
     }
 
     .learn-more {
-      color: #ff6600;
+      color: rgb(163, 225, 163);
       font-weight: 600;
       display: inline-flex;
       align-items: center;
@@ -3367,12 +3416,72 @@ element.style {
     }
 
     .learn-more:hover .arrow-btn {
-      background-color: #ff6600;
+      background-color: #0d6efd;
     }
 
     .card-title {
       font-weight: bold;
     }
+      .custom-card {
+      background-color: #ffffff;
+      border-radius: 15px;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .custom-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+    }
+
+    .custom-img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 10px;
+    }
+
+    .learn-more {
+      display: inline-flex;
+      align-items: center;
+      text-decoration: none;
+      color: #007bff;
+      font-weight: 500;
+      transition: color 0.3s ease;
+    }
+
+    .learn-more:hover {
+      color: #0056b3;
+    }
+
+    .arrow-btn {
+      margin-left: 8px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #e9ecef;
+      border-radius: 50%;
+      width: 32px;
+      height: 32px;
+      transition: background-color 0.3s ease;
+    }
+
+    .learn-more:hover .arrow-btn {
+      background-color: #ced4da;
+    }
+
+    .custom-arrow {
+      stroke: #007bff;
+    }
+
+    .learn-more:hover .custom-arrow {
+      stroke: #0056b3;
+    }
+
  /* // X-Small devices (portrait phones, less than 576px)
 // No media query for `xs` since this is the default in Bootstrap
 
@@ -3402,4 +3511,4 @@ element.style {
 
  /* product 2 */
 
- 
+

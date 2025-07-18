@@ -108,7 +108,7 @@
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Bus Coupler with Interlocking</li>
                 <li><i class="fa fa-spinner fa-spin me-2"></i> 10+ Years of Success</li>
               </ul>
-              <button class="explore__card-btn nw-ct-btn re-hero-btn  sm-mt-5">Explore Now <i class="bi bi-arrow-right arrow"></i></button>
+              <button class="explore__card-btn nw-ct-btn re-hero-btn mb-4">Explore Now <i class="bi bi-arrow-right arrow"></i></button>
             </div>
           </div>
         </div>
@@ -152,7 +152,7 @@
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Meters as per application</li>
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Celebrating Years of Excellence!</li>
               </ul>
-              <button class="explore__card-btn nw-ct-btn re-hero-btn mt-3">Know More <i class="bi bi-arrow-right"></i></button>
+              <button class="explore__card-btn nw-ct-btn re-hero-btn mt-3 mb-3">Know More <i class="bi bi-arrow-right"></i></button>
             </div>
           </div>
         </div>
@@ -228,7 +228,7 @@
 
             <div class=" whytxt pt-5 mx-2 text-center md-mx-5" >
                  <h5 style="font-weight: 400">Uncompromising Quality</h5>
-                <p class="mt-5 " style=" align-items-center"> As an organization, we strive for total customer satisfaction and believe that it can be achieved through uncompromised quality products and services.</p>
+                <p class="mt-5  " style=" align-items-center"> As an organization, we strive for total customer satisfaction and believe that it can be achieved through uncompromised quality products and services.</p>
             </div>
         </div>
 
@@ -259,170 +259,135 @@
 
 
 <!-- Our Core Values -->
-<section>
-    <div class=" my-5 mx-5 "
-        style=" background: linear-gradient(135deg, #000428, #007aff);
-  color: white;
-  border-radius: 12px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);">
-        <div>
-            <h5 class="py-4 text-center display-6 fw-bold ">Our   <span>Core Values </span> </h>
+
+<section class="core-values mx-5 my-5">
+  <div class="container">
+    <h5 class="text-center display-6 fw-bold mb-4">Our <span>Core Values</span></h5>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
+
+      <!-- Card 1 -->
+      <div class="col">
+        <div class="effect-1 h-100">
+          <div class="effect-img">
+            <img src="assets/home/industries/1.png" alt="Chemical Plants" />
+          </div>
+          <div class="effect-text">
+            <h2>Chemical Plants</h2>
+            <p class="responsive-para">We deliver smart control systems for chemical plants ensuring safe, efficient production processes.</p>
+          <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+          </div>
         </div>
+      </div>
 
-        <div class="row pt-2 row-cols-lg-4 row-cols-1 col-lg-12 px-3">
-            <div class="col pb-3 cols-md-12 col-sm-6 ">
-                <div class="h-100">
-                    <div class="effect-1">
-                        <div class="effect-img">
-                            <img src="assets/home/industries/1.png" class="img-fluid" alt="Chemical Plants">
-                        </div>
-                        <div class="effect-text  col-lg-12 col-md-6">
-                            <h2>Chemical Plants</h2>
-
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
-                                purus consectetur, interdum felis in, auctor ligula.</p>
-                            <div class="effect-btn">
-                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
+      <!-- Card 2 -->
+      <div class="col">
+        <div class="effect-1 h-100">
+          <div class="effect-img">
+            <img src="assets/home/industries/3.png" alt="Oil & Gas Refineries" />
+          </div>
+          <div class="effect-text">
+            <h2>Oil & Gas Refineries</h2>
+            <p class="responsive-para">Control panels designed to handle hazardous environments in oil and gas operations.</p>
+    <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
                                     style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col pb-3 col-md-4 col-sm-6">
-                <div class="h-100">
-                    <div class="effect-1">
-                        <div class="effect-img">
-                            <img src="assets/home/industries/3.png" class="img-fluid" alt="Oil & Gas Refineries">
-                        </div>
-                        <div class="effect-text">
-                            <h2>Oil & Gas Refineries</h2>
-                            <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
-                                purus consectetur, interdum felis in, auctor ligula.</p>
-                            <div class="effect-btn">
-                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col pb-3  col-md-4 col-sm-6 ">
-                <div class="h-100">
-                    <div class="effect-1">
-                        <div class="effect-img">
-                            <img src="assets/home/industries/5.png" class="img-fluid"
-                                alt="Pharmaceutical Manufacturing">
-                        </div>
-                        <div class="effect-text">
-                            <h2>Pharmaceutical Manufacturing</h2>
-                            <p class=" text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
-                                purus consectetur, interdum felis in, auctor ligula.</p>
-                            <div class="effect-btn">
-                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col pb-3 col-md-4 col-sm-6 ">
-                <div class="h-100">
-                    <div class="effect-1">
-                        <div class="effect-img">
-                            <img src="assets/home/industries/6.png" class="img-fluid" alt="Power Plants">
-                        </div>
-                        <div class="effect-text">
-                            <h2>Power Plants</h2>
-                            <p class=" text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
-                                purus consectetur, interdum felis in, auctor ligula.</p>
-                            <div class="effect-btn">
-                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col pb-3 col-md-4 col-sm-6 pt-1">
-                <div class="h-100">
-                    <div class="effect-1">
-                        <div class="effect-img">
-                            <img src="assets/home/industries/2.png" class="img-fluid" alt="Solar Energy Systems">
-                        </div>
-                        <div class="effect-text">
-                            <h2>Solar Energy Systems</h2>
-                            <p class=" text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
-                                purus consectetur, interdum felis in, auctor ligula.</p>
-                            <div class="effect-btn">
-                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col pb-3 col-md-4 col-sm-6 pt-1">
-                <div class="h-100">
-                    <div class="effect-1">
-                        <div class="effect-img">
-                            <img src="assets/home/industries/4.png" class="img-fluid" alt="Steel Factories">
-                        </div>
-                        <div class="effect-text">
-                            <h2 class="text-blue fw-bold">Steel Factories</h2>
-                            <p class=" text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
-                                purus consectetur, interdum felis in, auctor ligula.</p>
-                            <div class="effect-btn">
-                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col pb-3 col-md-4 col-sm-6 pt-1">
-                <div class="h-100">
-                    <div class="effect-1">
-                        <div class="effect-img">
-                            <img src="assets/home/industries/7.png" class="img-fluid" alt="Agriculture">
-                        </div>
-                        <div class="effect-text">
-                            <h2 class="text-blue fw-bold">Agriculture</h2>
-                            <p class=" text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
-                                purus consectetur, interdum felis in, auctor ligula.</p>
-                            <div class="effect-btn">
-                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col pb-3 col-md-4 col-sm-6 pt-1 ">
-                <div class="h-100">
-                    <div class="effect-1">
-                        <div class="effect-img">
-                            <img src="assets/home/industries/8.png" class="img-fluid" alt="Textile">
-                        </div>
-                        <div class="effect-text">
-                            <h2 class=" text-decoration-none text-blue fw-bold">Textile</h2>
-                            <p class=" text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
-                                purus consectetur, interdum felis in, auctor ligula.</p>
-                            <div class="effect-btn">
-                                <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+          </div>
         </div>
-         </div>
+      </div>
+
+      <!-- Card 3 -->
+      <div class="col">
+        <div class="effect-1 h-100">
+          <div class="effect-img">
+            <img src="assets/home/industries/5.png" alt="Pharmaceutical Manufacturing" />
+          </div>
+          <div class="effect-text">
+            <h2>Pharmaceutical Manufacturing</h2>
+            <p class="responsive-para">Reliable automation systems for strict pharmaceutical standards and precision control.</p>
+   <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 4 -->
+      <div class="col">
+        <div class="effect-1 h-100">
+          <div class="effect-img">
+            <img src="assets/home/industries/6.png" alt="Power Plants" />
+          </div>
+          <div class="effect-text">
+            <h2>Power Plants</h2>
+            <p class="responsive-para">Robust panels tailored for high-voltage environments in thermal and hydro power plants.</p>
+   <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 5 -->
+      <div class="col">
+        <div class="effect-1 h-100">
+          <div class="effect-img">
+            <img src="assets/home/industries/2.png" alt="Solar Energy Systems" />
+          </div>
+          <div class="effect-text">
+            <h2>Solar Energy Systems</h2>
+            <p class="responsive-para">Modern panels for solar farms, enabling efficient power generation and monitoring.</p>
+              <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 6 -->
+      <div class="col">
+        <div class="effect-1 h-100">
+          <div class="effect-img">
+            <img src="assets/home/industries/4.png" alt="Steel Factories" />
+          </div>
+          <div class="effect-text">
+            <h2>Steel Factories</h2>
+            <p class="responsive-para">Industrial automation solutions for heavy-duty operations in steel manufacturing plants.</p>
+            <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 7 -->
+      <div class="col">
+        <div class="effect-1 h-100">
+          <div class="effect-img">
+            <img src="assets/home/industries/7.png" alt="Agriculture" />
+          </div>
+          <div class="effect-text">
+            <h2>Agriculture</h2>
+            <p class="responsive-para">Smart irrigation, motor control, and automation panels built for modern agriculture.</p>
+           <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 8 -->
+      <div class="col">
+        <div class="effect-1 h-100">
+          <div class="effect-img">
+            <img src="assets/home/industries/8.png" alt="Textile" />
+          </div>
+          <div class="effect-text">
+            <h2>Textile</h2>
+            <p class="responsive-para">Panels designed for seamless automation and energy efficiency in textile manufacturing.</p>
+         <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
 </section>
-
-
 
 
 
@@ -430,7 +395,8 @@
 
 <!-- Our Business Range -->
 <div class="container-fluid px-5 py-5">
-  <h5 class="text-blue text-center fw-bold  fs-2 pb-5">Our <span> Business Range</span></h5>
+
+  <h1 class="text-blue text-center fw-bold  fs-1 pb-4"> <span class="text-dark">Our</span>  <i> Business Range</i></h1>
   <div class="row g-4">
 
 
@@ -504,7 +470,7 @@
 
 {{--Our Core Thought --}}
 
-<section class=" d-none d-lg-block px-5 mx-5 ">
+<section class=" d-none d-lg-block  mx-5 ">
   <div class="container-fluid px-5 py-5 bg-core-section rounded-4">
     <div class="row align-items-center">
 
@@ -639,12 +605,12 @@
 {{--Our Prestigious Clients --}}
 
 
-<section class="clients-banner d-flex align-items-center justify-content-center text-center py-5 mx-5">
+<section class="clients-banner d-flex align-items-center justify-content-center text-center   mx-5">
   <h5 class="animated-banner-text">OUR PRESTIGIOUS CLIENTS</h5>
 </section>
 
 
-<section class="clients-section py-5">
+<section class="clients-section mx-5 my-3" style="  overflow: visible;">
   <div class="container">
     <div class="row justify-content-center g-4">
 
@@ -766,30 +732,30 @@
 
 
 
-<!-- Why Choose  -->
+<!-- Why out clint our trust us -->
 
 <section >
-    <div class="container-fluid px-5 py-5">
+    <div class="container-fluid px-5 py-5 mx-3 w-100 h-100"  style="overflow: hidden">
         <div class="row">
-               <h2 class="text-blue fw-bold fs-2 text-lg-center pb-lg-5">Why Our Clients <span>Trust Us</span> </h2>
+               <h2 class="text-blue fw-bold fs-2 text-center mb-3 mt-5">Why Our Clients <span>Trust Us</span> </h2>
 
             <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
 
                 <div class="carousel-inner ">
-                             <h2 class="text-center" >Why Choose Zelvo Engineering Solutions?</h2>>
 
-                    <div class="carousel-item active py-5 ">
+
+                    <div class="carousel-item active ">
 
                         <div class="row row-cols-lg-2 row-cols-1">
                             <div class="col pb-4">
                                   <div class="text-center  ">
-                                    <img src="assets/home/girl.png" width="300" class="img-fluid"
+                                    <img src="assets/home/girl.png"  class="img-fluid  d-none d-lg-block"
                                         alt="banner">
                                 </div>
 
-                     <div class="floating-text top-text">6+ Years of Expertise</div>
-                   <div class="floating-text left-text">7+ Happy Clients</div>
-                 <div class="floating-text right-text">58+ Product Variants</div>
+                     <div class="floating-text top-text d-none d-lg-block">6+ Years of Expertise</div>
+                   <div class="floating-text left-text d-none d-lg-block">7+ Happy Clients</div>
+                 <div class="floating-text right-text d-none d-lg-block">58+ Product Variants</div>
 
 
                             </div>
@@ -812,12 +778,12 @@
                         <div class="row row-cols-lg-2 row-cols-1">
                             <div class="col pb-4">
                                 <div class="text-center ">
-                                    <img src=" assets/home/girl.png" width="300" class="img-fluid"
+                                    <img src=" assets/home/girl.png"  class="img-fluid w-50 d-none d-lg-block"
                                         alt="banner">
                                 </div>
-                                       <div class="floating-text top-text">6+ Years of Expertise</div>
-                   <div class="floating-text left-text">7+ Happy Clients</div>
-                 <div class="floating-text right-text">58+ Product Variants</div>
+                    <div class="floating-text top-text d-none d-lg-block">6+ Years of Expertise</div>
+                   <div class="floating-text left-text d-none d-lg-block">7+ Happy Clients</div>
+                 <div class="floating-text right-text d-none d-lg-block">58+ Product Variants</div>
                             </div>
                             <div class="col">
 
@@ -832,9 +798,9 @@
                                   <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
                                     style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
                                 </div>
-                                       <div class="floating-text top-text">6+ Years of Expertise</div>
-                   <div class="floating-text left-text">7+ Happy Clients</div>
-                 <div class="floating-text right-text">58+ Product Variants</div>
+                                       <div class="floating-text top-text d-none d-lg-block">6+ Years of Expertise</div>
+                   <div class="floating-text left-text d-none d-lg-block">7+ Happy Clients</div>
+                 <div class="floating-text right-text d-none d-lg-block">58+ Product Variants</div>
                             </div>
                         </div>
                     </div>
@@ -842,12 +808,12 @@
                         <div class="row row-cols-lg-2 row-cols-1">
                             <div class="col pb-4">
                                 <div class="text-center ">
-                                    <img src=" assets/home/girl.png" width="300" class="img-fluid"
+                                    <img src=" assets/home/girl.png"  class="img-fluid w-50 d-none d-lg-block"
                                         alt="banner">
                                 </div>
-                                       <div class="floating-text top-text">6+ Years of Expertise</div>
-                   <div class="floating-text left-text">7+ Happy Clients</div>
-                 <div class="floating-text right-text">58+ Product Variants</div>
+                                       <div class="floating-text top-text d-none d-lg-block">6+ Years of Expertise</div>
+                   <div class="floating-text left-text d-none d-lg-block">7+ Happy Clients</div>
+                 <div class="floating-text right-text d-none d-lg-block">58+ Product Variants</div>
                             </div>
                             <div class="col">
                                 <h2 class="fw-bold fs-3 text-dark"> Wiring and effective assembly</h2>
@@ -868,12 +834,12 @@
                         <div class="row row-cols-lg-2 row-cols-1">
                             <div class="col pb-4">
                                 <div class="text-center ">
-                                    <img src=" assets/home/girl.png" width="300" class="img-fluid"
+                                    <img src=" assets/home/girl.png"  class="img-fluid w-50 d-none d-lg-block"
                                         alt="banner">
                                 </div>
-                                       <div class="floating-text top-text">6+ Years of Expertise</div>
-                   <div class="floating-text left-text">7+ Happy Clients</div>
-                 <div class="floating-text right-text">58+ Product Variants</div>
+                                       <div class="floating-text top-text d-none d-lg-block">6+ Years of Expertise</div>
+                   <div class="floating-text left-text d-none d-lg-block">7+ Happy Clients</div>
+                 <div class="floating-text right-text d-none d-lg-block">58+ Product Variants</div>
                             </div>
                             <div class="col">
                                 <h2 class="fw-bold fs-3 text-dark"> In depth Quality Assurance Testing</h2>
@@ -895,12 +861,12 @@
                         <div class="row row-cols-lg-2 row-cols-1">
                             <div class="col pb-4">
                                 <div class="text-center ">
-                                    <img src=" assets/home/girl.png" width="300" class="img-fluid"
+                                    <img src=" assets/home/girl.png" class="img-fluid w-50 d-none d-lg-block"
                                         alt="banner">
                                 </div>
-                                       <div class="floating-text top-text">6+ Years of Expertise</div>
-                   <div class="floating-text left-text">7+ Happy Clients</div>
-                 <div class="floating-text right-text">58+ Product Variants</div>
+                                       <div class="floating-text top-text d-none d-lg-block">6+ Years of Expertise</div>
+                   <div class="floating-text left-text d-none d-lg-block">7+ Happy Clients</div>
+                 <div class="floating-text right-text d-none d-lg-block">58+ Product Variants</div>
                             </div>
                             <div class="col">
                                 <h2 class="fw-bold fs-3 text-dark"> Certified Excellence</h2>
@@ -922,18 +888,15 @@
                     </div>
                 </div>
                 <div>
-                    <button class="carousel-control-prev px-5" type="button" data-bs-target="#carouselExampleAutoplaying"
-                        data-bs-slide="prev">
-                        <span class="bi bi-arrow-left-circle-fill fs-1 text-green" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </button>
-                </div>
-                <div>
-                    <button class="carousel-control-next px-5" type="button" data-bs-target="#carouselExampleAutoplaying"
-                        data-bs-slide="next">
-                        <span class="bi bi-arrow-right-circle-fill fs-1 text-green" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </button>
+  <button type="button" class="btn btn-outline-success rounded-circle me-5 mt-5 text-center"
+    data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+    <i class="bi bi-arrow-left-circle-fill fs-4"></i>
+  </button>
+
+  <button type="button" class="btn btn-outline-success rounded-circle me-5 mt-5 text-center"
+    data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+    <i class="bi bi-arrow-right-circle-fill fs-4"></i>
+  </button>
                 </div>
             </div>
         </div>
