@@ -1,7 +1,7 @@
 <!-- footer sec -->
 
 
-<section class="py-5 rounded-md-5 rounded-5 m-md-5 m-2 mx-2  mx-5" style="background-color:#007aff;">
+<section class="py-5 rounded-md-5 rounded-5 m-md-5 m-2 mx-2  mx-5" style="  background: rgba(0, 0, 0, 0) linear-gradient(311deg, #ebecf0 0%, #ebecf0 100%) 0% 0% no-repeat padding-box;;">
         <div class="container">
             <div class="row">
                 <div class="py-5">
@@ -9,9 +9,9 @@
                 </div>
             </div>
             <div class="row py-2">
-                <div class="col-lg-4 col-12 ">
-                    <h2 class="text-block">Zelvo Energy Solution Pvt Ltd</h2>
-                    <p class="text-block fs-10 ">Zelvo Energy Solution Pvt Ltd (ZESPL) is your reliable
+                <div class="col-lg-4 col-12  ">
+                    <h2 class="text-blue">Zelvo Energy Solutions Private Limited</h2>
+                    <p class="text-block fs-10 "> Zelvo Energy Solutions Private Limited (ZESPL) is your reliable
                         partner in the energy sector, offering end-to-end solutions from inception to execution. We
                         excel in delivering advanced infrastructure for new developments, engineering construction, and
                         industrial maintenance. Our capabilities include specialized services and the supply of a
@@ -19,7 +19,7 @@
                         energy. At ZESPL, we are passionate about driving sustainable innovation to power the future.
                         Partner with us to illuminate the path toward a cleaner, greener tomorrow.</p>
                     <div class="pb-4">
-                        <h6>Follows Us</h6>
+                        <h6 class="text-blue fs-5">Follows Us</h6>
                         <div>
                             <a href="https://www.facebook.com/share/1AEJM1CeMr/"><i class="bi bi-facebook text-dark fs-5 "></i></a>
                             <a href="https://www.instagram.com/zelvoenergyofficial?igsh=MW56YWs2cmtja2F3dQ=="><i class="bi bi-instagram mx-2  text-dark  fs-5"></i></a>
@@ -33,7 +33,7 @@
                 </div>
                 <div class="col-lg-2 col-md-6 col-12 ">
                     <div class="ms-lg-5 m-0">
-                        <h3 class="text-block">Quick Links</h3>
+                        <h3 class="text-blue">Quick Links</h3>
                         <ul class="list-unstyled">
                             <li class="text-white py-2">
                                 <a href="/home" class="text-decoration-none text-dark ">Home</a>
@@ -47,30 +47,24 @@
                             <li class="text-white py-2">
                                 <a href="/contact-us" class="text-decoration-none text-dark  ">Contact Us</a>
                             </li>
+                                  <li class="text-white py-2">
+                                <a href="/about" class="text-decoration-none text-dark opacity-75">About us</a>
+                            </li>
+                                 <li class="text-white py-2">
+                                <a href="/Our_CEO" class="text-decoration-none text-dark opacity-75">Our CEO</a>
+                            </li>
+
                         </ul>
                     </div>
-                           {{-- <div class="locateus">
+                            {{-- <div class="locateus">
  <iframe src=" https://maps.app.goo.gl/JKy6G5SEk9azStuEA" width="90%" height="480" ></iframe>
 
 </div> --}}
                 </div>
-                <div class="col-lg-2 col-md-6 col-12 ">
-                    <div class="ms-lg-5 m-0">
-                        <h3 class="text-block">Links</h3>
-                        <ul class="list-unstyled">
-                            <li class="text-white py-2">
-                                <a href="/about" class="text-decoration-none text-dark opacity-75">About us</a>
-                            </li>
 
-                            <li class="text-white py-2">
-                                <a href="/policy" class="text-decoration-none text-dark opacity-75">Policy</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
                 <div class="col-lg-4 col-md-6 col-12 ">
                     <div class="me-lg-5 m-0">
-                        <h3 class="text-block">Contact Us</h3>
+                        <h3 class="text-blue">Contact Us</h3>
                         <ul class="list-unstyled">
                             <li class="text-dark py-2">
                                 <h6>Company Location</h6>

@@ -131,7 +131,7 @@ section{
   align-items: center;
 
 }
- 
+
 /* carousel-indicators */
 
 .carousel-indicators {
@@ -776,7 +776,7 @@ body {
         background-color:   #1163fb;
         border: none;
         border-radius: 48px;
-        color: white;
+        color: #0575e6;
         font-family: Manrope, sans-serif;
         font-size: 16px;
         font-weight: 600;
@@ -813,7 +813,7 @@ body {
         transition: left .7s;
         background-position-x: 100%;
         background-color: #0e0e10;
-        color: #fff;
+        color: #0575e6;
         transition-property: var(--transform);
 
 
@@ -828,7 +828,7 @@ body {
     position: relative;
     overflow: hidden;
     z-index: 1;
-    color: #fff;
+    color: #0575e6;
     display: inline-block;
 }
 
@@ -1833,6 +1833,80 @@ Why Our Clients Trust Us */
 
 
 /* about */
+.bluegreen-shadow-box {
+  position: relative;
+
+  border-radius: 12px;
+  overflow: hidden;
+
+  z-index: 1;
+}
+
+.color-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(135deg, #f4f9ff, #ffffff);
+  border-radius: 20px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08);
+  z-index: 1;
+}
+
+.z-2 {
+  position: relative;
+  z-index: 2;
+}
+
+.animate-text {
+  animation: fadeInUp 1s ease-in-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.responsive-p {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #f1f1f1;
+}
+
+@media (min-width: 768px) {
+  .responsive-p {
+    font-size: 1.15rem;
+  }
+}
+
+
+.explore__card-btn,
+.nw-ct-btn,
+.re-hero-btn {
+  background-color: #0575e6;
+  color: #ffffff;
+  font-weight: 600;
+  padding: 0.75rem 2rem;
+  border-radius: 50px;
+  transition: all 0.3s ease;
+  border: none;
+}
+
+.explore__card-btn:hover,
+.nw-ct-btn:hover,
+.re-hero-btn:hover {
+  background-color: #007bff;
+  color: #007bff;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0, 255, 128, 0.4);
+}
 
 
 .black-shadow-box {
@@ -2174,62 +2248,58 @@ Why Our Clients Trust Us */
 
 /* about.blade */
 
-
-.responsive-p {
-  font-size: 14px;
-}
-
-@media (min-width: 576px) {
-  .responsive-p {
-    font-size: 15px;
-  }
-}
-
-@media (min-width: 768px) {
-  .responsive-p {
-    font-size: 16px;
-  }
-}
-
-@media (min-width: 992px) {
-  .responsive-p {
-    font-size: 18px;
-  }
-}
-
-.font{
-    font-size: 18px;
-    max-width: 100%;
-
-}
-.Arch-banner{
-  background-image: url('assets/about.bg.jpg');
-  background-size: cover;
-  background-position: center;
-  height: 600px;
-  position: relative;
-  z-index: 1;
-  overflow: hidden;
-}
-
 .Arch-banner {
   background-image: url('assets/about.bg.jpg');
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  height: 500px;
+  border-radius: 20px;
   position: relative;
-  min-height: 400px;
-  height: 100vh;
   overflow: hidden;
-  box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.6) ;
-  z-index: 1;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
 }
 
-.animate-text {
+
+.banner-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+  border-radius: 20px;
+}
+
+.slide-top-text {
   position: relative;
   z-index: 2;
-  animation: fadeInUp 2s ease;
+  opacity: 0;
+  transform: translateY(-100px);
+  animation: slideFromTop 1.2s ease-out forwards;
 }
+
+@keyframes slideFromTop {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+@media (max-width: 768px) {
+  .slide-top-text {
+    font-size: 1.8rem;
+    padding: 0 20px;
+  }
+}
+
+@media (min-width: 769px) {
+  .slide-top-text {
+    font-size: 2.8rem;
+  }
+}
+
 
 
 /* Our Certificates */
@@ -3482,33 +3552,32 @@ element.style {
       stroke: #0056b3;
     }
 
- /* // X-Small devices (portrait phones, less than 576px)
-// No media query for `xs` since this is the default in Bootstrap
-
-// Small devices (landscape phones, 576px and up)
-@media (min-width: 576px) { ... }
-
-// Medium devices (tablets, 768px and up)
-@media (min-width: 768px) { ... }
-
-// Large devices (desktops, 992px and up)
-@media (min-width: 992px) { ... }
-
-// X-Large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { ... }
-
-// XX-Large devices (larger desktops, 1400px and up)
-@media (min-width: 1400px) { ... } */
+  /* Our_CEO.blade.php */
 
 
-@media (min-width: 576px) {
+   .director-card {
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+  }
 
- }
+  .director-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  }
 
+  .director-img {
+    transition: transform 0.5s ease, filter 0.4s ease;
+  }
 
+  .director-img:hover {
+   
+    filter: brightness(1.1) saturate(1.2);
+  }
 
+  .director-title {
+    transition: color 0.3s ease, letter-spacing 0.3s ease;
+  }
 
-
- /* product 2 */
-
-
+  .director-title:hover {
+    color: #0d6efd;
+    letter-spacing: 1px;
+  }

@@ -39,7 +39,9 @@ Route::get('/about', function () {
     return view('about');
 });
 
-
+Route::get('/Our_CEO', function () {
+    return view('Our_CEO');
+});
 // Route::post('/submit', [FormController::class, 'store'])->name('form.submit');
 Route::get('/thank-you', [FormController::class, 'thankYou'])->name('form.thankyou');
 

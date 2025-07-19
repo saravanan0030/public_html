@@ -2,40 +2,68 @@
 
 
 {{-- about --}}
+ <section class="Arch-banner black-shadow-box  mx-5 mx-md-5 align-items-center justify-content-center text-center   position-relative overflow-hidden" style="margin-top: 76px" style="width: auto;">
+  <div class="banner-overlay overflow-hidden mb-5 " style="width: auto;"></div>
+  <h1 class="slide-top-text fw-bold text-white display-4 py-5 " style="margin-top: 100px">
+    Leading Electrical Panel Board Distributor In Madurai
+  </h1>
+</section>
 
-<section class="Arch-banner hero-bg pt-3 mt-5 mx-5 black-shadow-box ">
+<section class="pt-3 mt-2 mx-5 bluegreen-shadow-box">
   <div class="color-overlay"></div>
   <div class="container position-relative z-2">
     <div class="row py-5 align-items-center justify-content-center my-5">
-      <div class="col text-center text-light animate-text">
-        <h1 class="text-theme f-1 display-6 fw-bold ">Leading Electrical Panel Board Distributor In Madurai</h1>
-        <p class="w-75 font m-auto py-3  responsive-p w-100">
-      Zelvo Energy Solution Pvt Ltd (ZESPL) is an ISO 9001:2015 certified company offering end-to-end solutions in the energy sector. Starting in 2011 as M/s. LIT Energy, we have grown into a trusted provider of engineering and management services, including infrastructure development, construction, maintenance, and supply of electrical and sheet metal products.
+      <div class="col text-center text-light animate-text px-5">
+
+    <p class="fs-5 fw-medium text-dark mb-4">
+          Zelvo Energy Solution Pvt Ltd (ZESPL) is an
+          <strong class="text-info fs-5">ISO 9001:2015 certified company</strong>
+          offering end-to-end solutions in the energy sector. Starting in 2011 as M/s. LIT Energy, we have grown into a trusted provider of engineering and management services, including infrastructure development, construction, maintenance, and supply of electrical and sheet metal products.
         </p>
-        <p class="w-75 font m-auto f-1 pb-3 responsive-p d-none d-lg-block w-100 ">
-             Established as a corporate entity in 2018, ZESPL is now a leading turnkey developer for wind and solar projects. We manage all aspects of energy projects, from liaisons to construction, ensuring comprehensive support for our clients. Our mission is to be the go-to partner for all energy needs in the renewable sector.
+
+        <p class="text-dark  mb-3">
+          <span class="bg-light text-dark px-2 rounded">
+            Established as a corporate entity in 2018
+          </span>, ZESPL is now a leading turnkey developer for wind and solar projects. We manage all aspects of energy projects, from liaisons to construction, ensuring comprehensive support for our clients.
         </p>
-        <p class="w-75 font m-auto f-1 pb-4 responsive-p d-none d-lg-block w-100">
-    Zelvo Energy Solution Pvt Ltd (ZESPL) works with customers to execute their project by providing all engineering & management services under one roof. 15 years of enriched technical and management experience has been enhanced as a proprietorship firm, firmly known as M/s.Lakshmutha Infratech (LIT) in 2011. We have started our journey with civil foundation work for Wind turbines.
+
+        <p class="text-dark  mb-3">
+          We later entered the wind power sector — offering liaisons, roadworks, electrical line work, earthing, erection, and more —
+          <span class="fw-bold text-warning">becoming a complete turnkey wind & solar project developer.</span>
         </p>
-          {{-- <p class="w-75 font f-1 m-auto pb-4">
-            Later we entered to provide all the service in Wind power projects- Liaisons service from Government authorities, Road work, Electrical line work, Earthing work, Erection work, etc, We became Turnkey wind & solar project developers. ZESPL is having very strong footprints in this field. Our aim is to provide an end-to-end solution from one stop. ZESPL was established as a corporate entity on 09th July 2018.
-        </p> --}}
-          <button class="explore__card-btn nw-ct-btn re-hero-btn">Reach Out <i class="bi bi-arrow-right"></i></button>
+
+        <p class="text-dark   mb-3">
+          <span class="text-success fw-bold">
+            Our aim is to be your one-stop solution for renewable energy projects.
+          </span>
+          ZESPL was established as a corporate entity on
+          <strong class="text-info">09th July 2018</strong>.
+        </p>
+
+        <p class="text-dark   mb-4">
+          <span class="text-light bg-dark px-2 p-1 rounded-pill fw-bold">
+            From concept to commissioning, Zelvo is your end-to-end energy partner.
+          </span>
+        </p>
+
+
+        <a href="/ourproducts"> <button class="explore__card-btn nw-ct-btn re-hero-btn">Explore Services <i class="bi bi-arrow-right"></i></button></a>
       </div>
     </div>
   </div>
 </section>
 
 
+
+
 {{-- Our Certificates --}}
- <section class=" pb-5 mx-5">
+ <section class=" mx-5">
     <div class="container-fluid">
       <div class="row">
         <div class="col-12 py-4 text-center">
-          <h2 class="text-blue fw-bold fs-2 my-5">
-            Our <span class="text-blue ">Certificates</span>
-          </h2>
+
+             <h1 class="text-center display-6  fs-1 fw-bold mb-4">Our  <i><span> Certificates  </span></i></h1>
+
         </div>
       </div>
 
@@ -78,7 +106,8 @@
 
       <div class="col-md-7">
         <div class="animate-on-scroll">
-          <h2 class="text-blue fw-bold mb-4">Engineering Professional </h2>
+             <h1 class="text-center text-blue display-6  fs-1 fw-bold mb-4">   <i><span>   Engineering Professional  </span></i></h1>
+
           <p>
             With extensive <strong>domestic and international experience</strong> in Project Management,
             Construction Management, Control & Instrumentation, and Electrical Systems, we have
@@ -177,7 +206,7 @@
 
  <section class="zelvo-section  py-5 mx-5 ">
   <div class="container text-center">
-    <h2 class="zelvo-title animate-on-scroll py-4">What Does <span class="highlight">ZELVO</span> Mean?</h2>
+    <h2 class="zelvo-title animate-on-scroll py-4">What Does <span class=" text-blue">ZELVO</span> Mean?</h2>
 
     <div class="zelvo-description animate-on-scroll delay-1">
       <p><strong>Success</strong> and <strong>Endurance</strong> define ZELVO. We set ambitious goals and pursue them with relentless determination.</p>
@@ -186,7 +215,7 @@
     </div>
 
     <div class="mantra-box animate-on-scroll delay-2">
-      <h3 class="mantra-title">Our Mantra</h3>
+      <h3 class="mantra-title">  <span class="text-dark">Our</span> Mantra</h3>
       <div class="mantra-animated-line">
         <span>Right Things</span>
         <span class="symbol">&gt;</span>
@@ -223,7 +252,7 @@
 {{-- Customer First --}}
  <section class="customer-first-section py-5 mx-5">
   <div class="container text-center">
-    <h2 class="section-heading animate-on-scroll py-4">Customer First</h2>
+    <h2 class="section-heading animate-on-scroll py-4  "><span class=" text-blue display-6  fs-1 fw-bold  ">Customer First</span> </h2>
 
     <div class="row justify-content-center mt-4">
       <div class="col-lg-9 animate-on-scroll delay-1">
@@ -267,7 +296,7 @@
 
 {{-- our services --}}
  <section class="services-section px-5">
-  <h2 class="py-3 pt-1">Our Services</h2>
+  <h2 class="py-3 pt-1">  <span class="text-dark">Out</span> Services</h2>
 
   <div class="scroll-container ">
     <div class="scroll-track  ">

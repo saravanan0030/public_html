@@ -48,11 +48,11 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="container">
-          <div class="row align-items-center justify-content-center px-5">
+          <div class="row align-items-center justify-content-center ">
             <div class="col-lg-6 col-md-6 text-center">
               <img src="assets/home/banner-2.png" class="img-fluid w-50 rounded" alt="banner">
             </div>
-            <div class="col-lg-6 col-md-6 text-lg-start text-center mt-4 mt-md-0 sm-px-1">
+            <div class="col-lg-6 col-md-6 text-lg-start text-center mt-4 mt-md-0 sm-px-1 ">
               <h2 class="text-theme pb-3 fw-bold fs-2">High Quality Electric Power & Control Panel Manufacturer in India</h2>
                 <ul class="text-light list-unstyled">
                 <li><i class="fa fa-spinner fa-spin me-2"></i> APFC Panel</li>
@@ -63,7 +63,7 @@
               </ul>
               <div class="d-flex align-items-center justify-content-center justify-content-lg-start pb-3">
 
-                <button class="explore__card-btn nw-ct-btn re-hero-btn sm-pt-5">Explore Now <i class="bi bi-arrow-right"></i></button>
+                <a href="/ourproducts"> <button class="explore__card-btn nw-ct-btn re-hero-btn  md-lg-5">Explore Now <i class="bi bi-arrow-right"></i></button></a>
               </div>
 
             </div>
@@ -74,8 +74,8 @@
       <!-- Slide 2 -->
       <div class="carousel-item " >
         <div class="container">
-          <div class="row align-items-center justify-content-center px-5">
-            <div class=" col-lg-6 col-md-6 text-lg-start text-center mt-4 mt-md-0 ">
+          <div class="row align-items-center justify-content-center ">
+            <div class=" col-lg-6 col-md-6 text-lg-start text-center mt-5 px-5">
               <h2 class="text-theme pb-3 fw-bold fs-2">Auto Mains Failure Panel</h2>
               <ul class="text-light list-unstyled ">
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Modes: Manual / Semi-Auto / Fully Auto AMFS</li>
@@ -83,7 +83,7 @@
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Materials: MS / MRCA / SS Panel Structure</li>
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Types: Indoor / Outdoor Configuration</li>
               </ul>
-              <button class="explore__card-btn nw-ct-btn re-hero-btn mt-3">Explore Now <i class="bi bi-arrow-right"></i></button>
+              <a href="/ourproducts"> <button class="explore__card-btn nw-ct-btn re-hero-btn sm-pt-5">Explore Now <i class="bi bi-arrow-right"></i></button></a>
             </div>
             <div class="col-lg-6 col-md-6  text-center ">
               <img src="assets/home/banner-4.png" class="img-fluid w-75 " alt="banner">
@@ -99,8 +99,8 @@
             <div class="col-lg-6 text-center">
               <img src="assets/home/panel-1.png" class="img-fluid w-75" alt="banner">
             </div>
-            <div class="col-lg-6 col-md-6 text-lg-start text-center  mt-4 mt-md-0 ">
-              <h2 class="text-theme pb-3 fw-bold fs-2">Power Control Center Panels</h2>
+            <div class="col-lg-6 col-md-6 text-lg-start text-center  mt-5 ">
+              <h2 class="text-theme  fw-bold fs-2">Power Control Center Panels</h2>
               <ul class="text-light list-unstyled">
                 <li><i class="fa fa-spinner fa-spin me-2"></i> APFC Panel</li>
                 <li><i class="fa fa-spinner fa-spin me-2"></i> 12V Control Panel</li>
@@ -108,7 +108,7 @@
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Bus Coupler with Interlocking</li>
                 <li><i class="fa fa-spinner fa-spin me-2"></i> 10+ Years of Success</li>
               </ul>
-              <button class="explore__card-btn nw-ct-btn re-hero-btn mb-4">Explore Now <i class="bi bi-arrow-right arrow"></i></button>
+               <a href="/ourproducts"> <button class="explore__card-btn nw-ct-btn re-hero-btn ">Explore Now <i class="bi bi-arrow-right"></i></button></a>
             </div>
           </div>
         </div>
@@ -116,32 +116,40 @@
 
 
       <!-- Slide 4 -->
-      <div class="carousel-item">
+  <div class="carousel-item " >
         <div class="container">
-          <div class="row align-items-center justify-content-center">
-            <div class="col-lg-6 col-md-6 text-lg-start text-center  mt-4 mt-md-0  ">
-              <h2 class="text-theme pb-3 fw-bold fs-2 px-5">Automatic Power Factor Correction Panels</h2>
-              <ul class="text-light list-unstyled px-5">
+          <div class="row align-items-center justify-content-center  ">
+            <div class=" col-lg-6 col-md-6 text-lg-start text-center mt-5 px-5">
+                  <h2 class="text-theme pb-3 fw-bold fs-2 ">Automatic Power Factor Correction Panels</h2>
+              <ul class="text-light list-unstyled ">
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Modular and Non-Compartmentalized Design</li>
                 <li><i class="fa fa-spinner fa-spin me-2"></i> High-quality MS CRCA/SS material</li>
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Suitable for Indoor and Outdoor Use</li>
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Single or Double Front Operation</li>
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Over 7 Years of Proven Success</li>
               </ul>
-              <button class="explore__card-btn nw-ct-btn re-hero-btn mt-3 mx-5 ">Know More <i class="bi bi-arrow-right "></i></button>
+              <a href="/ourproducts"> <button class="explore__card-btn nw-ct-btn re-hero-btn    ">Explore Now <i class="bi bi-arrow-right"></i></button></a>
             </div>
-            <div class="col-lg-6 text-center ">
-              <img src="assets/home/banner-6.png" class="img-fluid w-50 " alt="banner">
+            <div class="col-lg-6 col-md-6  text-center ">
+              <img src="assets/home/banner-4.png" class="img-fluid w-75 " alt="banner">
             </div>
           </div>
         </div>
       </div>
 
+
+
+
+
+
+
+
+
   <!-- Slide 5-->
       <div class="carousel-item">
         <div class="container">
           <div class="row align-items-center justify-content-center">
-            <div class="col-lg-6  col-md-6  text-lg-start text-center  mt-4 mt-md-0 ">
+            <div class="col-lg-6  col-md-6  text-lg-start text-center  mt-5  ">
               <img src="assets/home/pannel-3.png" class="img-fluid w-75" alt="banner">
             </div>
             <div class="col-lg-6 text-lg-start text-center">
@@ -152,7 +160,7 @@
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Meters as per application</li>
                 <li><i class="fa fa-spinner fa-spin me-2"></i> Celebrating Years of Excellence!</li>
               </ul>
-              <button class="explore__card-btn nw-ct-btn re-hero-btn mt-3 mb-3">Know More <i class="bi bi-arrow-right"></i></button>
+                <a href="/ourproducts"> <button class="explore__card-btn nw-ct-btn re-hero-btn  ">Explore Now <i class="bi bi-arrow-right"></i></button></a>
             </div>
           </div>
         </div>
@@ -161,16 +169,16 @@
       <div class="carousel-item">
         <div class="container">
           <div class="row align-items-center justify-content-center">
-            <div class="col-lg-6 col-md-6 text-lg-start  mt-4 mt-md-0 text-center ">
-              <h2 class="text-theme pb-3 fw-bold fs-2 px-5">Fire Hydrant Control Panel</h2>
-              <ul class="text-light list-unstyled px-5">
-                <li><i class="fa fa-spinner fa-spin me-2"></i> DOL, STAR-DELTA, ATS, Soft Starter, VFD</li>
-                <li><i class="fa fa-spinner fa-spin me-2"></i> Pressure Switch Automation</li>
-                <li><i class="fa fa-spinner fa-spin me-2"></i> Control Transformer, Control Bus Support</li>
-                <li><i class="fa fa-spinner fa-spin me-2"></i> 7+ Years of Proven Success</li>
-                <li><i class="fa fa-spinner fa-spin me-2"></i> Decade of Reliable Operations</li>
+            <div class="col-lg-6 col-md-6 text-lg-start  mt-5  text-center px-5">
+              <h2 class="text-theme pb-3 fw-bold fs-2 ">Fire Hydrant Control Panel</h2>
+              <ul class="text-light list-unstyled ">
+                <li><i class="fa fa-spinner fa-spin me-2 text-lg-start "></i> DOL, STAR-DELTA, ATS, Soft Starter, VFD</li>
+                <li><i class="fa fa-spinner fa-spin me-2 text-lg-start "></i> Pressure Switch Automation</li>
+                <li><i class="fa fa-spinner fa-spin me-2 text-lg-start "></i> Control Transformer, Control Bus Support</li>
+                <li><i class="fa fa-spinner fa-spin me-2 text-lg-start "></i> 7+ Years of Proven Success</li>
+                <li><i class="fa fa-spinner fa-spin me-2 text-lg-start "></i> Decade of Reliable Operations</li>
               </ul>
-              <button class="explore__card-btn nw-ct-btn re-hero-btn mt-3 mx-5">Know More <i class="bi bi-arrow-right"></i></button>
+            <a href="/ourproducts"> <button class="explore__card-btn nw-ct-btn re-hero-btn  ">Explore Now <i class="bi bi-arrow-right"></i></button></a>
             </div>
               <div class="col-lg-6 text-center">
               <img src="assets/home/banner-7.png" class="img-fluid w-50" alt="banner">
@@ -195,7 +203,8 @@
                 </div>
             </div>
             <div class="col">
-                <h1 class="text-blue fs-2">Top Electrical Control Panel Supplier in <span>Madurai</span> </h1>
+                 <h2 class="fw-bold"> Top Electrical Control Panel Supplier in <i> Madurai</i>   </h2>
+
                 <p>Among the top electrical control panel manufacturers, Zelvo Energy Solutions Private Limited offers
                     engineering services having more than 15 years of expertise. From Madurai, we provide creative and
                     dependable solutions for sectors including chemicals, mining, oil and gas, pharmaceuticals, power
@@ -207,9 +216,7 @@
                     with customers by providing first-rate after-sales service and solutions catering to their
                     particular requirements.</p>
                 <div class="d-flex">
-                    <button class="explore__card-btn nw-ct-btn re-hero-btn"> Explore Now <i
-                            class="bi bi-arrow-right"></i> </button>
-
+                     <a href="/about"> <button class="explore__card-btn nw-ct-btn re-hero-btn sm-pt-5">Explore Now <i class="bi bi-arrow-right"></i></button></a>
 
                 </div>
             </div>
@@ -262,7 +269,7 @@
 
 <section class="core-values mx-5 my-5">
   <div class="container">
-    <h5 class="text-center display-6 fw-bold mb-4">Our <span>Core Values</span></h5>
+    <h1 class="text-center display-6  fs-1 fw-bold mb-4">Our  <i><span>Core Values</span></i></h1>
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
 
       <!-- Card 1 -->
@@ -274,8 +281,8 @@
           <div class="effect-text">
             <h2>Chemical Plants</h2>
             <p class="responsive-para">We deliver smart control systems for chemical plants ensuring safe, efficient production processes.</p>
-          <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+          <a href="https://zelvoenergy.com/services"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button></a>
           </div>
         </div>
       </div>
@@ -289,8 +296,8 @@
           <div class="effect-text">
             <h2>Oil & Gas Refineries</h2>
             <p class="responsive-para">Control panels designed to handle hazardous environments in oil and gas operations.</p>
-    <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+     <a href="https://zelvoenergy.com/services"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button></a>
           </div>
         </div>
       </div>
@@ -304,8 +311,8 @@
           <div class="effect-text">
             <h2>Pharmaceutical Manufacturing</h2>
             <p class="responsive-para">Reliable automation systems for strict pharmaceutical standards and precision control.</p>
-   <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+    <a href="https://zelvoenergy.com/services"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button></a>
           </div>
         </div>
       </div>
@@ -319,8 +326,8 @@
           <div class="effect-text">
             <h2>Power Plants</h2>
             <p class="responsive-para">Robust panels tailored for high-voltage environments in thermal and hydro power plants.</p>
-   <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+     <a href="https://zelvoenergy.com/services"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button></a>
           </div>
         </div>
       </div>
@@ -334,8 +341,8 @@
           <div class="effect-text">
             <h2>Solar Energy Systems</h2>
             <p class="responsive-para">Modern panels for solar farms, enabling efficient power generation and monitoring.</p>
-              <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+               <a href="https://zelvoenergy.com/services"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button></a>
           </div>
         </div>
       </div>
@@ -349,8 +356,8 @@
           <div class="effect-text">
             <h2>Steel Factories</h2>
             <p class="responsive-para">Industrial automation solutions for heavy-duty operations in steel manufacturing plants.</p>
-            <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+              <a href="https://zelvoenergy.com/services"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button></a>
           </div>
         </div>
       </div>
@@ -364,8 +371,8 @@
           <div class="effect-text">
             <h2>Agriculture</h2>
             <p class="responsive-para">Smart irrigation, motor control, and automation panels built for modern agriculture.</p>
-           <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+            <a href="https://zelvoenergy.com/services"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button></a>
           </div>
         </div>
       </div>
@@ -379,8 +386,8 @@
           <div class="effect-text">
             <h2>Textile</h2>
             <p class="responsive-para">Panels designed for seamless automation and energy efficiency in textile manufacturing.</p>
-         <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+          <a href="https://zelvoenergy.com/services"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button></a>
           </div>
         </div>
       </div>
@@ -396,7 +403,7 @@
 <!-- Our Business Range -->
 <div class="container-fluid px-5 py-5">
 
-  <h1 class="text-blue text-center fw-bold  fs-1 pb-4"> <span class="text-dark">Our</span>  <i> Business Range</i></h1>
+  <h1 class="text-blue text-center fw-bold  fs-1 mb-4"> <span class="text-dark">Our</span>  <i> Business Range</i></h1>
   <div class="row g-4">
 
 
@@ -480,7 +487,10 @@
           Every good is made with accuracy and using the finest materials and technologies.<br />
           Zelvo Engineering Electrical Panel Suppliers can satisfy your needs for a customized solution or a conventional control panel.
         </p>
-        <button class="btn btn-light text-primary fw-semibold px-4 py-2 mt-3 btn-animate">Explore Now</button>
+
+         <a href="#team"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn " data-bs-toggle="modal"
+                                        data-bs-target="#exampleModal" href="#team"
+                                    style="font-size: 16px">Explore New <i class="bi bi-arrow-right"></i> </button></a>
       </div>
 
       <div class="col-lg-6 text-end" data-aos="fade-left">
@@ -558,7 +568,8 @@
 
 <section class="my-5 mx-5">
   <div class="heading text-center">
-    <h5 class="text-primary fs-1 pb-5">  <span class="text-dark">Our  </span>Certification</h5>
+
+      <h1 class="text-center display-6  fs-1 fw-bold mb-4">Our  <i><span>Certification</span></i></h1>
   </div>
 
   <div class="container pb-5">
@@ -587,8 +598,8 @@
                     and means to satisfy every last one of them in the least feasible time-range.</p>
                 <div class="w-100">
 
-                            <button class= " explore__card-btn nw-ct-btn re-hero-btn">    Investigate Our Market <i
-                            class="bi bi-arrow-right"></i> </button>
+                           <a href="/about">  <button class= " explore__card-btn nw-ct-btn re-hero-btn">    Investigate Our Market <i
+                            class="bi bi-arrow-right"></i> </button></a>
                 </div>
             </div>
             <div class="col order-lg-2 order-1 pb-4 ">
@@ -606,7 +617,8 @@
 
 
 <section class="clients-banner d-flex align-items-center justify-content-center text-center   mx-5">
-  <h5 class="animated-banner-text">OUR PRESTIGIOUS CLIENTS</h5>
+  <h1 class="animated-banner-text display-4 fw-bold">OUR PRESTIGIOUS CLIENTS</h1>
+
 </section>
 
 
@@ -732,12 +744,13 @@
 
 
 
-<!-- Why out clint our trust us -->
+<!-- Why our clint  trust us -->
 
 <section >
     <div class="container-fluid px-5 py-5 mx-3 w-100 h-100"  style="overflow: hidden">
         <div class="row">
-               <h2 class="text-blue fw-bold fs-2 text-center mb-3 mt-5">Why Our Clients <span>Trust Us</span> </h2>
+
+                 <h1 class="text-blue text-center fw-bold  fs-1 mb-5 mt-1"> <span class="text-dark"> Why Our Clients </span>   <i>  Trust Us</i></h1>
 
             <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
 
@@ -749,7 +762,7 @@
                         <div class="row row-cols-lg-2 row-cols-1">
                             <div class="col pb-4">
                                   <div class="text-center  ">
-                                    <img src="assets/home/girl.png"  class="img-fluid  d-none d-lg-block"
+                                    <img src="assets/home/girl.png"  class="img-fluid w-50 d-none d-lg-block"
                                         alt="banner">
                                 </div>
 
@@ -768,8 +781,8 @@
                                     production facilities. This helps us ensure that every control panel we create is
                                     exact and uniform.</p>
                                 <div class="w-100">
-                                   <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+                                <a href="https://zelvoenergy.com/services"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button></a>
                                 </div>
                             </div>
                         </div>
@@ -795,8 +808,8 @@
                                     <li>Passivation </li>
                                 </ul>
                                 <div class="w-100">
-                                  <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+                           <a href="https://zelvoenergy.com/services"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button></a>
                                 </div>
                                        <div class="floating-text top-text d-none d-lg-block">6+ Years of Expertise</div>
                    <div class="floating-text left-text d-none d-lg-block">7+ Happy Clients</div>
@@ -824,8 +837,8 @@
                                     equipment.
                                 </p>
                                 <div class="w-100">
-                                   <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+                            <a href="https://zelvoenergy.com/services"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button></a>
                                 </div>
                             </div>
                         </div>
@@ -851,8 +864,8 @@
                                     </li>
                                 </ul>
                                 <div class="w-100">
-                                    <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
-                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button>
+                               <a href="https://zelvoenergy.com/services"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn "
+                                    style="font-size: 16px">Read More <i class="bi bi-arrow-right"></i> </button></a>
                                 </div>
                             </div>
                         </div>
@@ -880,8 +893,10 @@
                                 <div class="w-100">
 
 
-                                          <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 "
-                                    style="font-size: 16px">Contact Now <i class="bi bi-arrow-right"></i> </button>
+
+         <a href="#team"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn " data-bs-toggle="modal"
+                                        data-bs-target="#exampleModal" href="#team"
+                                    style="font-size: 16px"> Contact Now   <i class="bi bi-arrow-right"></i> </button></a>
                                 </div>
                             </div>
                         </div>

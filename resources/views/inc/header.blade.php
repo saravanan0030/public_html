@@ -49,7 +49,7 @@
 
 <section>
   <nav class="navbar navbar-expand-lg navbar-light bg-light mx-5 fixed-top" id="navbar" >
-    <a class="ms-4 px-4" href="/">
+    <a class=" px-4" href="/">
       <img src="/assets/logo.png" class="img-fluid me-lg-0 me-auto" width="80" alt="Zelvo Engineering logo">
     </a>
 
@@ -64,6 +64,9 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/about">About</a>
+        </li>
+                <li class="nav-item">
+          <a class="nav-link" href="/Our_CEO">Our CEO</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://zelvoenergy.com/services"target="_blank">Services</a>

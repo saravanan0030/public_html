@@ -24,4 +24,8 @@ abstract class Controller
     {
         return view('about');
     }
+        public function Our_CEO()
+    {
+        return view('Our-CEO');
+    }
 }
