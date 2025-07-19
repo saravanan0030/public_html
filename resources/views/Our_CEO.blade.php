@@ -5,7 +5,7 @@
   </div>
 
   <div class="container">
-    <div class="row align-items-center gy-4">
+    <div class="row align-items-center gy-4"> 
 
       <div class="col-lg-6 col-md-12">
         <div class="p-3 director-card" data-aos="fade-up-right" data-aos-delay="300">
