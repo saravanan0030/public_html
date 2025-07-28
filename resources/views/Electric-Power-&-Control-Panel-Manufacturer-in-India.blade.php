@@ -488,10 +488,15 @@
           Every good is made with accuracy and using the finest materials and technologies.<br />
           Zelvo Engineering Electrical Panel Suppliers can satisfy your needs for a customized solution or a conventional control panel.
         </p>
-
-         <a href="#team"> <button class= " explore__cards-btn nw-ct-btn re-hero-btn p-2 responsive-btn " data-bs-toggle="modal"
+{{--
+         <a href="#team"> <button class= " explore__cards-btn nw-ct-btn1 re-hero-btn1 p-2 responsive-btn " data-bs-toggle="modal"
                                         data-bs-target="#exampleModal" href="#team"
-                                    style="font-size: 16px background-color:#000;">Explore New <i class="bi bi-arrow-right"></i> </button></a>
+                                    style="font-size: 16px background-color:#000;">Explore New <i class="bi bi-arrow-right"></i> </button></a> --}}
+
+                                    <button class="explore-btn-animated" data-bs-toggle="modal" data-bs-target="#exampleModal">
+  Explore New <i class="bi bi-arrow-right arrow-icon"></i>
+</button>
+
       </div>
 
       <div class="col-lg-6 text-end" data-aos="fade-left">
@@ -521,6 +526,49 @@
     </div>
   </div>
 </section>
+<style>
+.explore-btn-animated {
+  position: relative;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 12px 24px;
+  color: #fff;
+  background-color: #0c0c0c;
+  border: none;
+  border-radius: 50px;
+  overflow: hidden;
+  cursor: pointer;
+  z-index: 1;
+  transition: color 0.3s ease;
+  font-family: 'Manrope', sans-serif;
+}
+
+.explore-btn-animated::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: #1163fb;
+  transition: all 0.4s ease;
+  z-index: -1;
+}
+
+.explore-btn-animated:hover::before {
+  left: 0;
+}
+
+.explore-btn-animated .arrow-icon {
+  margin-left: 8px;
+  transition: transform 0.3s ease;
+}
+
+.explore-btn-animated:hover .arrow-icon {
+  transform: translateX(5px);
+}
+</style>
 
 <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
 
