@@ -226,7 +226,7 @@
       <p class="mt-3"><strong>Right Things:</strong> We never compromise on quality.</p>
       <p><strong>Right Place:</strong> We focus our solutions where they matter most.</p>
       <p><strong>Right Time:</strong> We deliver with precision, always on time.</p>
-      <p class="mt-3">We’re committed to customer satisfaction through quality products and services — powered by trust.</p>
+      <p class=" mx-5">We’re committed to customer satisfaction through quality products and services — powered by trust.</p>
     </div>
   </div>
 </section>
@@ -296,7 +296,7 @@
 
 {{-- our services --}}
  <section class="services-section px-5">
-  <h2 class="py-3 pt-1">  <span class="text-dark">Out</span> Services</h2>
+  <h2 class="py-3 pt-1">  <span class="text-dark">Our</span> Services</h2>
 
   <div class="scroll-container ">
     <div class="scroll-track  ">
@@ -345,12 +345,12 @@
 
 
 </section>
- <section class="difference-section ">
+ <section class="difference-section mx-5 ">
   <div class="icon-box">
     <i class="fas fa-lightbulb"></i>
   </div>
   <h3 class="difference-title">How are we <span class="text-black">different?</span></h3>
-  <p class="difference-text">
+  <p class="difference-text mx-5">
     We combine <strong>innovation</strong>, <strong>precision</strong>, and
     <strong>dedication</strong> to deliver sustainable energy solutions tailored to your needs.
   </p>

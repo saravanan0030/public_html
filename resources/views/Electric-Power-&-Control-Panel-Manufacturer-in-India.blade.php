@@ -50,7 +50,7 @@
         <div class="container">
           <div class="row align-items-center justify-content-center ">
             <div class="col-lg-6 col-md-6 text-center">
-              <img src="assets/home/banner-2.png" class="img-fluid w-50 rounded" alt="banner">
+             <a href="/ourproducts">  <img src="assets/home/banner-2.png" class="img-fluid w-50 rounded" alt="banner"></a>
             </div>
             <div class="col-lg-6 col-md-6 text-lg-start text-center mt-4 mt-md-0 sm-px-1 ">
               <h2 class="text-theme pb-3 fw-bold fs-2">High Quality Electric Power & Control Panel Manufacturer in India</h2>
@@ -86,7 +86,7 @@
               <a href="/ourproducts"> <button class="explore__card-btn nw-ct-btn re-hero-btn sm-pt-5">Explore Now <i class="bi bi-arrow-right"></i></button></a>
             </div>
             <div class="col-lg-6 col-md-6  text-center ">
-              <img src="assets/home/banner-4.png" class="img-fluid w-75 " alt="banner">
+              <a href="/ourproducts"> <img src="assets/home/banner-4.png" class="img-fluid w-100 " alt="banner"></a>
             </div>
           </div>
         </div>
@@ -97,7 +97,7 @@
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 text-center">
-              <img src="assets/home/panel-1.png" class="img-fluid w-75" alt="banner">
+            <a href="/ourproducts">  <img src="assets/home/panel-1.png" class="img-fluid w-75" alt="banner"></a>
             </div>
             <div class="col-lg-6 col-md-6 text-lg-start text-center  mt-5 ">
               <h2 class="text-theme  fw-bold fs-2">Power Control Center Panels</h2>
@@ -131,7 +131,7 @@
               <a href="/ourproducts"> <button class="explore__card-btn nw-ct-btn re-hero-btn    ">Explore Now <i class="bi bi-arrow-right"></i></button></a>
             </div>
             <div class="col-lg-6 col-md-6  text-center ">
-              <img src="assets/home/banner-4.png" class="img-fluid w-75 " alt="banner">
+           <a href="/ourproducts">  <img src="assets/home/banner-4.png" class="img-fluid w-100 " alt="banner"></a>
             </div>
           </div>
         </div>
@@ -150,7 +150,7 @@
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-lg-6  col-md-6  text-lg-start text-center  mt-5  ">
-              <img src="assets/home/pannel-3.png" class="img-fluid w-75" alt="banner">
+            <a href="/ourproducts">  <img src="assets/home/pannel-3.png" class="img-fluid w-75" alt="banner"></a>
             </div>
             <div class="col-lg-6 text-lg-start text-center">
               <h2 class="text-theme pb-3 fw-bold fs-2">Motor Control Center Panels</h2>
@@ -181,7 +181,7 @@
             <a href="/ourproducts"> <button class="explore__card-btn nw-ct-btn re-hero-btn  ">Explore Now <i class="bi bi-arrow-right"></i></button></a>
             </div>
               <div class="col-lg-6 text-center">
-              <img src="assets/home/banner-7.png" class="img-fluid w-50" alt="banner">
+             <a href=""><img src="assets/home/banner-7.png" class="img-fluid w-50" alt="banner"></a>
             </div>
           </div>
         </div>
@@ -203,7 +203,8 @@
                 </div>
             </div>
             <div class="col">
-                 <h2 class="fw-bold"> Top Electrical Control Panel Supplier in <i> Madurai</i>   </h2>
+                    <h1 class="text-center display-5F  fs-1 fw-bold mb-4"> Top Electrical Control Panel Supplier in  <i><span> Madurai</span></i></h1>
+
 
                 <p>Among the top electrical control panel manufacturers, Zelvo Energy Solutions Private Limited offers
                     engineering services having more than 15 years of expertise. From Madurai, we provide creative and
@@ -488,9 +489,9 @@
           Zelvo Engineering Electrical Panel Suppliers can satisfy your needs for a customized solution or a conventional control panel.
         </p>
 
-         <a href="#team"> <button class= " explore__card-btn nw-ct-btn re-hero-btn p-2 responsive-btn " data-bs-toggle="modal"
+         <a href="#team"> <button class= " explore__cards-btn nw-ct-btn re-hero-btn p-2 responsive-btn " data-bs-toggle="modal"
                                         data-bs-target="#exampleModal" href="#team"
-                                    style="font-size: 16px">Explore New <i class="bi bi-arrow-right"></i> </button></a>
+                                    style="font-size: 16px background-color:#000;">Explore New <i class="bi bi-arrow-right"></i> </button></a>
       </div>
 
       <div class="col-lg-6 text-end" data-aos="fade-left">
@@ -543,16 +544,16 @@
 
                 <div class="d-lg-flex d-block justify-content-lg-center">
                     <div class="col-auto pe-4">
-                        <span class="text-blue fw-bold fs-3">6+ </span><span> Years of Expertise</span>
+                        <span class="text-gray fw-bold fs-2">6+ </span><span class="text-gray"> Years of Expertise</span>
                     </div>
                     <div class="col-auto pe-4">
-                        <span class="text-blue fw-bold fs-3">7+ </span><span> Happy Clients</span>
+                        <span class="text-gray fw-bold fs-2">7+ </span><span class="text-gray"> Happy Clients</span>
                     </div>
                     <div class="col-auto pe-4">
-                        <span class="text-blue fw-bold fs-3">58+ </span><span> Product Variants</span>
+                        <span class="text-gray fw-bold fs-2">58+ </span><span class="text-gray"> Product Variants</span>
                     </div>
                 </div>
-                <h2 class="text-lg-center pt-4 fs-2 opacity-75 fw-bold  text-theme">Madurai</h2>
+                <h2 class="text-lg-center pt-4 fs-1 opacity-75 fw-bold animated-banner-text ">Madurai</h2>
             </div>
         </div>
     </div>
@@ -561,6 +562,10 @@
 <style>
     .col-auto{
         font-size: 23px;
+    }
+    .text-gray{
+        color: #555555;
+        font-size: 28px;
     }
 </style>
 
@@ -590,7 +595,7 @@
     <div class="container ">
         <div class="row row-cols-lg-2 row-cols-1 pb-4 mx-5 my-5">
             <div class="col order-lg-1 order-2">
-                <h2 class="fw-bold">As an Electrical Turnkey Contractor, We service worldwide</h2>
+                <h2 class="fw-bold">As an Electrical Turnkey Contractor,<span class="text-blue fw-bold fs-2">  We service worldwide</span></h2>
                 <p>We have spread our wings to every part of the world to reach a bigger audience and become a leading
                     name in the field.  We can handle orders from our clients from all around India, including Tamil
                     Nadu, Karnataka, Kerala, Andra, Rajasthan, and foreign markets including Oman, Kuwait, Algeria,
@@ -775,8 +780,8 @@
 
                             <div class="col" >
 
-                                <p class=" fw-bold fs-3 text-dark">1. The most advanced Modern Manufacturing Branch</p>
-                                <p class="text-green fs-5">Modern manufacturing equipment, including laser cutters, shearing machines, and
+                                <p class=" fw-bold fs-3 text-blue">1. The most advanced Modern Manufacturing Branch</p>
+                                <p class="text-dark fs-5">Modern manufacturing equipment, including laser cutters, shearing machines, and
                                     automated welding systems, powers Zelvo Engineering Solutions' contemporary
                                     production facilities. This helps us ensure that every control panel we create is
                                     exact and uniform.</p>
@@ -800,8 +805,8 @@
                             </div>
                             <div class="col">
 
-                                <h2 class="fw-bold fs-3 text-dark">Complete Powder Coating Method</h2>
-                                <ul class="text-green fs-5">
+                                <h2 class="fw-bold fs-3 text-blue">Complete Powder Coating Method</h2>
+                                <ul class="text-dark fs-5">
                                     <li>Degreasing </li>
                                     <li>Rust removal </li>
                                     <li>Phosphating </li>
@@ -829,8 +834,8 @@
                  <div class="floating-text right-text d-none d-lg-block">58+ Product Variants</div>
                             </div>
                             <div class="col">
-                                <h2 class="fw-bold fs-3 text-dark"> Wiring and effective assembly</h2>
-                                <p class="text-green fs-5">In our assembly and wiring procedures, we are the best electronic control unit
+                                <h2 class="fw-bold fs-3 text-blue"> Wiring and effective assembly</h2>
+                                <p class="text-dark fs-5">In our assembly and wiring procedures, we are the best electronic control unit
                                     designer in India and apply the most modern tools and equipment. This assures that
                                     every control panel is precisely set to fulfill your particular needs. Maintaining
                                     the best standards of quality and safety also depends on advanced busbar processing
@@ -855,8 +860,8 @@
                  <div class="floating-text right-text d-none d-lg-block">58+ Product Variants</div>
                             </div>
                             <div class="col">
-                                <h2 class="fw-bold fs-3 text-dark"> In depth Quality Assurance Testing</h2>
-                                <ul class="text-green fs-5">
+                                <h2 class="fw-bold fs-3 text-blue"> In depth Quality Assurance Testing</h2>
+                                <ul class="text-dark fs-5">
                                     <li>High Voltage (HV) Tests </li>
                                     <li>Megger Tests (Insulation Resistance Testing)</li>
                                     <li>Functional Tests </li>
@@ -882,8 +887,8 @@
                  <div class="floating-text right-text d-none d-lg-block">58+ Product Variants</div>
                             </div>
                             <div class="col">
-                                <h2 class="fw-bold fs-3 text-dark"> Certified Excellence</h2>
-                                <p class="text-green fs-5"><span class="fw-bold">CPCR Approved-</span> Our control panels follow the exacting
+                                <h2 class="fw-bold fs-3 text-blue"> Certified Excellence</h2>
+                                <p class="text-dark fs-5"><span class="fw-bold">CPCR Approved-</span> Our control panels follow the exacting
                                     quality and safety criteria established by the Central Power Research Institute
                                     <span class="fw-bold">(CPRI)</span>.
                                     <span class="fw-bold">2015 ISO 9001-2015 </span> Authorized: Certified Our

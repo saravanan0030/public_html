@@ -445,7 +445,7 @@ Often known as VFD Based Control Panels, VFD panels control feed pump and electr
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-    <h1 class="text-center display-6  fs-2 fw-bold mb-4"> Machinery Items Available in  <i><span> Zelvo Engineering Solutions</span></i></h1>
+    <h1 class="text-center display-6  fs-2 fw-bold mb-4 mx-5"> Machinery Items Available in  <i><span> Zelvo Engineering Solutions</span></i></h1>
 
 
 <div class="container px-5">
