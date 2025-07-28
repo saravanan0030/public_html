@@ -516,9 +516,10 @@
           Every good is made with accuracy and using the finest materials and technologies.<br />
           Zelvo Engineering Electrical Panel Suppliers can satisfy your needs for a customized solution or a conventional control panel.
         </p>
-            <button class= " explore__card-btn nw-ct-btn re-hero-btn"> Explore Now <i
-                            class="bi bi-arrow-right"></i> </button>
 
+                          <button class="explore-btn-animated" data-bs-toggle="modal" data-bs-target="#exampleModal">
+  Explore New <i class="bi bi-arrow-right arrow-icon"></i>
+</button>
       </div>
       <div class="col mt-4" data-aos="fade-up" data-aos-delay="200">
         <img src="assets/home/core-img.png" alt="Core Image Mobile" class="img-fluid rounded-4 shadow core-img">
@@ -592,16 +593,16 @@
 
                 <div class="d-lg-flex d-block justify-content-lg-center">
                     <div class="col-auto pe-4">
-                        <span class="text-gray fw-bold fs-2">6+ </span><span class="text-gray"> Years of Expertise</span>
+                        <span class="text-gray fw-bold fs-2">6+ </span><span class="text-gray fw-bold"> Years of Expertise</span>
                     </div>
                     <div class="col-auto pe-4">
-                        <span class="text-gray fw-bold fs-2">7+ </span><span class="text-gray"> Happy Clients</span>
+                        <span class="text-gray fw-bold fs-2">7+ </span><span class="text-gray fw-bold"> Happy Clients</span>
                     </div>
                     <div class="col-auto pe-4">
-                        <span class="text-gray fw-bold fs-2">58+ </span><span class="text-gray"> Product Variants</span>
+                        <span class="text-gray fw-bold fs-2">58+ </span><span class="text-gray fw-bold"> Product Variants</span>
                     </div>
                 </div>
-                <h2 class="text-lg-center pt-4 fs-1 opacity-75 fw-bold animated-banner-text ">Madurai</h2>
+                <h2 class="text-lg-center pt-4 fs-1 opacity-75 fw-bold animated-banner-text  ">Madurai</h2>
             </div>
         </div>
     </div>
