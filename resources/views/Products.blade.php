@@ -9,23 +9,25 @@
       <div class="custom-card p-3">
         <img src="/assets/product-img/1.png" alt="Software Development" class="custom-img mb-3" />
         <h5 class="card-title text-dark"> Power Control Center Panels (PCC)</h5>
-        <p class="text-muted">
+        <p class="text-muted ">
          We are Tamil Nadu's best PCC panel and power control centre manufacturer. Like modules, electrical power control centre panels—PCC Panels—manage power supplies in large commercial and industrial operations. Large machinery, tools, motors, and transformers need controls to get power. PCC panels have top, middle, or horizontal chambers, aluminium or copper bars, and top, bottom, front, or rear wire terminations.
         </p>
-        <div class="mt-3 d-flex align-items-center">
-          <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+      <div class="mt-3 d-flex align-items-center">
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
 
@@ -37,20 +39,22 @@
         <p class="text-muted">
         Our Motor Control Center (MCC) Panels are the most current and superior. The motor control centre (MCC Panel) is primarily handling electric motors. Which is broken apart with a motor starting, a line, or an electrical switch? Many projects need a specific instrument called a motor control board to monitor motors. Many businesses and sectors of industry use various types of electric motors, so it makes sense to regulate some of them. MCC panels come in single or double front and feature DCS or marshalling terminations in varying designs.
         </p>
-        <div class="mt-3 d-flex align-items-center">
-          <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+            <div class="mt-3 d-flex align-items-center">
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
 
@@ -65,20 +69,22 @@
         <p class="text-muted">
           We run an automatic power factor control panel (APFC Control Panel) manufacturer to turn capacitor bank units on and off when needed, enhancing power factor. APFC Panel regulates power factor. The back side holds capacitors in a well-ventilated panel, while the front of the utterly segregated feeder controls each capacitor. The microprocessor-based relays of APFC manage power factors at target values. RTPFC Panels with thyristor capacitor switching.
         </p>
-        <div class="mt-3 d-flex align-items-center">
-         <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+           <div class="mt-3 d-flex align-items-center">
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
 
@@ -90,24 +96,26 @@
     <div class="col-md-6 col-lg-4">
       <div class="custom-card p-3">
         <img src=" /assets/product-img/4.png" alt=" Synchronizing and Auto Load Sharing Panel  " class="custom-img mb-3" />
-        <h5 class="card-title text-dark">Synchronizing and Auto Load Sharing Panel   </h5>
+        <h5 class="card-title text-dark ">Synchronizing and Auto Load Sharing Panel </h5>
         <p class="text-muted">
 Various synchronizing and auto load-sharing control panels synchronize and automatically share power between multiple power sources/lines like mains, grids, and generators. A microprocessor-based Controller with a high degree of customization can be configured to meet the Client's requirements.
         </p>
-        <div class="mt-3 d-flex align-items-center">
-        <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+       <div class="mt-3 d-flex align-items-center">
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
 
@@ -123,20 +131,22 @@ Various synchronizing and auto load-sharing control panels synchronize and autom
         <p class="text-muted">
 There are two types of Automatic Transfer Switches: AMF panels and automatic transfer switches. When automatic generators are installed, automatic mains failure screens are also installed. The generator powers the working parts of the AMF. Most of the time, AMFs are used in automatic mains-to-DG supply systems and other places. Auto, semi-auto, and fully auto AMFs. The microprocessor-based controller can be changed a lot to fit the needs of each client
         </p>
-        <div class="mt-3 d-flex align-items-center">
-        <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+     <div class="mt-3 d-flex align-items-center">
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
 
@@ -154,20 +164,22 @@ There are two types of Automatic Transfer Switches: AMF panels and automatic tra
         <p class="text-muted">
            Leading HT distributor in Delhi, Zelvo sources premium High Tension Panels from India. These panels are intended for effective and safe power distribution in factories, significant commercial buildings, and other sectors, including industry. Designed with premium materials and cutting-edge safety technologies, they guarantee flawless power flow and help prevent short circuits and overloads. Our HT panels are made to last, approved, and energy-efficient; Zelvo provides consistent performance whether your need is for standard or unique solutions. Count on us for robust, low-maintenance HT panels to keep your operations uninterrupted.
         </p>
-        <div class="mt-3 d-flex align-items-center">
-           <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+            <div class="mt-3 d-flex align-items-center">
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
 
@@ -185,20 +197,22 @@ There are two types of Automatic Transfer Switches: AMF panels and automatic tra
         <p class="text-muted">
  Main low-tension control panel with single multiple incomers; bus coupler with mechanical or electrical interlocking. As required, include meters, indicator bulbs, and protective relays. Available are panels with copper or aluminum bus bars, top middle horizontal busbar chambers, and top, bottom front, and rear cable termination using APFC components. Facilities, including non-essential feeder cut-off at mains supply and dg incomer with and function. The PCC panel includes the primary incomer bus duct connection.
         </p>
-        <div class="mt-3 d-flex align-items-center">
-         <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+           <div class="mt-3 d-flex align-items-center">
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
 
@@ -216,19 +230,21 @@ There are two types of Automatic Transfer Switches: AMF panels and automatic tra
 Sometimes referred to as panelboards, breaker panels, or electric panels, power distribution panels split an electrical power flow into auxiliary circuits and supply fuses or circuit breakers for every circuit in the same enclosure. We are electrical panel manufacturers in Tamilnadu and manufacture power distribution panels. Our customers have a choice among several PDP panels. Using premium raw materials, our range of products satisfies world quality requirements. Our nationwide clients love this line because of its improved performance, energy economy, strength, and extended lifetime. Our skilled quality controllers guarantee defect-free goods by checking this range on many quality criteria.
         </p>
         <div class="mt-3 d-flex align-items-center">
-       <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
 
@@ -245,20 +261,22 @@ Sometimes referred to as panelboards, breaker panels, or electric panels, power 
         <p class="text-muted">
 Considering the often-changing needs of our valued customers, we are providing a unique selection of DG Set Control Panel. Premium-quality components and ultra-modern technologies are used in the panel construction. The panel is much valued for its ease of handling and extended practical lifetime. Our quality controllers verify this panel to guarantee its high quality. Furthermore, this panel is accessible in several sizes and reasonably priced.
         </p>
-        <div class="mt-3 d-flex align-items-center">
-        <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+          <div class="mt-3 d-flex align-items-center">
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
 
@@ -274,20 +292,22 @@ Considering the often-changing needs of our valued customers, we are providing a
         <p class="text-muted">
 Power distribution panels—panelboards, breaker panels, or electric panels—divide an electrical power flow into subsidiary circuits and supply fuses or circuit breakers for every circuit in a like enclosure. Our strength is fabrication of power distribution panels. Consumers can choose from several PDP panels. Using premium raw resources, these items satisfy world standards of quality. Performance, energy economy, durability, and lifespan of this range appeal to our national clients. To guarantee fault-free products, our skilled quality controllers examine this range on many quality criteria
         </p>
-        <div class="mt-3 d-flex align-items-center">
-          <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+            <div class="mt-3 d-flex align-items-center">
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
 
@@ -305,20 +325,22 @@ Power distribution panels—panelboards, breaker panels, or electric panels—di
         <p class="text-muted">
 Diesel generator synchronization corresponds with a healthy power system's voltage, frequency, phase angle, phase sequence, and waveform. This should be done before connecting the generator to the electricity. We offer a special DG Sync Panel range to meet the changing needs of our clients. Modern technologies and luxury materials make up the panel. The panel is reasonably user-friendly and sturdy. Our quality controllers look over this panel for excellence. This panel boasts several specs and is reasonably priced.
         </p>
-        <div class="mt-3 d-flex align-items-center">
-         <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+           <div class="mt-3 d-flex align-items-center">
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
 
@@ -334,20 +356,22 @@ Diesel generator synchronization corresponds with a healthy power system's volta
         <p class="text-muted">
 We offer an exclusive selection and are a top power control center panel board producer. The offered panel construction uses premium-quality components and ultra-modern technologies. Given the panel's simple handling and extended functioning lifetime, it is much valued. Our quality controllers verify this panel exactly to guarantee its top quality. Furthermore, this panel is reasonably priced and available in many different sizes.
         </p>
-        <div class="mt-3 d-flex align-items-center">
-        <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+          <div class="mt-3 d-flex align-items-center">
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
 
@@ -363,20 +387,22 @@ We offer an exclusive selection and are a top power control center panel board p
         <p class="text-muted">
 Starting this Panel with DOL, STAR-DELTA, ATS, SOFT STARTER, and VFD. Main pump, jockey pump, sprinkler pump, booster pump, engine driven pump. Pressure switch-based automation. Different control voltage facilities concerning control transformer control Bus with type-2 coordination wherever needed.
         </p>
-        <div class="mt-3 d-flex align-items-center">
-         <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+          <div class="mt-3 d-flex align-items-center">
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
 
@@ -392,20 +418,22 @@ Starting this Panel with DOL, STAR-DELTA, ATS, SOFT STARTER, and VFD. Main pump,
         <p class="text-muted">
 Often known as VFD Based Control Panels, VFD panels control feed pump and electric motor speeds. Producers of dependable, robust, and practical VFD electrical control panel components. They are widely used in drilling, pumping, and other significant machine operations. We will assist you in selecting the best items for contemporary uses. Rugged and waterproof, electrical VFD panels
         </p>
-        <div class="mt-3 d-flex align-items-center">
-        <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+          <div class="mt-3 d-flex align-items-center">
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
 
@@ -419,23 +447,25 @@ Often known as VFD Based Control Panels, VFD panels control feed pump and electr
       <div class="custom-card p-3">
         <img src="  /assets/product-img/15.png" alt=" Feeder Pillar Panel  " class="custom-img mb-3" />
         <h5 class="card-title text-dark"> Feeder Pillar Panel </h5>
-        <p class="text-muted">
+        <p class="text-muted  ">
          We are a leading producer of Feeder Pillar Panels, which are breaker panels and the initial set of switching devices on the secondary side of the transformer used to distribute power. A feeder pillar panel controls and monitors regional residential and business electricity supplies. They are the power source and storehouse for converting mains power to low-voltage electricity for residential or commercial us
         </p>
-        <div class="mt-3 d-flex align-items-center">
-          <a  data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" href="#team" class="learn-more">
-           Get a price quotes
-            <span class="arrow-btn">
-              <svg class="custom-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M7 17L17 7" />
-                <path d="M17 7H8" />
-                <path d="M17 7V16" />
-              </svg>
-            </span>
-          </a>
-        </div>
+            <div class="mt-3 d-flex align-items-center">
+  <a data-bs-toggle="modal"
+     data-bs-target="#exampleModal"
+     href="#team"
+     class="learn-more custom-price-quote-btn text-white ">
+    Get a price quote
+    <span class="arrow-btn">
+      <svg class="custom-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 17L17 7" />
+        <path d="M17 7H8" />
+        <path d="M17 7V16" />
+      </svg>
+    </span>
+  </a>
+</div>
       </div>
     </div>
   </div>

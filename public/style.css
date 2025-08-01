@@ -446,7 +446,7 @@ body {
 
 /* button color change */
 
-   
+
 
 
  /* button section css */
@@ -1934,7 +1934,7 @@ Why Our Clients Trust Us */
 
 /* about.blade */
 
-.Arch-banner {
+ .Arch-banner {
   background-image: url('assets/about.bg.jpg');
   background-size: cover;
   background-position: center;
@@ -1944,6 +1944,23 @@ Why Our Clients Trust Us */
   overflow: hidden;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
 }
+
+ 
+.Arch-banner::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+  pointer-events: none;
+}
+
+
+.Arch-banner > * {
+  position: relative;
+  z-index: 2;
+}
+
 
 
 .banner-overlay {
@@ -2428,11 +2445,77 @@ what does zelvo stand for? */
 
 /* services */
 
+/* our services */
+.scroll-container {
+  overflow-x: auto;
+  white-space: nowrap;
+  scroll-behavior: smooth;
+  padding: 10px 0;
+}
+
+.scroll-track {
+  display: inline-flex;
+}
+
+.service-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 200px;
+  height: 160px;
+  background: white;
+  border-radius: 16px;
+  margin: 0 10px;
+  padding: 20px 10px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-weight: 600;
+  transition: transform 0.3s, background 0.3s;
+}
+
+.service-item:hover {
+  background: #000;
+  transform: scale(1.05);
+}
+
+.service-item i {
+  font-size: 36px;
+  margin-bottom: 12px;
+  color: #1163fb;
+}
+
+.scroll-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.scroll-btn {
+  background: #1163fb;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  font-size: 18px;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: background 0.3s;
+}
+
+.scroll-btn:hover {
+  background: #0a4dc0;
+}
+
+
+
 
 
     .services-section {
       padding: 60px 20px;
       background: linear-gradient(to right, #e0f0ff, #fdfdfd);
+
     }
 
     .services-section h2 {
@@ -2848,7 +2931,47 @@ body:has(.difference-section) .difference-section {
 
 /* products-blade */
 
+.custom-price-quote-btn {
+    background-color: #1163fb;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 40px;
 
+    align-items: center;
+    font-weight: 600;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 14px;
+    transition: all 0.3s ease;
+  }
+
+  .custom-price-quote-btn:hover {
+    color: black;
+    background-color: #1163fb;
+    transform: scale(1.03);
+  }
+
+  .custom-price-quote-btn .arrow-btn {
+    margin-left: 10px;
+    background-color: white;
+    border-radius: 50%;
+    padding: 6px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+
+  .custom-price-quote-btn:hover .arrow-btn {
+    transform: translateX(4px);
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.6);
+  }
+
+  .custom-price-quote-btn .custom-arrow {
+    stroke: #1163fb; /* blue arrow */
+    width: 14px;
+    height: 14px;
+  }
 
     .custom-card {
       transition: transform 0.5s ease, box-shadow 0.5s ease;

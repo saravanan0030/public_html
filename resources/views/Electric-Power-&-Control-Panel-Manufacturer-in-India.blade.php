@@ -194,16 +194,18 @@
 
 
 <!-- about -->
+
 <section >
     <div class="container-fluid px-5 py-5">
         <div class="row row-cols-lg-2 row-cols-1 align-items-center justify-content-center ">
-            <div class="col pb-5">
-                <div class="text-center pe-5">
-                    <img src="assets/home/top.jpg" width="500" class="img-fluid me-5 " alt="banner">
-                </div>
+            <div class="col-lg-5 col-md-5 pb-5">
+               <div class="text-center pe-5">
+  <img src="assets/home/top.jpg" width="500" class="img-fluid me-5 dark-shadow-img" alt="banner">
+</div>
+
             </div>
-            <div class="col">
-                    <h1 class="text-center display-5F  fs-1 fw-bold mb-4"> Top Electrical Control Panel Supplier in  <i><span> Madurai</span></i></h1>
+            <div class="col-lg-6 col-md-6 ">
+                    <h1 class="text-center display-5F  fs-1 fw-bold mb-4 "> Top Electrical Control Panel Supplier in  <i><span> Madurai</span></i></h1>
 
 
                 <p>Among the top electrical control panel manufacturers, Zelvo Energy Solutions Private Limited offers
@@ -402,15 +404,15 @@
 
 
 <!-- Our Business Range -->
-<div class="container-fluid px-5 py-5">
+<div class="container-fluid  py-5 px-5">
 
-  <h1 class="text-blue text-center fw-bold  fs-1 mb-4"> <span class="text-dark">Our</span>  <i> Business Range</i></h1>
+  <h1 class="text-blue text-center fw-bold  fs-1 mb-4"> <span class="text-dark">Our</span> <i> Business Range</i></h1>
   <div class="row g-4">
 
 
     <div class="project col-sm-12 col-md-6 col-lg-4">
       <figure class="imgs">
-        <img src="assets/home/ourbusinessrange/1.png" alt="Power Control Panels">
+      <a href="https://zelvoenergy.com/services">  <img src="assets/home/ourbusinessrange/1.png" alt="Power Control Panels"></a>
         <figcaption>
           <h4 class="project-category">Power Control Panels</h4>
         </figcaption>
@@ -420,7 +422,7 @@
 
     <div class="project col-sm-12 col-md-6 col-lg-4">
       <figure class="imgs">
-        <img src="assets/home/ourbusinessrange/2.png" alt="Motor Control Centers">
+       <a href="https://zelvoenergy.com/services"> <img src="assets/home/ourbusinessrange/2.png" alt="Motor Control Centers"></a>
         <figcaption>
           <h4 class="project-category">Motor Control Centers (MCC)</h4>
         </figcaption>
@@ -430,7 +432,7 @@
 
     <div class="project col-sm-12 col-md-6 col-lg-4">
       <figure class="imgs">
-        <img src="assets/home/ourbusinessrange/3.png" alt="Solar Supporting Structure">
+       <a href="https://zelvoenergy.com/services"> <img src="assets/home/ourbusinessrange/3.png" alt="Solar Supporting Structure"></a>
         <figcaption>
           <h4 class="project-category">Solar Supporting Structure</h4>
         </figcaption>
@@ -439,7 +441,7 @@
 
     <div class="project col-sm-12 col-md-6 col-lg-4">
       <figure class="imgs">
-        <img src="assets/home/ourbusinessrange/4.png" alt="APFC Panels">
+            <a href="https://zelvoenergy.com/services"> <img src="assets/home/ourbusinessrange/4.png" alt="APFC Panels"> </a>
         <figcaption>
           <h4 class="project-category">Auto Power Factor Correction Panels</h4>
         </figcaption>
@@ -449,7 +451,7 @@
 
     <div class="project col-sm-12 col-md-6 col-lg-4">
       <figure class="imgs">
-        <img src="assets/home/ourbusinessrange/5.png" alt="Cable Tray and Accessories">
+            <a href="https://zelvoenergy.com/services"> <img src="assets/home/ourbusinessrange/5.png" alt="Cable Tray and Accessories"> </a>
         <figcaption>
           <h4 class="project-category">Cable Tray and Accessories</h4>
         </figcaption>
@@ -458,7 +460,7 @@
 
     <div class="project col-sm-12 col-md-6 col-lg-4">
       <figure class="imgs">
-        <img src="assets/home/ourbusinessrange/6.png" alt="Customized Electrical Panels">
+        <a href="https://zelvoenergy.com/services"> <img src="assets/home/ourbusinessrange/6.png" alt="Customized Electrical Panels"> </a>
         <figcaption>
           <h4 class="project-category">Customized Electrical Control Panels</h4>
         </figcaption>

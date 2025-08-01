@@ -1,57 +1,49 @@
 <!-- footer sec -->
 
 
-<section class="py-5 rounded-md-5 rounded-5 m-md-5 m-2 mx-2  mx-5" style="  background: rgba(0, 0, 0, 0) linear-gradient(311deg, #ebecf0 0%, #ebecf0 100%) 0% 0% no-repeat padding-box;;">
+<section class="py-5 rounded-md-5 rounded-5 m-md-5 m-2 mx-2 px-2 mx-5" style=" background:black; no-repeat; padding-box;">
         <div class="container">
             <div class="row">
                 <div class="py-5">
-                    <img src="\assets\logo.png" width="100" class="img-fluid" alt="logo">
+                    <img src="\assets\logo.png" width="100" class="img-fluid ms-lg-5" alt="logo">
                 </div>
             </div>
             <div class="row py-2">
-                <div class="col-lg-4 col-12  ">
-                    <h2 class="text-blue">Zelvo Energy Solutions Private Limited</h2>
-                    <p class="text-block fs-10 "> Zelvo Energy Solutions Private Limited (ZESPL) is your reliable
+                <div class="col-lg-4 col-12 ms-lg-5 ">
+                    <h2 class="fw-bold fs-2 animated-banner-text">Zelvo Energy Solutions Private Limited</h2>
+                    <p class="text-white fs-10 "> Zelvo Energy Solutions Private Limited (ZESPL) is your reliable
                         partner in the energy sector, offering end-to-end solutions from inception to execution. We
                         excel in delivering advanced infrastructure for new developments, engineering construction, and
                         industrial maintenance. Our capabilities include specialized services and the supply of a
                         diverse range of electrical and construction materials, with a dedicated emphasis on renewable
                         energy. At ZESPL, we are passionate about driving sustainable innovation to power the future.
                         Partner with us to illuminate the path toward a cleaner, greener tomorrow.</p>
-                    <div class="pb-4">
-                        <h6 class="text-blue fs-5">Follows Us</h6>
-                        <div>
-                            <a href="https://www.facebook.com/share/1AEJM1CeMr/"><i class="bi bi-facebook text-dark fs-5 "></i></a>
-                            <a href="https://www.instagram.com/zelvoenergyofficial?igsh=MW56YWs2cmtja2F3dQ=="><i class="bi bi-instagram mx-2  text-dark  fs-5"></i></a>
-                            <a href="https://x.com/zelvoenergy"><i class="bi bi-twitter-x me-2 text-dark  fs-5"></i></a>
-                            <a href="https://www.linkedin.com/company/zelvo-energy-solution-pvt-ltd/"><i class="bi bi-linkedin text-dark  fs-5"></i></a>
-                        </div>
-                    </div>
+
 
 
 
                 </div>
-                <div class="col-lg-2 col-md-6 col-12 ">
+                <div class="col-lg-2 col-md-6 col-12 mx-lg-5  ">
                     <div class="ms-lg-5 m-0">
-                        <h3 class="text-blue">Quick Links</h3>
+                        <h3 class="text-white ">Quick Links</h3>
                         <ul class="list-unstyled">
                             <li class="text-white py-2">
-                                <a href="/home" class="text-decoration-none text-dark ">Home</a>
+                                <a href="/home" class="text-decoration-none text-white fs-10">Home</a>
                             </li>
                             <li class="text-white py-2">
-                                <a href="/services" class="text-decoration-none text-dark  ">Services</a>
+                                <a href="/services" class="text-decoration-none text-white fs-10 ">Services</a>
                             </li>
                             <li class="text-white py-2">
-                                <a href="/engineeringsolutions" class="text-decoration-none text-dark  ">Products</a>
+                                <a href="/engineeringsolutions" class="text-decoration-none text-white fs-10  ">Products</a>
                             </li>
                             <li class="text-white py-2">
-                                <a href="/contact-us" class="text-decoration-none text-dark  ">Contact Us</a>
+                                <a href="/contact-us" class="text-decoration-none text-white  fs-10">Contact Us</a>
                             </li>
                                   <li class="text-white py-2">
-                                <a href="/about" class="text-decoration-none text-dark opacity-75">About us</a>
+                                <a href="/about" class="text-decoration-none text-white fs-10">About us</a>
                             </li>
                                  <li class="text-white py-2">
-                                <a href="/Our_CEO" class="text-decoration-none text-dark opacity-75">Our CEO</a>
+                                <a href="/Our_CEO" class="text-decoration-none text-white fs-10 ">Our CEO</a>
                             </li>
 
                         </ul>
@@ -62,23 +54,23 @@
 </div> --}}
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-12 ">
+                <div class="col-lg-4 col-md-6 col-12 ms-lg-1">
                     <div class="me-lg-5 m-0">
-                        <h3 class="text-blue">Contact Us</h3>
+                        <h3 class="text-white">Contact Us</h3>
                         <ul class="list-unstyled">
-                            <li class="text-dark py-2">
+                            <li class="text-white py-2">
                                 <h6>Company Location</h6>
-                                <p class="fs-10 opacity-75">Zelvo Energy Solution Pvt LtdNo.150/1B, Nethaji Nagar,
+                                <p class="fs-10 ">Zelvo Energy Solution Pvt LtdNo.150/1B, Nethaji Nagar,
                                     Thanakkankulam Main Road,
                                     Thirunagar(PO), Madurai, Tamil Nadu, India, Zip – 625 006</p>
                             </li>
-                            <li class="text-dark py-2">
+                            <li class="text-white py-2">
                                 <h6>Call</h6>
-                                <p class="fs-10 opacity-75"> +91 9600 888 600</p>
+                                <p class="fs-10 "> +91 9600 888 600</p>
                             </li>
-                            <li class="text-dark py-2">
+                            <li class="text-white py-2">
                                 <h6>Email</h6>
-                                <p class="fs-10 opacity-75">gsr@zelvoenergy.com | business@zelvoenergy.com </p>
+                                <p class="fs-10 ">gsr@zelvoenergy.com | business@zelvoenergy.com </p>
                             </li>
 
                         </ul>

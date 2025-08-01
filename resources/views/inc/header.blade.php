@@ -5,7 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zelvo Engineering</title>
+    <meta name="description" content="Zelvo Engineering - Innovating for a Sustainable Future">
+    <meta name="keywords" content="Zelvo, Engineering, Sustainable, Future, Innovation">
+    <meta name="author" creater="saravanan k" gmail="k.saravanan0030@gmail.com" portfolio="https://ksaravananportfolio.netlify.app/" content number="8667622002">
     <!-- style -->
+
     <link rel="stylesheet" href="style.css">
 
     <!-- bootstrap -->
@@ -161,14 +165,6 @@
       }
     });
   });
-
-
-
-
-
-
-
-
 
 </script>
 
@@ -483,8 +479,8 @@
     }
      .btn-close{
        position: absolute;
-       top:10px;
-       right: 10px;
+       top:1px;
+       right: 1px;
     }
 
 
